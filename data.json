@@ -65,5 +65,10 @@
   "blacklist": [],
   "user_group_count": {
     "7102906106": 1
+  },
+  "cooldowns": {
+    "share": {
+      "6950237410": 1769322607
+    }
   }
 }
