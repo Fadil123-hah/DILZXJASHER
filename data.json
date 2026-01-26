@@ -115,7 +115,7 @@
   },
   "settings": {
     "cooldown": {
-      "default": 60
+      "default": 1
     }
   }
 }
