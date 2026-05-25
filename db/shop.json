@@ -629,5 +629,18 @@
     "fromUser": 8010874241,
     "fromUsername": null,
     "at": 1779707315942
+  },
+  {
+    "id": "sc_1779707368406_8333",
+    "name": "5 6174599045206516261",
+    "price": 273,
+    "desc": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: 5_6174599045206516261.zip\n┗ 💸 Harga: 500,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAI8rmoULefxd7S54ouMzOtFZK9OTfPuAAJxJgACfV3AVfPQnuBIYyavOwQ"
+    },
+    "fromUser": 8010874241,
+    "fromUsername": null,
+    "at": 1779707368406
   }
 ]
