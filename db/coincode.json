@@ -963,7 +963,9 @@
   "wzco6zhwb643": {
     "amount": 100,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8240184356
+    ],
     "expired": false,
     "at": 1779707941880,
     "auto": true,
