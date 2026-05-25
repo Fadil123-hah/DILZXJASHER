@@ -1602,7 +1602,7 @@
       8348886175,
       7978883597
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1779714157757
   },
@@ -1659,5 +1659,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1779771757771
+  },
+  "wzgaw894laxv": {
+    "namaItem": "UK ranges 4477815 numbers (12)",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAInsWoRjoGMCQ1-X9KvUhA_1lDUM7JnAAKwHgACh4OQVJw0H6Me2EG0OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1779801576265
   }
 }
