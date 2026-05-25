@@ -972,7 +972,9 @@
   "wzcot7l58w2w": {
     "amount": 75,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8240184356
+    ],
     "expired": false,
     "at": 1779707981264,
     "auto": true,
