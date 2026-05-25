@@ -616,5 +616,18 @@
     "fromUsername": "@AboutAzmii",
     "at": 1779675116881,
     "sold": 1
+  },
+  {
+    "id": "sc_1779707315942_8370",
+    "name": "Bot+Free+Auto+Order",
+    "price": 246,
+    "desc": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: Bot+Free+Auto+Order.zip\n┗ 💸 Harga: 500,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAI8oWoULbKx8DdE6sQ9yv4-SkbZAtehAAItIgACHpWwVeKv_Px2n1gPOwQ"
+    },
+    "fromUser": 8010874241,
+    "fromUsername": null,
+    "at": 1779707315942
   }
 ]
