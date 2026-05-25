@@ -1,0 +1,1663 @@
+{
+  "egg_python": {
+    "namaItem": "EGG PYTHON",
+    "isiItem": "(Tidak ada isi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIKqGmDQGkX9jlnJ2HbE_61wFYZEpKiAALuHAACHtsgVB6aHK3j6pnoOAQ"
+    },
+    "maxClaim": 20,
+    "claimedBy": [
+      8022462704,
+      8593734364,
+      6901735963,
+      6641356249,
+      6362056930,
+      7233292382,
+      7630656164,
+      1082147129,
+      8151350721,
+      8228835651,
+      6127020744,
+      6807264289,
+      8215047074,
+      8483832365,
+      8178756754,
+      8027470551,
+      7911517141,
+      6925198823,
+      7589592042,
+      6259598730
+    ],
+    "expired": true
+  },
+  "sc_md_tele": {
+    "namaItem": "SC MD VIA TELE",
+    "isiItem": "(Tidak ada isi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIL9WmDS_nm6l4fZ2HLx3UBd0RxbulsAAKvHQAC2N6AV62nSXrOXPKYOAQ"
+    },
+    "maxClaim": 20,
+    "claimedBy": [
+      8312554792,
+      8228835651,
+      8244999735,
+      1689365764,
+      8022462704,
+      8516926902,
+      8593734364,
+      6362056930,
+      8355166220,
+      6823783086,
+      7589592042,
+      8543431016,
+      1151797816,
+      6259598730,
+      6901735963,
+      8483832365,
+      8178756754,
+      8118119361,
+      8377270067,
+      7516691332
+    ],
+    "expired": true
+  },
+  "sc_bug_x_ddos": {
+    "namaItem": "SC BUG X DDOS VIA TELE",
+    "isiItem": "(Tidak ada isi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIL8mmDS_kTGIv3IvmFOxn6IlyXYSMsAAKgFQACwWDxV3cHY36nNBlYOAQ"
+    },
+    "maxClaim": 20,
+    "claimedBy": [
+      8555584059,
+      6362056930,
+      8215047074,
+      7921908338,
+      1151797816,
+      7589592042,
+      7666908303,
+      8244999735,
+      8593734364,
+      7095050213,
+      8543431016,
+      8469908046,
+      6259598730,
+      6901735963,
+      8151350721,
+      1689365764,
+      8483832365,
+      7540820327,
+      8516926902,
+      7901239452
+    ],
+    "expired": true
+  },
+  "auto_order_ke2": {
+    "namaItem": "SC AUTO ORDER NO ENC",
+    "isiItem": "(Tidak ada isi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIL9GmDS_kwjegKV31IpY0NSZoQQhCDAAKbHAACN0GJVqO_XDi-m81EOAQ"
+    },
+    "maxClaim": 50,
+    "claimedBy": [
+      8151350721,
+      7589592042,
+      1082147129,
+      6362056930,
+      8042690821,
+      8244999735,
+      7957402193,
+      8302979849,
+      1412280896,
+      8178756754,
+      8516926902,
+      8555584059,
+      8543431016,
+      8439862263,
+      8483832365,
+      7789451986,
+      8118119361,
+      7911517141,
+      8567253068,
+      7233292382,
+      7540820327,
+      6823783086,
+      6641356249,
+      8228835651,
+      8377270067,
+      6037319980,
+      7095050213,
+      7516691332,
+      7533871538,
+      8430574643,
+      7888205320,
+      7711405045,
+      7446789155,
+      8469908046,
+      7267253416,
+      6656939294,
+      8233011887,
+      6879494661,
+      7588079683,
+      6674039181,
+      1931103501,
+      6640007661,
+      8228470299,
+      5553818775
+    ],
+    "expired": false
+  },
+  "cpanel_4srv": {
+    "namaItem": "CPANEL 4 SERVER",
+    "isiItem": "(Tidak ada isi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIO82mDWJ4nRG83s0BeWCt6ziXFTKUpAAJaGQACGci5VYHQlU4LPCNMOAQ"
+    },
+    "maxClaim": 20,
+    "claimedBy": [
+      8302979849,
+      8042690821,
+      7589592042,
+      6362056930,
+      8178756754,
+      8439862263,
+      8483832365,
+      6127020744,
+      8318269219,
+      8118119361,
+      8377270067,
+      7095050213,
+      7516691332,
+      7533871538,
+      8244999735,
+      7921908338,
+      8469908046
+    ],
+    "expired": false
+  },
+  "otp": {
+    "namaItem": "SC OTP",
+    "isiItem": "(Tidak ada isi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIL82mDS_lR3zAwAAFk25zcTeFNVZnAWwACuRgAAhGuyVZrN4NWfHxqiDgE"
+    },
+    "maxClaim": 10,
+    "claimedBy": [
+      8244999735,
+      6362056930,
+      8215047074,
+      6993072883,
+      8118119361,
+      8178756754,
+      6127020744,
+      6901735963,
+      8483832365,
+      7901239452
+    ],
+    "expired": true
+  },
+  "egg_bot": {
+    "namaItem": "EGG BOT WA TELE",
+    "isiItem": "(Tidak ada isi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIQM2mDzjoWFXP0dAXJF0l_FFrqMztpAALpHAAC9wQYVPrnBY5NrlaoOAQ"
+    },
+    "maxClaim": 15,
+    "claimedBy": [
+      8151350721,
+      6362056930,
+      8377270067,
+      8430574643,
+      8331505413,
+      6127020744,
+      8543431016,
+      6993072883,
+      7921908338,
+      7711405045,
+      7233292382,
+      8118119361,
+      1082147129,
+      7540820327,
+      6921519534
+    ],
+    "expired": true
+  },
+  "sc_rekap_dadu": {
+    "namaItem": "SC REKAP DADU",
+    "isiItem": "(Tidak ada isi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIQWmmD0Gu2r16js3d0JsJOlKHTpOB3AAL2HAACfU-BVzhEgOw0tApxOAQ"
+    },
+    "maxClaim": 30,
+    "claimedBy": [
+      8555584059,
+      7540820327,
+      8254832892,
+      7533871538,
+      8377270067,
+      8483832365,
+      6362056930,
+      6641356249,
+      6127020744,
+      8430574643,
+      8118119361,
+      1931103501,
+      6656939294,
+      7267253416,
+      7098273651
+    ],
+    "expired": false
+  },
+  "auto_report": {
+    "namaItem": "SC AUTO REPORT TELEGRAM",
+    "isiItem": "(Tidak ada isi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIQWWmD0Gul7xNOH9Dzv868_ZOWIQ_0AAIyHwAChqnJV-LqpBEUBgZfOAQ"
+    },
+    "maxClaim": 100,
+    "claimedBy": [
+      8555584059,
+      8228835651,
+      6925198823,
+      7540820327,
+      8542493049,
+      8254832892,
+      8439862263,
+      7533871538,
+      8144068642,
+      1151797816,
+      8506319493,
+      1132269038,
+      6674071478,
+      6901735963,
+      8377270067,
+      6037319980,
+      8117217103,
+      8483832365,
+      7516691332,
+      6362056930,
+      8516926902,
+      7589592042,
+      7921908338,
+      6127020744,
+      8430574643,
+      7588079683,
+      8543431016,
+      7918089840,
+      6338875017,
+      7888205320,
+      8302979849,
+      7233292382,
+      8118119361,
+      6656939294,
+      8233011887,
+      1082147129,
+      8178756754,
+      8036813874,
+      1931103501,
+      7098273651,
+      7994557501
+    ],
+    "expired": false
+  },
+  "sc_give_away": {
+    "namaItem": "SC GIVE AWAY V1",
+    "isiItem": "(Tidak ada isi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAISqGmESmewdge8ejJXHFAZQ8N2o5tSAAKKHQAC__YRVIuZxvgpntR4OAQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8107434329,
+      8027470551,
+      8377270067,
+      8022462704,
+      8228835651
+    ],
+    "expired": true
+  },
+  "cpanel_5srv": {
+    "namaItem": "CPANEL 5 SERVER",
+    "isiItem": "(Tidak ada isi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIS5WmEYo-ZXX2B-0_14y-fX3aBuOxmAAKaHAACN0GJVv3LWkvcnkAPOAQ"
+    },
+    "maxClaim": 50,
+    "claimedBy": [
+      6362056930,
+      8254832892,
+      1082147129,
+      8466058210,
+      8487177130,
+      8144068642,
+      8302979849,
+      6921519534,
+      6901735963,
+      8483832365,
+      8377270067,
+      8118119361,
+      6424965571,
+      6640007661,
+      7080437973,
+      6925198823,
+      6641356249,
+      8178756754,
+      7512885047,
+      6805818609,
+      6127020744,
+      7711405045,
+      7095050213,
+      7540820327,
+      8430574643,
+      7267253416,
+      1943855583,
+      7233292382,
+      6656939294,
+      7589592042,
+      8506319493,
+      8233011887,
+      8543431016,
+      8036813874,
+      8228835651,
+      7966176004,
+      1931103501
+    ],
+    "expired": false
+  },
+  "protect": {
+    "namaItem": "SC PROTECT",
+    "isiItem": "(Tidak ada isi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIUz2mEi_Kje8DXsbFpwIvr1x65Ig5sAAJ-GQACdgNQVxcdS0o_Ey4tOAQ"
+    },
+    "maxClaim": 30,
+    "claimedBy": [
+      8254832892,
+      6656939294,
+      8118119361,
+      6640007661,
+      8506319493,
+      8587993213,
+      8377270067,
+      6463081656,
+      8178756754,
+      6362056930,
+      7540820327,
+      7267253416,
+      8228835651,
+      1082147129,
+      7711405045,
+      7589592042,
+      6879494661,
+      7095050213,
+      8430574643,
+      7588079683,
+      6127020744,
+      6921519534,
+      8475677371,
+      7911517141,
+      7259862136,
+      6037319980,
+      8483832365,
+      8027470551,
+      7233292382,
+      8022462704
+    ],
+    "expired": true
+  },
+  "fix_merah": {
+    "namaItem": "SC FIX MERAH GATAU WORK KAGAK",
+    "isiItem": "(Tidak ada isi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIUzWmEi_LDbac7cE9HcRdyk538zwFqAALgGAACJuuRVkamZkWfNvdPOAQ"
+    },
+    "maxClaim": 25,
+    "claimedBy": [
+      6901735963,
+      8254832892,
+      8377270067,
+      1412280896,
+      7680084211,
+      6993072883,
+      7540820327,
+      1082147129,
+      7516691332,
+      6362056930,
+      7589592042,
+      8543431016,
+      8483832365,
+      8475677371,
+      7512885047,
+      6641356249,
+      8506319493,
+      8196518180,
+      6656939294,
+      7267253416,
+      8022462704,
+      1931103501,
+      7233292382,
+      7098273651,
+      6424965571
+    ],
+    "expired": true
+  },
+  "web_pishing": {
+    "namaItem": "WEB PISHING",
+    "isiItem": "(Tidak ada isi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIZI2mFb4pO_tZd2UsxkydI6dJDTi5MAAIUIAAC3M0oVnrWAhFbO7pAOAQ"
+    },
+    "maxClaim": 50,
+    "claimedBy": [
+      8196518180,
+      6362056930,
+      8377270067,
+      7711405045,
+      8483832365,
+      6424965571,
+      7966176004,
+      8233011887,
+      7911517141,
+      8244999735,
+      6901735963,
+      8543431016,
+      7588079683,
+      6127020744,
+      7267253416,
+      6656939294,
+      6921519534,
+      8036813874,
+      1082147129,
+      1689365764,
+      8531908903,
+      7540820327,
+      8302979849,
+      8151350721,
+      7589592042,
+      8178756754,
+      7098273651
+    ],
+    "expired": false
+  },
+  "create_web_sc": {
+    "namaItem": "SC CREATE WEB",
+    "isiItem": "(Tidak ada isi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIZJGmFb4oS9K6pk20wCbRpn87VEAKHAAJ7GQACdgNQVxz2p-AAAXNzVTgE"
+    },
+    "maxClaim": 20,
+    "claimedBy": [
+      8201297938,
+      7911517141,
+      8233011887,
+      6037319980,
+      6362056930,
+      7589592042,
+      8483832365,
+      1931103501,
+      7569422438,
+      8377270067,
+      8228470299,
+      6993072883,
+      7267253416,
+      7350953370,
+      7540820327,
+      7512885047,
+      8151350721,
+      6640007661,
+      8178756754,
+      7098273651
+    ],
+    "expired": true
+  },
+  "sc_install": {
+    "namaItem": "SC INSTAL PANEL",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: Sc Install Panel.zip\n┗ 💸 Harga: 1,000,000,000,000,000,000,000,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIblGmF9LNwbMx3rM6arU04-qSHotvOAALTHgACBUfpVW9iC4kl-cgCOAQ"
+    },
+    "maxClaim": 20,
+    "claimedBy": [],
+    "expired": false
+  },
+  "sc_installpanel": {
+    "namaItem": "SC INSTAL PANEL",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: Sc Install Panel.zip\n┗ 💸 Harga: 1,000,000,000,000,000,000,000,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIblGmF9LNwbMx3rM6arU04-qSHotvOAALTHgACBUfpVW9iC4kl-cgCOAQ"
+    },
+    "maxClaim": 20,
+    "claimedBy": [],
+    "expired": false
+  },
+  "sc_instalggl": {
+    "namaItem": "SC INSTAL PANEL",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: Sc Install Panel.zip\n┗ 💸 Harga: 1,000,000,000,000,000,000,000,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIblGmF9LNwbMx3rM6arU04-qSHotvOAALTHgACBUfpVW9iC4kl-cgCOAQ"
+    },
+    "maxClaim": 20,
+    "claimedBy": [],
+    "expired": false
+  },
+  "scinstall_panel": {
+    "namaItem": "SC INSTAL PANEL",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: Sc Install Panel.zip\n┗ 💸 Harga: 1,000,000,000,000,000,000,000,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIblGmF9LNwbMx3rM6arU04-qSHotvOAALTHgACBUfpVW9iC4kl-cgCOAQ"
+    },
+    "maxClaim": 20,
+    "claimedBy": [],
+    "expired": false
+  },
+  "sc_install_panel": {
+    "namaItem": "SC INSTAL PANEL",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: Sc Install Panel.zip\n┗ 💸 Harga: 1,000,000,000,000,000,000,000,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIblGmF9LNwbMx3rM6arU04-qSHotvOAALTHgACBUfpVW9iC4kl-cgCOAQ"
+    },
+    "maxClaim": 100,
+    "claimedBy": [
+      8430574643,
+      1412280896,
+      7267253416,
+      8198223104,
+      7911517141,
+      6640007661,
+      7853059207,
+      7354501374,
+      8555584059,
+      1082147129,
+      6805818609,
+      8293220580,
+      8228470299,
+      1931103501,
+      7589592042,
+      7273820780,
+      8377270067,
+      5553818775,
+      6993072883,
+      7540820327,
+      6641356249,
+      7350953370,
+      7533871538,
+      6362056930,
+      8178756754,
+      6925198823,
+      7516691332,
+      8244999735,
+      7233292382,
+      6037319980,
+      6656939294,
+      7446789155,
+      8302979849,
+      8042690821,
+      8531908903
+    ],
+    "expired": false
+  },
+  "sc give away v1": {
+    "namaItem": "SC GIVE AWAY V1",
+    "isiItem": "(Tidak ada isi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIdOGmGoasiyV4Y6mf5Kiolau5LrNbaAAKKHQAC__YRVIuZxvgpntR4OgQ"
+    },
+    "maxClaim": 15,
+    "claimedBy": [
+      8196518180,
+      8254832892,
+      6745508980,
+      7771718942,
+      1151797816,
+      7136326051,
+      7911517141,
+      8542493049,
+      7512885047,
+      6362056930,
+      7589592042,
+      8151350721,
+      5553818775,
+      8144068642,
+      7540820327
+    ],
+    "expired": true
+  },
+  "apk telegram premium": {
+    "namaItem": "APK TELEGRAM PREMIUM",
+    "isiItem": "📱 Telegram Premium Mod APK\n🤩 Version:- v12.2.11\n🛠 Click here if you are facing Login issue\n💻  Features & Mod Info:\n✅  No Ads / Anti Text delete \n✅  Premium app icons\n✅  10 Pinned chats\n✅  10 favorite stickers\n✅  20 folders\n✅  200 chats per folder\n✅  Advanced chat management\n✅  No Need to uninstall original telegram \n👑 Does This mod increase File size? No, Because Those are server sided\n⌲ @EpicModder😎\nShare It With Your Friends",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIfN2mHMS6rmATAxjZvDXOwdY0ylTVfAAJIGwACIol5VvF7Z7_ac9q-OgQ"
+    },
+    "maxClaim": 40,
+    "claimedBy": [
+      6362056930,
+      7540820327,
+      6993072883,
+      7589592042,
+      8254832892,
+      7911517141,
+      7994557501,
+      8226094992,
+      6127020744,
+      8244999735,
+      8144068642,
+      5553818775,
+      6674071478,
+      6037319980,
+      8233011887,
+      8377270067,
+      7098273651,
+      8531908903,
+      6656939294,
+      7080437973,
+      8430574643,
+      7354501374,
+      7121558922,
+      8042690821,
+      7259862136,
+      7267253416,
+      8178756754,
+      8027470551,
+      8228470299,
+      6424965571,
+      8151350721,
+      8373866165,
+      7711405045,
+      8466058210
+    ],
+    "expired": false
+  },
+  "walzganteng": {
+    "namaItem": "GATAU SC APA INTINYA WA BANNED BOT FINAL",
+    "isiItem": "(Tidak ada isi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIhG2mIkz7j70kYj0s-xsVgy9ygTAwhAAJgHwACS4KBVz25Cd1Eb_kdOgQ"
+    },
+    "maxClaim": 30,
+    "claimedBy": [
+      8233011887,
+      8377270067,
+      6656939294,
+      8178756754,
+      7516691332,
+      7589592042,
+      7267253416,
+      5553818775,
+      6362056930,
+      7121558922,
+      8151350721,
+      7911517141,
+      6424965571,
+      7098273651
+    ],
+    "expired": false
+  },
+  "wzgaavufghrm": {
+    "namaItem": "PRIVATE NEW ( VVIP )",
+    "isiItem": "PRIVATE NEW ( VVIP )",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIoOGmMpyeI0Ukfe9RqqjnW8D7vF0RIAALdHQACjVzRV-J-7KVJmk92OgQ"
+    },
+    "maxClaim": 1,
+    "claimedBy": [
+      5553818775
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1771813373226
+  },
+  "wzgak3mzs7pf": {
+    "namaItem": "Auto Order Kyu V2 Buyer(3)",
+    "isiItem": "Auto Order Kyu V2 Buyer(3)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIk2GmMgcku822Bx4Jlrt8VnOz046LIAAL-GgACRsSAV2_5S22pNfNfOgQ"
+    },
+    "maxClaim": 1,
+    "claimedBy": [
+      5553818775
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1771814482891
+  },
+  "wzgaxl25gywn": {
+    "namaItem": "ANGKASA GACHA V0.9",
+    "isiItem": "ANGKASA GACHA V0.9",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIjQ2mLPIbLY2Lh25L2QI50rQhzdkkOAAKbHAACuVDRVgqanMicHPlCOgQ"
+    },
+    "maxClaim": 1,
+    "claimedBy": [
+      6362056930
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1771815202955
+  },
+  "wzgajhk6wgxr": {
+    "namaItem": "𝗕𝗔𝗦𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗜𝗡𝗩𝗜𝗖𝗧𝗨𝗦11",
+    "isiItem": "𝗕𝗔𝗦𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗜𝗡𝗩𝗜𝗖𝗧𝗨𝗦11",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAI7y2maeBRJ1fZ4Em3UXMuNRdbGJHzVAAIyHgACk2ygVVx3o5EZGv3LOgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8151350721,
+      1412280896,
+      7506840463,
+      8430574643,
+      7110163629
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1771825589072
+  },
+  "wzgabt5yemfp": {
+    "namaItem": "Miyako V6 (1)(1)",
+    "isiItem": "Miyako V6 (1)(1)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIoHGmMprVRYZAnugjYfFJO9VPttqYFAAIEHwACt6MBVJ1CpgmAmlOuOgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8196518180,
+      7888205320,
+      6879051207,
+      5705956133,
+      7711405045
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1771839989094
+  },
+  "wzgauu63edaq": {
+    "namaItem": "JASHER NELLA V1.0",
+    "isiItem": "JASHER NELLA V1.0",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAI7xWmaeBTAkob6thbygWydajsl19K_AAI7HQACf1ExVVpkuG8UIwNlOgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8196518180,
+      6442449177,
+      7259862136,
+      8465715881,
+      8430574643
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1771858854824
+  },
+  "wzgajlmdsfl5": {
+    "namaItem": "CONTROL PANEL",
+    "isiItem": "CONTROL PANEL",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIk0mmMgcnio26r7srzQxj9ipw1mlq1AAL5GwACYPXIVS9ZQToHUV-_OgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8542493049,
+      8430574643,
+      7198258427,
+      5553818775,
+      8377270067
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1771873254831
+  },
+  "wzga7erzqqw4": {
+    "namaItem": "PROJECT SC @KenzoxyOfficiall(1)",
+    "isiItem": "PROJECT SC @KenzoxyOfficiall(1)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIp4mmNRmbLzgEkG0c90OjqrGiQUgURAAI0HgACk2ygVaIjjKw9HKPBOgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8151350721,
+      7233292382,
+      8373866165,
+      7259862136,
+      1412280896
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1771887654838
+  },
+  "wzgav5wzew2w": {
+    "namaItem": "SC order otp otomatis (2)",
+    "isiItem": "Script dari user (@aresxkamu)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgQAAxkBAAJIgWmdeSZLc4bkv7UicT3jCB5s05F2AALhHQACyO_pULRCho5Dliz1OgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      6127020744,
+      8377270067,
+      1412280896,
+      5553818775,
+      7233292382
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772020849741
+  },
+  "wzga5zxf788v": {
+    "namaItem": "SC CPANEL BY POXXSII",
+    "isiItem": "SC CPANEL BY POXXSII",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIkV2mMf7apcGPjDWB_I_1H61WNmXJ2AAJgHQACPaXwV_YeLzJJkT8xOgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      1412280896,
+      7589592042,
+      7259862136,
+      8042690821,
+      6925198823
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772030980302
+  },
+  "wzga53nqgwrv": {
+    "namaItem": "EGG BOT WA TELE",
+    "isiItem": "EGG BOT WA TELE",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIjVmmLPIZshc1trP2jLtt9AAH31i3QTwAC6RwAAvcEGFT65wWOTa5WqDoE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      7618830104,
+      6879051207,
+      8391523804,
+      8178756754,
+      7198258427
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772045380314
+  },
+  "wzga5e8qycsx": {
+    "namaItem": "CapanelAll29",
+    "isiItem": "Script dari user (@ipann_asekkk)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAJIxmmdhWnbO8s5o5Sr8O0E1I-SnibqAAKcGgACgOjhVMEPFWnHQ3C8OgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      7110163629,
+      7259862136,
+      8042690821,
+      8567253068,
+      6925198823
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772059780315
+  },
+  "wzgaa5gkwe42": {
+    "namaItem": "CPANEL BUTTON(3)",
+    "isiItem": "CPANEL BUTTON(3)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIoNGmMpyflpmg1qOtgey2Vjkc_IROnAAJhHwACS4KBV9Enk__U6EFQOgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8543431016,
+      5553818775,
+      6362056930,
+      6925198823,
+      6442449177
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772074180325
+  },
+  "wzgaqkeubjq2": {
+    "namaItem": "Script MD X Jasher V1.0",
+    "isiItem": "Script dari user (@RumahOtpp)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAJLBGmdnJNdYNKp66ozamYwQi9qgBuVAALAGQACzNPoVL0fxRgOMc1QOgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      1689365764,
+      7198258427,
+      8178756754,
+      8151350721,
+      6879051207
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772088580330
+  },
+  "wzgaz83bz9v5": {
+    "namaItem": "all SC by zex(1)",
+    "isiItem": "all SC by zex(1)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAI7v2maeBQ7cztsvMeK8xSlGF0dNEM9AAJKFwACaRlIVtuv16iVq91wOgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      6416853093,
+      8151350721,
+      7233292382,
+      7198258427,
+      6656939294
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772102980359
+  },
+  "wzga8n2t8rmq": {
+    "namaItem": "base web cpanel keche",
+    "isiItem": "Script dari user (@Vxyzzz_open)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAJQcWmek4nPCftAQJ3v_F1M79qmBEGyAAIKIwACr334VMACvdXXnTn7OgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772117380350
+  },
+  "wzgapvax8a6r": {
+    "namaItem": "Base VenedettaGensutzuV4.0 (4)",
+    "isiItem": "Script dari user (@RumahOtpp)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAJLAAFpnZxi0kUl0JKOj3DgAAGy8ySvKvIAAr8ZAALM0-hUwpwAAc77tI92OgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8542493049,
+      8587993213,
+      7198258427,
+      8178756754
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772131780385
+  },
+  "wzgataanmnne": {
+    "namaItem": "Base VenedettaGensutzuV4.0 (4)",
+    "isiItem": "Script dari user (@RumahOtpp)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAJLAAFpnZxi0kUl0JKOj3DgAAGy8ySvKvIAAr8ZAALM0-hUwpwAAc77tI92OgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8178756754
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772146180356
+  },
+  "wzgaw45nqv7y": {
+    "namaItem": "Base VenedettaGensutzuV4.0 (4)",
+    "isiItem": "Script dari user (@RumahOtpp)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAJLAAFpnZxi0kUl0JKOj3DgAAGy8ySvKvIAAr8ZAALM0-hUwpwAAc77tI92OgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8378035497,
+      6879051207,
+      8215047074,
+      6823783086,
+      7198258427
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772160580362
+  },
+  "wzga8qxbbknd": {
+    "namaItem": "banyak no enc+base tele (1)(1)",
+    "isiItem": "banyak no enc+base tele (1)(1)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAI7xmmaeBRGOLKkix_LkY8OpSXq_xz3AAIdHgACk2ygVaebge7x8X1POgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      7198258427,
+      8178756754,
+      8378035497,
+      8391523804,
+      6656939294
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772177838077
+  },
+  "wzgap8t9wm3e": {
+    "namaItem": "Project ddos (1)",
+    "isiItem": "Project ddos (1)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIp7GmNRmbv4HzQwKRWnE0PZUa28h5MAALFGAACEiFgVOHc5lSkkR_EOgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8378035497,
+      7198258427,
+      7995916116,
+      6424965571,
+      6823783086
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772192238083
+  },
+  "wzgamxslfmam": {
+    "namaItem": "SCRIPT CPANEL 5 SERVER ( VIP )",
+    "isiItem": "SCRIPT CPANEL 5 SERVER ( VIP )",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIkH2mMeSXP4dIVEQABEbxbqIsxUC6yIgACZx0AAj2l8FcRKNsZULqgqjoE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8151350721,
+      8378035497,
+      7618830104,
+      8439862263,
+      7198258427
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772206638087
+  },
+  "wzgaqdk6wgmp": {
+    "namaItem": "Sc Jaga Grup Nuxyy X Autoresbot(1)",
+    "isiItem": "Sc Jaga Grup Nuxyy X Autoresbot(1)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIkL2mMegO-WzBU54YdCYbO_E__CM6LAALmGwACCWRoVmj9Zd9q5Iu6OgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      7198258427
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772221038092
+  },
+  "wzgahgsz3xbw": {
+    "namaItem": "tools",
+    "isiItem": "tools",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIoOWmMpycKGv-MH0qMHF0jcxsg4CLuAALqHQACjVzRV1GJ-m0vpD2JOgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8196518180,
+      8378035497,
+      6442449177,
+      7198258427,
+      8178756754
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772548437991
+  },
+  "wzgaual9yz8q": {
+    "namaItem": "CONTROL PANEL",
+    "isiItem": "CONTROL PANEL",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIk0mmMgcnio26r7srzQxj9ipw1mlq1AAL5GwACYPXIVS9ZQToHUV-_OgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8228835651,
+      7198258427,
+      8042690821,
+      8178756754,
+      6823783086
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772562838012
+  },
+  "wzgadlm4k2ea": {
+    "namaItem": "sc(1)",
+    "isiItem": "sc(1)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAI7wGmaeBSp7Rkvn4hHLvuho77KGr9wAAJMFwACaRlIVubtHECSMTzlOgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8228835651,
+      8042690821,
+      8378035497,
+      8178756754,
+      7198258427
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772577238015
+  },
+  "wzga9uusdr7f": {
+    "namaItem": "SC CPANEL X MD",
+    "isiItem": "Script dari user (@RyzzAjaMe)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAJTfGmllWVAKBVEwr_7Zdfx2OjURotcAAK3GwACGIwpVf0cymT73ZPBOgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      6823783086,
+      8378035497,
+      7198258427,
+      6656939294
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772591638018
+  },
+  "wzgat97jwy9n": {
+    "namaItem": "SC AUTO ORDER (no enc)",
+    "isiItem": "SC AUTO ORDER (no enc)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkDAAI1b2mY99JgQBLR1YbZ2_uKx7zdBBwuAAKbHAACN0GJVqO_XDi-m81EOgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8378035497,
+      8042690821,
+      6656939294,
+      7198258427,
+      8125506794
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772606038114
+  },
+  "wzga7gsuv54j": {
+    "namaItem": "jasher",
+    "isiItem": "jasher",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAI70GmaeBTXbrt-QfdezbQrmH8nUd_PAAKfFwACIs9AVv6AWMFpA9eIOgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      1412280896,
+      8151350721,
+      6656939294,
+      7198258427,
+      6424965571
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772620438025
+  },
+  "wzga3xq8z7gs": {
+    "namaItem": "SC GACHA DO",
+    "isiItem": "SC GACHA DO",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIjUWmLPIYeL-o_K1JqyEIiWQHpb37FAAJfHwACS4KBV8mAtHTuxDdvOgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      5553818775,
+      6442449177,
+      7995916116,
+      8378035497,
+      7198258427
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772634838039
+  },
+  "wzga5g4uhyus": {
+    "namaItem": "sc gacha",
+    "isiItem": "sc gacha",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIp8WmNRmZPJNr6DwMud185SDSKeGz6AAKcHAACN0GJVsQDHycsUxSTOgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8378035497,
+      8151350721,
+      6362056930
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772649238035
+  },
+  "wzga9x2j3drc": {
+    "namaItem": "SC OTP",
+    "isiItem": "SC OTP",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIp8mmNRmYHsOSG_oNtHvF-w9rpK30NAAK5GAACEa7JVms3g1Z8fGqIOgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      7198258427,
+      8378035497,
+      6362056930
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772663638039
+  },
+  "wzga4vmjppu6": {
+    "namaItem": "SCRIPT CPANEL 5 SERVER ( VIP )",
+    "isiItem": "SCRIPT CPANEL 5 SERVER ( VIP )",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIkH2mMeSXP4dIVEQABEbxbqIsxUC6yIgACZx0AAj2l8FcRKNsZULqgqjoE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8378035497,
+      1082147129,
+      7198258427,
+      8228835651,
+      8151350721
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772678038062
+  },
+  "wzgabls2zyt7": {
+    "namaItem": "SC AUTO ORDER (no enc)",
+    "isiItem": "SC AUTO ORDER (no enc)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkDAAIcoWmGeEABgyyDf-ujncFITr_kKoCCAAKbHAACN0GJVqO_XDi-m81EOgQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8151350721,
+      6362056930
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1772692438076
+  },
+  "wzga2w8wv4d5": {
+    "namaItem": "unnamed (1)",
+    "isiItem": "Script dari user (@LuxcyHayyuk)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIXU2oO3DTMpExICihLJGDS7uOZ2ppSAALKIQACgeBxVBjJrPReV14wOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      7887852277,
+      7978883597
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1779453950309
+  },
+  "wzgauprs98zy": {
+    "namaItem": "unnamed (1)",
+    "isiItem": "Script dari user (@LuxcyHayyuk)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIXU2oO3DTMpExICihLJGDS7uOZ2ppSAALKIQACgeBxVBjJrPReV14wOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      7978883597
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1779468350334
+  },
+  "wzgavzf74nsb": {
+    "namaItem": "INSTAL X CPANEL BY @AboutAzmii",
+    "isiItem": "Script dari user (@AboutAzmii)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIa-GoPaPDqvG_E5FUix5P03-vY2OBNAAL6GwACf1WBVNTl-w_6mc6aOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1779482750366
+  },
+  "wzga9uym5dt4": {
+    "namaItem": "NEW V7 NAERI (1) (1)",
+    "isiItem": "NEW V7 NAERI (1) (1).zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIbhWoPkjNVeZMvDBwGXvn_4ldUdieAAAKXHgACf7l5VPOTfmH6rvqeOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8240184356
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1779496464839
+  },
+  "wzgan3u94j7b": {
+    "namaItem": "copilot bot fix",
+    "isiItem": "copilot-bot-fix.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIbmGoPkw8v2CnRNiFUKAE9NLYdIM7dAAKZHgACf7l5VMV5yg6blM-vOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1779510864845
+  },
+  "wzgap3r79wv5": {
+    "namaItem": "copilot bot fix",
+    "isiItem": "copilot-bot-fix.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIbmGoPkw8v2CnRNiFUKAE9NLYdIM7dAAKZHgACf7l5VMV5yg6blM-vOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1779526957697
+  },
+  "wzgaxvct9pp2": {
+    "namaItem": "ANGKASA GACHA V0.8 FIX",
+    "isiItem": "Script dari user (8509663776)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIW2moO0Pd1xIPU4FO9C4_mxVtGcIGMAAK_HwACf7lxVHybsQXiDcGmOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8440229178,
+      8870215366,
+      7978883597
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1779541357704
+  },
+  "wzgaz9jpvc8s": {
+    "namaItem": "CikzyV1.1 VVIP NO ENC",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIdU2oPwj0OIvdASokZxE6mxBWbpa4hAAKGHwACh4OAVObCHfonMPn_OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8870215366,
+      8440229178,
+      7978883597
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1779555757710
+  },
+  "wzgah64bameg": {
+    "namaItem": "sc nokos v2",
+    "isiItem": "Script dari user (@dliinotdev)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIbv2oPlkPxMTPY70eAPnkiXBAHwLj_AAJVIAACD-55VI4toI7p3x1eOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1779570157714
+  },
+  "wzga65u6bjrh": {
+    "namaItem": "sc nokos v2",
+    "isiItem": "Script dari user (@dliinotdev)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIbv2oPlkPxMTPY70eAPnkiXBAHwLj_AAJVIAACD-55VI4toI7p3x1eOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      5705401731,
+      7611754920,
+      7978883597,
+      8240184356
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1779584557715
+  },
+  "wzgavuc8h33s": {
+    "namaItem": "copilot bot fix",
+    "isiItem": "copilot-bot-fix.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIbmGoPkw8v2CnRNiFUKAE9NLYdIM7dAAKZHgACf7l5VMV5yg6blM-vOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      7978883597
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1779598957720
+  },
+  "wzgalzpsz37j": {
+    "namaItem": "NEW V7 NAERI (1) (1)",
+    "isiItem": "NEW V7 NAERI (1) (1).zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIbhWoPkjNVeZMvDBwGXvn_4ldUdieAAAKXHgACf7l5VPOTfmH6rvqeOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1779613357724
+  },
+  "wzgajkjpyxku": {
+    "namaItem": "hitori master (1)",
+    "isiItem": "Script dari user (@sintasan)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIcH2oPohjVsye59zWvQ8eED4051PZDAAIpHwACPNeBVHkXVn56Zka5OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      7978883597
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1779627757727
+  },
+  "wzgasy59923w": {
+    "namaItem": "SMSNumbers (33) 3",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIormoRlmtSlWoeWvFRJW5fzs9cquaTAAJUHwACh4OQVO_OFfH9wAq5OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      7978883597
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1779642157728
+  },
+  "wzgas3p8e9xb": {
+    "namaItem": "ANGKASA GACHA V0.8 FIX",
+    "isiItem": "Script dari user (8509663776)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIW2moO0Pd1xIPU4FO9C4_mxVtGcIGMAAK_HwACf7lxVHybsQXiDcGmOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1779656557731
+  },
+  "wzgav6yedubj": {
+    "namaItem": "UK ranges 4477815 numbers (12)",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAInsWoRjoGMCQ1-X9KvUhA_1lDUM7JnAAKwHgACh4OQVJw0H6Me2EG0OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1779670957732
+  },
+  "wzga8ccrlzyp": {
+    "namaItem": "CikzyV1.1 VVIP NO ENC",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIdU2oPwj0OIvdASokZxE6mxBWbpa4hAAKGHwACh4OAVObCHfonMPn_OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      7978883597
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1779685357740
+  },
+  "wzga85eyf7vc": {
+    "namaItem": "DARKRELAY UPDATE ENC",
+    "isiItem": "INI SCRIPT BUG DARKRELAY \n\nPASSWORD : yok",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIgKWoQMKunF1e67XrGPtGXVfrW1E5tAAIIHgACEDuIV-Y8gNYo4s_iOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      7978883597
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1779699757749
+  },
+  "wzga82bprtqx": {
+    "namaItem": "hitori master (1)",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIr4moR0F_VxpuBPPBOflIweEds21dYAAK-IAACRkSIVDGdeWqKxbS4OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8348886175,
+      7978883597
+    ],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1779714157757
+  },
+  "wzgar5ycls55": {
+    "namaItem": "UK ranges 4477815 numbers (12)",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAInsWoRjoGMCQ1-X9KvUhA_1lDUM7JnAAKwHgACh4OQVJw0H6Me2EG0OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8348886175
+    ],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1779728557762
+  },
+  "wzgauxrkweqx": {
+    "namaItem": "SC CHOOSEN ONE DAXX X KEZI V1.0⚕️ (1)",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAInjmoRjfsBz-oSBt45rnOjYaCvhbygAAKrHgACh4OQVE1Pkk3ZKjv0OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1779742957765
+  },
+  "wzgaf8skx76k": {
+    "namaItem": "Dokumen Surat Pernyataan Kebenaran Dokumen Dummy",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIzdWoSw0NSky3E7hci6JT7fCNLCmDnAALxHwACRkSQVKh5Yj-YA8G9OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1779757357770
+  },
+  "wzgatub3lg47": {
+    "namaItem": "SMSNumbers (16) 3",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIzNGoSwuCnVaZIWkv8fycZzMFAjcUtAALvHwACRkSQVIneTVEtTkWNOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1779771757771
+  }
+}
