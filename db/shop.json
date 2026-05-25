@@ -656,5 +656,44 @@
     "fromUser": 8240184356,
     "fromUsername": "@sintachann",
     "at": 1779722586202
+  },
+  {
+    "id": "sc_1779739634252_6800",
+    "name": "Netherlands",
+    "price": 188,
+    "desc": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAJBx2oUq_Gtwsp6SH72FvIAAee9wdOgdwACpB8AAgfoqFQhbBz4NSFthDsE"
+    },
+    "fromUser": 7978883597,
+    "fromUsername": "@zakyynew",
+    "at": 1779739634252
+  },
+  {
+    "id": "sc_1779739634439_5176",
+    "name": "Nigeria (1)",
+    "price": 293,
+    "desc": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAJBxmoUq_FcopHu74dSpyUFJbRFE-StAAKlHwACB-ioVLmDGrUY8LQAATsE"
+    },
+    "fromUser": 7978883597,
+    "fromUsername": "@zakyynew",
+    "at": 1779739634439
+  },
+  {
+    "id": "sc_1779739634500_9613",
+    "name": "SMSNumbers   2026 05 23T092330.942",
+    "price": 203,
+    "desc": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAJByWoUq_EPOK-ZVuK7w8hJy1MgGRQoAAKmHwACB-ioVMNGsfkVUezYOwQ"
+    },
+    "fromUser": 7978883597,
+    "fromUsername": "@zakyynew",
+    "at": 1779739634500
   }
 ]
