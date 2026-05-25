@@ -695,5 +695,44 @@
     "fromUser": 7978883597,
     "fromUsername": "@zakyynew",
     "at": 1779739634500
+  },
+  {
+    "id": "sc_1779747542686_8043",
+    "name": "SC ADD TOKEN",
+    "price": 222,
+    "desc": "Script dari user (@sintachann)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAJDA2oUytXuym_BPmeknsRHaze4gdtyAAIRGgACIvGoVJWz5lfOr_lAOwQ"
+    },
+    "fromUser": 8240184356,
+    "fromUsername": "@sintachann",
+    "at": 1779747542686
+  },
+  {
+    "id": "sc_1779747561384_3068",
+    "name": "BASE SC ADD TOKEN",
+    "price": 257,
+    "desc": "Script dari user (@sintachann)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAJDDGoUyuhV19CLXJU-TyO6xIac1mwNAAISGgACIvGoVLW-khM1SSO7OwQ"
+    },
+    "fromUser": 8240184356,
+    "fromUsername": "@sintachann",
+    "at": 1779747561384
+  },
+  {
+    "id": "sc_1779747583788_3636",
+    "name": "ADD TOKEN BY XEMZZ (NO ENC)",
+    "price": 193,
+    "desc": "Script dari user (@sintachann)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAJDF2oUyv4kg73BvbMB3Z87sAloKzORAAITGgACIvGoVPwd2cZfmfJbOwQ"
+    },
+    "fromUser": 8240184356,
+    "fromUsername": "@sintachann",
+    "at": 1779747583788
   }
 ]
