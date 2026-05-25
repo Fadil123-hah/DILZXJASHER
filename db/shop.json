@@ -642,5 +642,18 @@
     "fromUser": 8010874241,
     "fromUsername": null,
     "at": 1779707368406
+  },
+  {
+    "id": "sc_1779722586202_5391",
+    "name": "𝕽𝖎𝖎𝕰𝖝𝖊𝖈𝖚𝖙𝖊 5.0 NO ENC",
+    "price": 180,
+    "desc": "Script dari user (@sintachann)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAJAH2oUaVkCFG_m9Fhez1vJ4eycoSINAAL5HwACIvGgVNrbISHl_a4MOwQ"
+    },
+    "fromUser": 8240184356,
+    "fromUsername": "@sintachann",
+    "at": 1779722586202
   }
 ]
