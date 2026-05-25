@@ -1617,7 +1617,7 @@
     "claimedBy": [
       8348886175
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1779728557762
   },
@@ -1672,5 +1672,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1779801576265
+  },
+  "wzga8j5s5749": {
+    "namaItem": "filters",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIoeWoRlFjvzLqJT_2XSeVal4-iPoMSAAL9HgACh4OQVClkEuCaszr3OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1779815976279
   }
 }
