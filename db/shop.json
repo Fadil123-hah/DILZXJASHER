@@ -856,5 +856,44 @@
     "fromUser": 8516680133,
     "fromUsername": "@FARZMODS",
     "at": 1779836415297
+  },
+  {
+    "id": "sc_1779836584420_9118",
+    "name": "1776938514324 Script Jasher X Deploy 3  (1)",
+    "price": 221,
+    "desc": "Script dari user (@FARZMODS)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKCJmoWJj97JhhP713Se6UAAaLqvgXtBgACdh8AArhisVS8tIMzw7DFjDsE"
+    },
+    "fromUser": 8516680133,
+    "fromUsername": "@FARZMODS",
+    "at": 1779836584420
+  },
+  {
+    "id": "sc_1779836584809_666",
+    "name": "🎩 ᴅᴇᴀᴛʜ ᴀsᴍᴏᴅᴇᴜs ᴠ 1 0 ᴘʀɪᴠ BASE 1",
+    "price": 219,
+    "desc": "Script dari user (@FARZMODS)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKCKGoWJj_A6Gjtnfbb3xRZLzx5kJSeAALyGwACWzmZVCdvvdWRJGFtOwQ"
+    },
+    "fromUser": 8516680133,
+    "fromUsername": "@FARZMODS",
+    "at": 1779836584809
+  },
+  {
+    "id": "sc_1779836585102_6355",
+    "name": "BASE CROSLEXT SILENT ( FREE )",
+    "price": 142,
+    "desc": "Script dari user (@FARZMODS)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKCJ2oWJj9kovxNAAEciDm7L8xretv_NAACdx8AArhisVRDr892nTMmXzsE"
+    },
+    "fromUser": 8516680133,
+    "fromUsername": "@FARZMODS",
+    "at": 1779836585102
   }
 ]
