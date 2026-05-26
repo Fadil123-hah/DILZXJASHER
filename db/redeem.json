@@ -1669,7 +1669,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1779801576265
   },
@@ -1749,5 +1749,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1779873576289
+  },
+  "wzgausf2hj5v": {
+    "namaItem": "hitori master (1)",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIr4moR0F_VxpuBPPBOflIweEds21dYAAK-IAACRkSIVDGdeWqKxbS4OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1779887976291
   }
 }
