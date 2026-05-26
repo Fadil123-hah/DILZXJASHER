@@ -760,5 +760,18 @@
     "fromUser": 8240184356,
     "fromUsername": "@sintachann",
     "at": 1779747698822
+  },
+  {
+    "id": "sc_1779759456985_2323",
+    "name": "UBOT MINZ.zip",
+    "price": 238,
+    "desc": "Script dari user (@Minzxiterzz)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAJVDWoU-WCuLuPhmOp_N9jAxTwSwpugAAJ6IQAC7UCpVBSQh-PvBL-5OwQ"
+    },
+    "fromUser": 8424231888,
+    "fromUsername": "@Minzxiterzz",
+    "at": 1779759456985
   }
 ]
