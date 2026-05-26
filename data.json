@@ -628,7 +628,7 @@
   ],
   "settings": {
     "cooldown": {
-      "default": 1
+      "default": 15
     }
   }
 }
