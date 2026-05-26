@@ -1012,7 +1012,7 @@
       8126940847,
       8240184356
     ],
-    "expired": false,
+    "expired": true,
     "at": 1779736781273,
     "auto": true,
     "expireAt": 1779823181273
@@ -1079,5 +1079,16 @@
     "at": 1779808781274,
     "auto": true,
     "expireAt": 1779895181274
+  },
+  "wzcoerrf88uu": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1779823181276,
+    "auto": true,
+    "expireAt": 1779909581276
   }
 }
