@@ -830,5 +830,18 @@
     "fromUser": 8314856280,
     "fromUsername": "@dliinotdev",
     "at": 1779808365420
+  },
+  {
+    "id": "sc_1779812947028_363",
+    "name": "script void (1)",
+    "price": 169,
+    "desc": "Script dari user (@ryuzakiMALAS)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKAy2oVylHx3_6SO0sH5HWpCNj6gOPTAAKOHQACLSmxVEEdgM4mh8yLOwQ"
+    },
+    "fromUser": 7551446752,
+    "fromUsername": "@ryuzakiMALAS",
+    "at": 1779812947028
   }
 ]
