@@ -1699,7 +1699,7 @@
       8240184356,
       7978883597
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1779830376289
   },
@@ -1777,5 +1777,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1779902376293
+  },
+  "wzga9rgnd9ay": {
+    "namaItem": "Senegal Numbers",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIzCGoSwmZ9NINILZIZvyrtYytgEBKbAALsHwACRkSQVL89LKdJuMFwOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1779916776295
   }
 }
