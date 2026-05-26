@@ -1024,7 +1024,7 @@
       777000,
       8240184356
     ],
-    "expired": false,
+    "expired": true,
     "at": 1779751181273,
     "auto": true,
     "expireAt": 1779837581273
@@ -1092,5 +1092,16 @@
     "at": 1779823181276,
     "auto": true,
     "expireAt": 1779909581276
+  },
+  "wzcotesf8z24": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1779837581278,
+    "auto": true,
+    "expireAt": 1779923981278
   }
 }
