@@ -895,5 +895,57 @@
     "fromUser": 8516680133,
     "fromUsername": "@FARZMODS",
     "at": 1779836585102
+  },
+  {
+    "id": "sc_1779836725992_729",
+    "name": "SC KUDETA XZ V5",
+    "price": 285,
+    "desc": "Script dari user (@FARZMODS)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKCOGoWJzXQfb9xUA16iQABW4EY8-Zy9wACgx8AArhisVQpEXSXvA6FfjsE"
+    },
+    "fromUser": 8516680133,
+    "fromUsername": "@FARZMODS",
+    "at": 1779836725992
+  },
+  {
+    "id": "sc_1779836727112_3956",
+    "name": "indictiveCore v3 new fix",
+    "price": 226,
+    "desc": "Script dari user (@FARZMODS)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKCOWoWJzU2ec-BytrhjKXWOAsg4ESZAAJ_HwACuGKxVBzjD9OQet5COwQ"
+    },
+    "fromUser": 8516680133,
+    "fromUsername": "@FARZMODS",
+    "at": 1779836727112
+  },
+  {
+    "id": "sc_1779836727141_4907",
+    "name": "𝙾𝙽𝙴 𝙿𝙸𝙲𝙴 𝚅𝟷𝟶🌞",
+    "price": 169,
+    "desc": "Script dari user (@FARZMODS)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKCOmoWJzXJ6t_e_E004WnBzoy2mW1WAALTIQACOhCRVLGTq0WlvybAOwQ"
+    },
+    "fromUser": 8516680133,
+    "fromUsername": "@FARZMODS",
+    "at": 1779836727141
+  },
+  {
+    "id": "sc_1779836727344_9495",
+    "name": "1777342481398 scbuild 1",
+    "price": 244,
+    "desc": "Script dari user (@FARZMODS)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKCN2oWJzU5Qo5gyPrcjgpuF-ilBByYAAIaHgAC4bmRV4_UUH9Tw3u4OwQ"
+    },
+    "fromUser": 8516680133,
+    "fromUsername": "@FARZMODS",
+    "at": 1779836727344
   }
 ]
