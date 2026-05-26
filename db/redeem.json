@@ -1643,7 +1643,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1779757357770
   },
@@ -1701,5 +1701,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1779830376289
+  },
+  "wzgagr24dctx": {
+    "namaItem": "Script Payment GyzenLyoraa",
+    "isiItem": "Script dari user (@amposmaklowh)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIzHGoSwqnJ3mz6QwWrJ21cWDUUTzmyAAK-IQAC5PKYVJzL2jUekbVHOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1779844776289
   }
 }
