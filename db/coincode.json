@@ -951,7 +951,7 @@
     "claimedBy": [
       8240184356
     ],
-    "expired": false,
+    "expired": true,
     "at": 1779704661859,
     "auto": true,
     "expireAt": 1779791061859
@@ -962,7 +962,7 @@
     "claimedBy": [
       8240184356
     ],
-    "expired": false,
+    "expired": true,
     "at": 1779704994492,
     "auto": true,
     "expireAt": 1779791394492
@@ -973,7 +973,7 @@
     "claimedBy": [
       8240184356
     ],
-    "expired": false,
+    "expired": true,
     "at": 1779707941880,
     "auto": true,
     "expireAt": 1779794341880
@@ -984,7 +984,7 @@
     "claimedBy": [
       8240184356
     ],
-    "expired": false,
+    "expired": true,
     "at": 1779707981264,
     "auto": true,
     "expireAt": 1779794381264
@@ -1052,5 +1052,16 @@
     "at": 1779779981273,
     "auto": true,
     "expireAt": 1779866381273
+  },
+  "wzcolttf8r8v": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1779794381274,
+    "auto": true,
+    "expireAt": 1779880781274
   }
 }
