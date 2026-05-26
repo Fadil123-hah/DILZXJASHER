@@ -817,5 +817,18 @@
     "fromUser": 7978883597,
     "fromUsername": "@zakyynew",
     "at": 1779797415080
+  },
+  {
+    "id": "sc_1779808365420_236",
+    "name": "Sc Auto Order By GinaStore No Enc",
+    "price": 279,
+    "desc": "Script dari user (@dliinotdev)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAJ99moVuGzIKcEg7ysPz32PthSRmYK3AAIaIQACmfexVG-SIC0qda_SOwQ"
+    },
+    "fromUser": 8314856280,
+    "fromUsername": "@dliinotdev",
+    "at": 1779808365420
   }
 ]
