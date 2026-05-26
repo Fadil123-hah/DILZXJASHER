@@ -1656,7 +1656,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1779771757771
   },
@@ -1718,5 +1718,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1779844776289
+  },
+  "wzga5tfv5p7w": {
+    "namaItem": "Dokumen Surat Keterangan Nilai Rapor Dummy",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIzj2oSw93eLjQnoe4DAex0NlnQ1sStAAL1HwACRkSQVCJOciCEhsRDOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1779859176288
   }
 }
