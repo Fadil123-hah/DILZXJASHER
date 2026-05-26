@@ -1712,5 +1712,15 @@
     "price": 231,
     "discount": 0,
     "at": 1779837321024
+  },
+  {
+    "id": 1779837376380,
+    "userId": 8516680133,
+    "username": "@FARZMODS",
+    "itemId": "sc_1779722586202_5391",
+    "itemName": "𝕽𝖎𝖎𝕰𝖝𝖊𝖈𝖚𝖙𝖊 5.0 NO ENC",
+    "price": 180,
+    "discount": 0,
+    "at": 1779837376380
   }
 ]
