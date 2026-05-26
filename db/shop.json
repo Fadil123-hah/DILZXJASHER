@@ -843,5 +843,18 @@
     "fromUser": 7551446752,
     "fromUsername": "@ryuzakiMALAS",
     "at": 1779812947028
+  },
+  {
+    "id": "sc_1779836415297_5145",
+    "name": "1777685021718 SCRIPT MD TELE V2",
+    "price": 279,
+    "desc": "Script dari user (@FARZMODS)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKCJGoWJf6vNi0PhRxmJfB0_RkXFkPGAALtIQACGWyAVBzUUgYQpoH3OwQ"
+    },
+    "fromUser": 8516680133,
+    "fromUsername": "@FARZMODS",
+    "at": 1779836415297
   }
 ]
