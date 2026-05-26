@@ -1734,5 +1734,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1779859176288
+  },
+  "wzga4kt65k83": {
+    "namaItem": "hitori master (1)",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIzMmoSwuBO2HpFUykjnsfzNkRln4uLAALuHwACRkSQVDTAWPQV9DsqOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1779873576289
   }
 }
