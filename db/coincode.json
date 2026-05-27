@@ -1048,7 +1048,7 @@
       777000,
       8240184356
     ],
-    "expired": false,
+    "expired": true,
     "at": 1779779981273,
     "auto": true,
     "expireAt": 1779866381273
@@ -1116,5 +1116,16 @@
     "at": 1779851981278,
     "auto": true,
     "expireAt": 1779938381278
+  },
+  "wzcokxayd42b": {
+    "amount": 75,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1779866381278,
+    "auto": true,
+    "expireAt": 1779952781278
   }
 }
