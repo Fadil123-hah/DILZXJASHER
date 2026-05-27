@@ -1458,5 +1458,18 @@
     "fromUser": 7551446752,
     "fromUsername": "@ryuzakiMALAS",
     "at": 1779894760680
+  },
+  {
+    "id": "sc_1779925905861_5143",
+    "name": "Script Rep WyiiOffc",
+    "price": 248,
+    "desc": "Script dari user (8509663776)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKff2oXg5EiB8kb-jAxFRIrqr9DLBXqAAKiHQACmF_AVOV5qPoxRSOBOwQ"
+    },
+    "fromUser": 8509663776,
+    "fromUsername": null,
+    "at": 1779925905861
   }
 ]
