@@ -1432,5 +1432,18 @@
     "fromUser": 2128065133,
     "fromUsername": "@VyroDigitalReal1",
     "at": 1779893824612
+  },
+  {
+    "id": "sc_1779894106287_1819",
+    "name": "index",
+    "price": 225,
+    "desc": "Script dari user (@VyroDigitalReal1)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKYQ2oXB1kfOiyZ5fyydfNlixnNMfK8AAKKJQACMUi5VGPCJmf-1gjpOwQ"
+    },
+    "fromUser": 2128065133,
+    "fromUsername": "@VyroDigitalReal1",
+    "at": 1779894106287
   }
 ]
