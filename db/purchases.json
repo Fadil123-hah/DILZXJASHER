@@ -1872,5 +1872,15 @@
     "price": 234,
     "discount": 0,
     "at": 1779839994705
+  },
+  {
+    "id": 1779841414355,
+    "userId": 8314856280,
+    "username": "@dliinotdev",
+    "itemId": "sc_1779836798321_6995",
+    "itemName": "SC UBOT CONG",
+    "price": 282,
+    "discount": 0,
+    "at": 1779841414356
   }
 ]
