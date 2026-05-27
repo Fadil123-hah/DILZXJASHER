@@ -1140,5 +1140,16 @@
     "at": 1779880781279,
     "auto": true,
     "expireAt": 1779967181279
+  },
+  "wzco65vkgud3": {
+    "amount": 10,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1779881316105,
+    "auto": true,
+    "expireAt": 1779967716105
   }
 }
