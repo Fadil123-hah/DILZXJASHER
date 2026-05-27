@@ -1792,7 +1792,7 @@
     "claimedBy": [
       8314856280
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1779916776295
   },
@@ -1870,5 +1870,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1779991357492
+  },
+  "wzgaxhsxqj7p": {
+    "namaItem": "VANTANIV ZASTA V1",
+    "isiItem": "Script dari user (@rennkebeletimo)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKTdmoW7geADEo5mXNmq1aT0jlZ6v8gAALCIgAChHa4VG9BlZOE9j6aOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780005757504
   }
 }
