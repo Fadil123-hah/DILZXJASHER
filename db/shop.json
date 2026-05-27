@@ -1379,5 +1379,18 @@
     "fromUser": 8314856280,
     "fromUsername": "@dliinotdev",
     "at": 1779842233803
+  },
+  {
+    "id": "sc_1779887624469_5107",
+    "name": "VANTANIV ZASTA V1",
+    "price": 239,
+    "desc": "Script dari user (@rennkebeletimo)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKTdmoW7geADEo5mXNmq1aT0jlZ6v8gAALCIgAChHa4VG9BlZOE9j6aOwQ"
+    },
+    "fromUser": 7611754920,
+    "fromUsername": "@rennkebeletimo",
+    "at": 1779887624469
   }
 ]
