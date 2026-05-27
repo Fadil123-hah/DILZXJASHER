@@ -1366,5 +1366,18 @@
     "fromUser": 8314856280,
     "fromUsername": "@dliinotdev",
     "at": 1779842165816
+  },
+  {
+    "id": "sc_1779842233803_2670",
+    "name": "BOT JASHER MANUAL NO ENC",
+    "price": 234,
+    "desc": "Script dari user (@dliinotdev)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKF2GoWPLljc9n8wRCXn8mSZVHDwnZ-AAKiGwACmfe5VCiWvDZgdjR4OwQ"
+    },
+    "fromUser": 8314856280,
+    "fromUsername": "@dliinotdev",
+    "at": 1779842233803
   }
 ]
