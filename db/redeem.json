@@ -1805,7 +1805,8 @@
     },
     "maxClaim": 5,
     "claimedBy": [
-      8775387557
+      8775387557,
+      8469052493
     ],
     "expired": false,
     "auto": true,
