@@ -1419,5 +1419,18 @@
     "fromUser": 2128065133,
     "fromUsername": "@VyroDigitalReal1",
     "at": 1779893637252
+  },
+  {
+    "id": "sc_1779893824612_3694",
+    "name": "AUTO ORDER ARIF",
+    "price": 173,
+    "desc": "Script dari user (@VyroDigitalReal1)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKXtmoXBj8n3tZhat2r3JfTGxLuwAtvAAKHJQACMUi5VMnUi10FGbL1OwQ"
+    },
+    "fromUser": 2128065133,
+    "fromUsername": "@VyroDigitalReal1",
+    "at": 1779893824612
   }
 ]
