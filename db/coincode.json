@@ -1089,7 +1089,7 @@
       8314856280,
       8240184356
     ],
-    "expired": false,
+    "expired": true,
     "at": 1779823181276,
     "auto": true,
     "expireAt": 1779909581276
@@ -1270,11 +1270,24 @@
     "amount": 75,
     "maxClaim": 70,
     "claimedBy": [
-      777000
+      777000,
+      8420606980,
+      7611754920
     ],
     "expired": false,
     "at": 1779897762486,
     "auto": true,
     "expireAt": 1779984162486
+  },
+  "wzconacwh6xp": {
+    "amount": 30,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1779912162491,
+    "auto": true,
+    "expireAt": 1779998562491
   }
 }
