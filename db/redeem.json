@@ -1759,7 +1759,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1779887976291
   },
@@ -1838,5 +1838,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1779959976311
+  },
+  "wzgardqn2wyg": {
+    "namaItem": "sc build via panel v1 (1)",
+    "isiItem": "Script dari user (@FARZMODS)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKCQmoWJz-_fKUcMGohm2qBK1W9Pb6OAAJ8HwACuGKxVC_r7M6sHdU5OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1779974911103
   }
 }
