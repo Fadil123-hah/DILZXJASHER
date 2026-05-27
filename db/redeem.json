@@ -1777,7 +1777,7 @@
       8509663776,
       8516680133
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1779902376293
   },
@@ -1853,5 +1853,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1779974911103
+  },
+  "wzgaa5juvk4w": {
+    "namaItem": "𝙓 𝙁𝙤𝙧𝙘𝘾𝙧𝙖𝙨𝙝 𝙛𝙧𝙚𝙚𝙚 BY RIZZ X PUTRA",
+    "isiItem": "Script dari user (@FARZMODS)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKCT2oWJ0-1jFHZLliyG2UMAgY1ulv-AAKJHwACuGKxVE2cNisa-VQTOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1779991357492
   }
 }
