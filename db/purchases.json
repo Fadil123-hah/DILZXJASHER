@@ -1882,5 +1882,15 @@
     "price": 282,
     "discount": 0,
     "at": 1779841414356
+  },
+  {
+    "id": 1779841506184,
+    "userId": 8314856280,
+    "username": "@dliinotdev",
+    "itemId": "sc_1779836725992_729",
+    "itemName": "SC KUDETA XZ V5",
+    "price": 285,
+    "discount": 0,
+    "at": 1779841506184
   }
 ]
