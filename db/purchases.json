@@ -1952,5 +1952,15 @@
     "price": 253,
     "discount": 0,
     "at": 1779889216360
+  },
+  {
+    "id": 1779892279669,
+    "userId": 8699409011,
+    "username": "@AlipsH1",
+    "itemId": "sc_1779836727112_3956",
+    "itemName": "indictiveCore v3 new fix",
+    "price": 226,
+    "discount": 0,
+    "at": 1779892279669
   }
 ]
