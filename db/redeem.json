@@ -1716,7 +1716,7 @@
       8424231888,
       8240184356
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1779844776289
   },
@@ -1795,5 +1795,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1779916776295
+  },
+  "wzga86x5sees": {
+    "namaItem": "INSTAL X CPANEL BY @AboutAzmii",
+    "isiItem": "Script dari user (@AboutAzmii)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIa-GoPaPDqvG_E5FUix5P03-vY2OBNAAL6GwACf1WBVNTl-w_6mc6aOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1779931176301
   }
 }
