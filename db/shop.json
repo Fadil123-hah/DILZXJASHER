@@ -1353,5 +1353,18 @@
     "fromUser": 8314856280,
     "fromUsername": "@dliinotdev",
     "at": 1779842133542
+  },
+  {
+    "id": "sc_1779842165816_7641",
+    "name": "sc cekbio",
+    "price": 165,
+    "desc": "Script dari user (@dliinotdev)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKFyGoWPHUE23PgXwRwTKWdKsCyh1gAA6EbAAKZ97lUMUem73UuCiY7BA"
+    },
+    "fromUser": 8314856280,
+    "fromUsername": "@dliinotdev",
+    "at": 1779842165816
   }
 ]
