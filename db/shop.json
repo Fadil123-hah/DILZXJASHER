@@ -1445,5 +1445,18 @@
     "fromUser": 2128065133,
     "fromUsername": "@VyroDigitalReal1",
     "at": 1779894106287
+  },
+  {
+    "id": "sc_1779894760680_5343",
+    "name": "Dinoror MD v1.1.0",
+    "price": 289,
+    "desc": "Script dari user (@ryuzakiMALAS)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKZfWoXCeZF5qzTRrnZB7fZ-_sZd2l2AAK6HQACLSm5VOWa_99nccbbOwQ"
+    },
+    "fromUser": 7551446752,
+    "fromUsername": "@ryuzakiMALAS",
+    "at": 1779894760680
   }
 ]
