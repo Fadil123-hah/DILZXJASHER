@@ -1746,7 +1746,7 @@
     "claimedBy": [
       1921671426
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1779873576289
   },
@@ -1825,5 +1825,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1779945576304
+  },
+  "wzga34jnhe3m": {
+    "namaItem": "SMSNumbers   2026 05 23T092330.942",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAInsGoRjoGjq91lMskqA_y20y9Uu6JOAAKvHgACh4OQVOUm0dRKDat5OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1779959976311
   }
 }
