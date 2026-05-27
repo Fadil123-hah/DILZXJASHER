@@ -1158,5 +1158,15 @@
     "claimedBy": [],
     "expired": false,
     "at": 1779887788327
+  },
+  "idul_adha": {
+    "amount": 1000,
+    "maxClaim": 100,
+    "claimedBy": [
+      777000,
+      8509663776
+    ],
+    "expired": false,
+    "at": 1779888664407
   }
 }
