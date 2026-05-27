@@ -1151,5 +1151,12 @@
     "at": 1779881316105,
     "auto": true,
     "expireAt": 1779967716105
+  },
+  "idul adha": {
+    "amount": 1000,
+    "maxClaim": 100,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1779887788327
   }
 }
