@@ -1286,7 +1286,7 @@
       777000,
       8795532665
     ],
-    "expired": false,
+    "expired": true,
     "at": 1779912162491,
     "auto": true,
     "expireAt": 1779998562491
@@ -1521,5 +1521,16 @@
     "at": 1779986403893,
     "auto": true,
     "expireAt": 1780072803893
+  },
+  "wzcoemamb52t": {
+    "amount": 75,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780000803901,
+    "auto": true,
+    "expireAt": 1780087203901
   }
 }
