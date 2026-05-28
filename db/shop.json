@@ -1483,7 +1483,8 @@
     },
     "fromUser": 8164024849,
     "fromUsername": "@OZILDEVELOPER",
-    "at": 1779926904153
+    "at": 1779926904153,
+    "sold": 1
   },
   {
     "id": "sc_1779927808976_3633",
@@ -1496,7 +1497,8 @@
     },
     "fromUser": 8265699182,
     "fromUsername": "@Officiall_supportt_binancee559",
-    "at": 1779927808976
+    "at": 1779927808976,
+    "sold": 1
   },
   {
     "id": "sc_1779928117981_6069",
@@ -1509,7 +1511,8 @@
     },
     "fromUser": 8265699182,
     "fromUsername": "@Officiall_supportt_binancee559",
-    "at": 1779928117981
+    "at": 1779928117981,
+    "sold": 1
   },
   {
     "id": "sc_1779953449412_8970",
@@ -1522,6 +1525,7 @@
     },
     "fromUser": 8699409011,
     "fromUsername": "@AlipsH1",
-    "at": 1779953449412
+    "at": 1779953449412,
+    "sold": 1
   }
 ]
