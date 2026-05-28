@@ -1822,7 +1822,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1779945576304
   },
@@ -1885,5 +1885,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1780005757504
+  },
+  "wzga7t4nuv74": {
+    "namaItem": "INSTAL X CPANEL BY @AboutAzmii",
+    "isiItem": "Script dari user (@AboutAzmii)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIa-GoPaPDqvG_E5FUix5P03-vY2OBNAAL6GwACf1WBVNTl-w_6mc6aOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780036798883
   }
 }
