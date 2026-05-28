@@ -1850,7 +1850,7 @@
     "claimedBy": [
       7611754920
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1779974911103
   },
@@ -1915,5 +1915,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1780051198889
+  },
+  "wzgakqxc2nwd": {
+    "namaItem": "Dokumen KK Dummy",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIzjmoSw9uM3j1RNT0w8-pWwyLCDBa_AAL0HwACRkSQVOZBvVXWIZl_OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780065598893
   }
 }
