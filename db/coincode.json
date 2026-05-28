@@ -1421,5 +1421,14 @@
     "at": 1779930787343,
     "auto": true,
     "expireAt": 1780017187343
+  },
+  "kode10k": {
+    "amount": 10000,
+    "maxClaim": 50,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1779933243052
   }
 }
