@@ -1103,7 +1103,7 @@
       8699409011,
       8240184356
     ],
-    "expired": false,
+    "expired": true,
     "at": 1779837581278,
     "auto": true,
     "expireAt": 1779923981278
@@ -1290,5 +1290,16 @@
     "at": 1779912162491,
     "auto": true,
     "expireAt": 1779998562491
+  },
+  "wzco28nvh7ma": {
+    "amount": 75,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1779926562490,
+    "auto": true,
+    "expireAt": 1780012962490
   }
 }
