@@ -1867,7 +1867,7 @@
       7611754920,
       8795532665
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1779991357492
   },
@@ -1932,5 +1932,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1780065598893
+  },
+  "wzga6nrcu6rc": {
+    "namaItem": "ITT FILE 1779588190840",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIv32oSk0FcU43DYGPA_l6LsCK7rQLqAAKtHwACRkSQVDG_SI3EkG1fOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780079998894
   }
 }
