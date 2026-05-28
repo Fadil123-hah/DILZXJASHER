@@ -1533,5 +1533,31 @@
     "fromUsername": "@AlipsH1",
     "at": 1779953449412,
     "sold": 1
+  },
+  {
+    "id": "sc_1779986935609_8888",
+    "name": "V Arven V14 (Free)",
+    "price": 293,
+    "desc": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAK-MGoYcfTQ049itOOU5V07uCzRbbYyAAJwIAACwIXBVAaQklePWr88OwQ"
+    },
+    "fromUser": 7978883597,
+    "fromUsername": "@zakyynew",
+    "at": 1779986935609
+  },
+  {
+    "id": "sc_1779986935905_6737",
+    "name": "OvaliumMD V8 Free",
+    "price": 242,
+    "desc": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAK-L2oYcfQWvp4w-jDaL_d_QmfuXMt3AAJuIAACwIXBVECNnrCjkdyPOwQ"
+    },
+    "fromUser": 7978883597,
+    "fromUsername": "@zakyynew",
+    "at": 1779986935905
   }
 ]
