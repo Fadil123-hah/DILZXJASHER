@@ -1426,7 +1426,8 @@
     "amount": 10000,
     "maxClaim": 50,
     "claimedBy": [
-      777000
+      777000,
+      8509663776
     ],
     "expired": false,
     "at": 1779933243052
