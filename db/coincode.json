@@ -1115,7 +1115,7 @@
       777000,
       8699409011
     ],
-    "expired": false,
+    "expired": true,
     "at": 1779851981278,
     "auto": true,
     "expireAt": 1779938381278
@@ -1457,5 +1457,16 @@
     "at": 1779938301851,
     "auto": true,
     "expireAt": 1780024701851
+  },
+  "wzcokmplac94": {
+    "amount": 20,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1779942239117,
+    "auto": true,
+    "expireAt": 1780028639117
   }
 }
