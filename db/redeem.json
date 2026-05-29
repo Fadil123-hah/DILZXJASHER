@@ -2031,5 +2031,20 @@
     "expired": true,
     "auto": true,
     "expireAt": 1780147191620
+  },
+  "wzga3ae2kbew": {
+    "namaItem": "Api Bug Server Dv",
+    "isiItem": "Script dari user (@sintachann)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAJDLGoUy3EFPQ2ikkYPMBRtNR2bI6AGAAIVGgACIvGoVHQjI_ROjm68OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      7770198943
+    ],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780161591629
   }
 }
