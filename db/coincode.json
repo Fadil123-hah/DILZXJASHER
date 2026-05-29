@@ -1459,7 +1459,7 @@
       8795532665,
       7525601585
     ],
-    "expired": false,
+    "expired": true,
     "at": 1779938301851,
     "auto": true,
     "expireAt": 1780024701851
@@ -1473,7 +1473,7 @@
       8795532665,
       7525601585
     ],
-    "expired": false,
+    "expired": true,
     "at": 1779942239117,
     "auto": true,
     "expireAt": 1780028639117
@@ -1486,7 +1486,7 @@
       7611754920,
       7525601585
     ],
-    "expired": false,
+    "expired": true,
     "at": 1779943203884,
     "auto": true,
     "expireAt": 1780029603884
@@ -1549,5 +1549,16 @@
     "at": 1780015203895,
     "auto": true,
     "expireAt": 1780101603895
+  },
+  "wzco3rw8zfy9": {
+    "amount": 20,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780029603895,
+    "auto": true,
+    "expireAt": 1780116003895
   }
 }
