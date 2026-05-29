@@ -1898,7 +1898,7 @@
       7611754920,
       7525601585
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1780036798883
   },
@@ -1979,5 +1979,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1780108798898
+  },
+  "wzgac9g93g2d": {
+    "namaItem": "SC CHOOSEN ONE DAXX X KEZI V1.0⚕️ (1)",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAInjmoRjfsBz-oSBt45rnOjYaCvhbygAAKrHgACh4OQVE1Pkk3ZKjv0OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780123198901
   }
 }
