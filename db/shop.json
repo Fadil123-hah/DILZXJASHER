@@ -1572,5 +1572,70 @@
     "fromUser": 6808178075,
     "fromUsername": "@vaannzx",
     "at": 1780016116335
+  },
+  {
+    "id": "sc_1780016222712_9925",
+    "name": "novabot main",
+    "price": 131,
+    "desc": "Script dari user (@vaannzx)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAALCzGoY5F0udST9U6Z-12HJjASBkO84AALaIgAC7xbBVP-ZNKqrwheyOwQ"
+    },
+    "fromUser": 6808178075,
+    "fromUsername": "@vaannzx",
+    "at": 1780016222712
+  },
+  {
+    "id": "sc_1780016222789_2523",
+    "name": "SC HACK VPS (1) (1)",
+    "price": 157,
+    "desc": "Script dari user (@vaannzx)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAALCz2oY5F1bTObL9RKH3bbQsOPTrjKQAALdIgAC7xbBVFkMUFPvdtDSOwQ"
+    },
+    "fromUser": 6808178075,
+    "fromUsername": "@vaannzx",
+    "at": 1780016222789
+  },
+  {
+    "id": "sc_1780016222950_1037",
+    "name": "AUTO ORDER XENON",
+    "price": 257,
+    "desc": "Script dari user (@vaannzx)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAALCzmoY5F3zzlOffcvEkCaEf1SavftcAALcIgAC7xbBVP8E3gnKCaxKOwQ"
+    },
+    "fromUser": 6808178075,
+    "fromUsername": "@vaannzx",
+    "at": 1780016222950
+  },
+  {
+    "id": "sc_1780016223232_6266",
+    "name": "INSTALLPANEL AUTO IJO NODE V6 VIA TELE (2) (1)",
+    "price": 224,
+    "desc": "Script dari user (@vaannzx)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAALCzWoY5F2b5bm0oxsqEGKVsvJ3XI65AALbIgAC7xbBVKKMI-NiIGsTOwQ"
+    },
+    "fromUser": 6808178075,
+    "fromUsername": "@vaannzx",
+    "at": 1780016223232
+  },
+  {
+    "id": "sc_1780016223651_5374",
+    "name": "VynaaMD main",
+    "price": 225,
+    "desc": "Script dari user (@vaannzx)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAALCy2oY5F0b6Y2o-cTkl4Xo5zWOwgIHAALZIgAC7xbBVNg_WmDJ9LkPOwQ"
+    },
+    "fromUser": 6808178075,
+    "fromUsername": "@vaannzx",
+    "at": 1780016223651
   }
 ]
