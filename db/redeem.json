@@ -1914,7 +1914,7 @@
       7611754920,
       7525601585
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1780051198889
   },
@@ -1992,5 +1992,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1780123198901
+  },
+  "wzga487xkxnv": {
+    "namaItem": "OTP WHATSAPP",
+    "isiItem": "Script dari user (@dliinotdev)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKFwmoWPFSHbXUpNrgBdhwoBvKG_uTqAAKgGwACmfe5VPshtaUddmW1OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780137598896
   }
 }
