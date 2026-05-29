@@ -2016,7 +2016,9 @@
       "file_id": "BQACAgUAAxkBAAJBx2oUq_Gtwsp6SH72FvIAAee9wdOgdwACpB8AAgfoqFQhbBz4NSFthDsE"
     },
     "maxClaim": 5,
-    "claimedBy": [],
+    "claimedBy": [
+      8526978408
+    ],
     "expired": false,
     "auto": true,
     "expireAt": 1780147191620
