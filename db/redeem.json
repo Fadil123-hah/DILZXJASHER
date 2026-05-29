@@ -2047,5 +2047,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1780161591629
+  },
+  "wzgaya467d29": {
+    "namaItem": "Dokumen Surat Pernyataan Kebenaran Dokumen Dummy",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIzdWoSw0NSky3E7hci6JT7fCNLCmDnAALxHwACRkSQVKh5Yj-YA8G9OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780175991630
   }
 }
