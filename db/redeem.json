@@ -2007,5 +2007,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1780137598896
+  },
+  "wzgarhtzbcvm": {
+    "namaItem": "Netherlands",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAJBx2oUq_Gtwsp6SH72FvIAAee9wdOgdwACpB8AAgfoqFQhbBz4NSFthDsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780147191620
   }
 }
