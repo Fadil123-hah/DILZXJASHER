@@ -1958,5 +1958,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1780094398895
+  },
+  "wzgas49j6brq": {
+    "namaItem": "SHADOW DEATH V11",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAJ2R2oVjaUL178WqZkCmtL-f9YXvzfBAAJsHwACB-iwVEipWU4Y_SKxOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780108798898
   }
 }
