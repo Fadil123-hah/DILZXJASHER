@@ -2062,5 +2062,20 @@
     "expired": false,
     "auto": true,
     "expireAt": 1780175991630
+  },
+  "wzga8kqxz9b3": {
+    "namaItem": "Sc Auto Order By GinaStore No Enc",
+    "isiItem": "Script dari user (@dliinotdev)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAJ99moVuGzIKcEg7ysPz32PthSRmYK3AAIaIQACmfexVG-SIC0qda_SOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8314856280
+    ],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780190391637
   }
 }
