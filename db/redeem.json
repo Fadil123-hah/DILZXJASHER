@@ -2084,5 +2084,18 @@
     "expired": true,
     "auto": true,
     "expireAt": 1780190391637
+  },
+  "wzga93xha9pa": {
+    "namaItem": "1776938514323 SC DDOS WORK",
+    "isiItem": "Script dari user (@FARZMODS)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKCU2oWJ0_-uirbX9cjxe8ycH05l00XAALZIQACOhCRVJybPYQBb-PWOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780204791634
   }
 }
