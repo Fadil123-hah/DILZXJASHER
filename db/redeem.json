@@ -2105,5 +2105,18 @@
     "expired": true,
     "auto": true,
     "expireAt": 1780204791634
+  },
+  "wzgae5rygyev": {
+    "namaItem": "ALWAYS 13 G2 ( ENC )",
+    "isiItem": "Script dari user (@amposmaklowh)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIzI2oSwsJ7x0gwbUzoLMIaxDAJC1dhAAK_IQAC5PKYVLFWSbVufXWDOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780235213128
   }
 }
