@@ -1795,5 +1795,16 @@
     "at": 1780131085348,
     "auto": true,
     "expireAt": 1780217485348
+  },
+  "wzcoe22fggrk": {
+    "amount": 10,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780131312620,
+    "auto": true,
+    "expireAt": 1780217712620
   }
 }
