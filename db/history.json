@@ -88,5 +88,21 @@
     "title": "tes",
     "rarity": "common",
     "when": "30/5/2026, 15.23.34"
+  },
+  {
+    "type": "gacha",
+    "userId": "8509663776",
+    "itemId": "item_1780127419850",
+    "title": "tes",
+    "rarity": "common",
+    "when": "30/5/2026, 15.24.20"
+  },
+  {
+    "type": "gacha",
+    "userId": "8509663776",
+    "itemId": "item_1780127419850",
+    "title": "tes",
+    "rarity": "common",
+    "when": "30/5/2026, 15.24.32"
   }
 ]
