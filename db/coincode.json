@@ -1613,7 +1613,7 @@
       7525601585,
       8265699182
     ],
-    "expired": false,
+    "expired": true,
     "at": 1780082396620,
     "auto": true,
     "expireAt": 1780168796620
@@ -1875,5 +1875,16 @@
     "at": 1780156018133,
     "auto": true,
     "expireAt": 1780242418133
+  },
+  "wzcors54q7wl": {
+    "amount": 75,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780170418136,
+    "auto": true,
+    "expireAt": 1780256818136
   }
 }
