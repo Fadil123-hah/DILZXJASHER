@@ -2112,5 +2112,15 @@
     "price": 234,
     "discount": 0,
     "at": 1779978160591
+  },
+  {
+    "id": 1780109101340,
+    "userId": 7525601585,
+    "username": "@IsaacNapoleon",
+    "itemId": "sc_1779406469227_7208",
+    "itemName": "sc nokos v2",
+    "price": 206,
+    "discount": 0,
+    "at": 1780109101340
   }
 ]
