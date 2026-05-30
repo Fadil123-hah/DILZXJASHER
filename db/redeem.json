@@ -2044,7 +2044,8 @@
     "claimedBy": [
       7770198943,
       7611754920,
-      8525168497
+      8525168497,
+      7525601585
     ],
     "expired": false,
     "auto": true,
@@ -2058,7 +2059,9 @@
       "file_id": "BQACAgUAAxkBAAIzdWoSw0NSky3E7hci6JT7fCNLCmDnAALxHwACRkSQVKh5Yj-YA8G9OwQ"
     },
     "maxClaim": 5,
-    "claimedBy": [],
+    "claimedBy": [
+      7525601585
+    ],
     "expired": false,
     "auto": true,
     "expireAt": 1780175991630
