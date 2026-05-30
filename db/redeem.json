@@ -2064,7 +2064,7 @@
       7525601585,
       8265699182
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1780175991630
   },
@@ -2135,5 +2135,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1780249613141
+  },
+  "wzga3m5akrlv": {
+    "namaItem": "Itachi+Crasher+V2Gen1+(Buyer)+",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIfd2oQEpB-snDyQmsGLW64Kcj1HJyEAAJ9IAACh4OAVFAZNVevQJYsOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780264013140
   }
 }
