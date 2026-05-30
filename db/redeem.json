@@ -2122,5 +2122,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1780235213128
+  },
+  "wzga2jfdwmfc": {
+    "namaItem": "UBOT VIA PANEL",
+    "isiItem": "Script dari user (@FARZMODS)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKCRmoWJz-Vfg3MFA2pPYezdb_dLUjvAAKFHwACuGKxVE49z4LsrEe6OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780249613141
   }
 }
