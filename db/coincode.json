@@ -2003,5 +2003,16 @@
     "at": 1780211425171,
     "auto": true,
     "expireAt": 1780297825171
+  },
+  "wzcoyw3aps2m": {
+    "amount": 50,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780213214542,
+    "auto": true,
+    "expireAt": 1780299614542
   }
 }
