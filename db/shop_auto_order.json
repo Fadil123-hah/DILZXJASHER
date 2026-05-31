@@ -49,6 +49,17 @@
       "domain": "https://lanzptrodactly.biz.id/",
       "plta": "ptla_BuM2LxQ3hpVVu8fsY8WrqqcQqvOhQF4WkWQT62wQrrq",
       "pltc": "ptlc_TM1DTs5JNW1r1dPeBvyc4zrpT9cjvILVKQLIlrRZxDo"
+    },
+    {
+      "id": "ADP-1780204609295",
+      "tipe": "adp",
+      "nama": "Admin Panel (ADP)",
+      "link": "https://t.me/+1vz_mHIvNFdlNGVl",
+      "stok": 10,
+      "harga": 10000,
+      "domain": "https://lanzptrodactly.biz.id",
+      "plta": "ptla_BuM2LxQ3hpVVu8fsY8WrqqcQqvOhQF4WkWQT62wQrrq",
+      "pltc": "ptlc_TM1DTs5JNW1r1dPeBvyc4zrpT9cjvILVKQLIlrRZxDo"
     }
   ],
   "script": [],
