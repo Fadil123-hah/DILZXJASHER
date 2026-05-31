@@ -192,45 +192,5 @@
     "title": "0QGTNX8D",
     "rarity": "common",
     "when": "31/5/2026, 08.13.55"
-  },
-  {
-    "type": "gacha",
-    "userId": "8509663776",
-    "itemId": "BOJ6ID0H",
-    "title": "APK PHISING V1",
-    "rarity": "epic",
-    "when": "31/5/2026, 08.35.45"
-  },
-  {
-    "type": "gacha",
-    "userId": "8509663776",
-    "itemId": "unmapped_1XNZU093",
-    "title": "1XNZU093",
-    "rarity": "common",
-    "when": "31/5/2026, 08.35.55"
-  },
-  {
-    "type": "gacha",
-    "userId": "8509663776",
-    "itemId": "BSNNSO3R",
-    "title": "CONTROL PANEL",
-    "rarity": "epic",
-    "when": "31/5/2026, 08.36.03"
-  },
-  {
-    "type": "gacha",
-    "userId": "8509663776",
-    "itemId": "unmapped_ACBUM759",
-    "title": "ACBUM759",
-    "rarity": "common",
-    "when": "31/5/2026, 08.36.16"
-  },
-  {
-    "type": "gacha",
-    "userId": "8509663776",
-    "itemId": "unmapped_RESELLER_PRIVAT",
-    "title": "RESELLER PANEL PRIVAT",
-    "rarity": "common",
-    "when": "31/5/2026, 08.36.23"
   }
 ]
