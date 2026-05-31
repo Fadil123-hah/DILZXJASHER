@@ -60,6 +60,21 @@
       "domain": "https://lanzptrodactly.biz.id",
       "plta": "ptla_BuM2LxQ3hpVVu8fsY8WrqqcQqvOhQF4WkWQT62wQrrq",
       "pltc": "ptlc_TM1DTs5JNW1r1dPeBvyc4zrpT9cjvILVKQLIlrRZxDo"
+    },
+    {
+      "id": "PRIB-1780204651181",
+      "tipe": "panel_prib",
+      "nama": "Panel Pribadi",
+      "listHarga": [
+        {
+          "ram": "1gb",
+          "harga": 1,
+          "stok": 1
+        }
+      ],
+      "domain": "https://lanzptrodactly.biz.id",
+      "plta": "ptla_BuM2LxQ3hpVVu8fsY8WrqqcQqvOhQF4WkWQT62wQrrq",
+      "pltc": "ptlc_TM1DTs5JNW1r1dPeBvyc4zrpT9cjvILVKQLIlrRZxDo"
     }
   ],
   "script": [],
