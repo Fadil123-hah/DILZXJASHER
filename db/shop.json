@@ -1665,5 +1665,18 @@
     "fromUsername": null,
     "at": 1780197961266,
     "sold": 1
+  },
+  {
+    "id": "sc_1780215636535_1914",
+    "name": "ᴜᴘᴅᴀᴛᴇ ꜱᴄ ʙᴜɢꜱ ᴠᴇʟᴏʀɪᴀ ᴠ2 0 1",
+    "price": 243,
+    "desc": "Script dari user (@WINZxgaro)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBOnZqG-9T0I_ZKl4w1xwXnz3gBcKhggACiB0AAgcR4VTonscRuQrgozsE"
+    },
+    "fromUser": 8441891384,
+    "fromUsername": "@WINZxgaro",
+    "at": 1780215636535
   }
 ]
