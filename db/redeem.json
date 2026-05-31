@@ -2119,7 +2119,7 @@
       7525601585,
       8469052493
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1780235213128
   },
@@ -2132,7 +2132,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1780249613141
   },
@@ -2147,7 +2147,7 @@
     "claimedBy": [
       8441891384
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1780264013140
   },
