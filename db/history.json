@@ -192,5 +192,21 @@
     "title": "0QGTNX8D",
     "rarity": "common",
     "when": "31/5/2026, 08.13.55"
+  },
+  {
+    "type": "gacha",
+    "userId": "8441891384",
+    "itemId": "3H06R8LW",
+    "title": "BASE ADD TOKEN",
+    "rarity": "epic",
+    "when": "31/5/2026, 15.22.36"
+  },
+  {
+    "type": "gacha",
+    "userId": "8441891384",
+    "itemId": "OS0EZHHG",
+    "title": "UBOT BY ZIFER",
+    "rarity": "epic",
+    "when": "31/5/2026, 15.22.45"
   }
 ]
