@@ -1917,11 +1917,23 @@
     "amount": 20,
     "maxClaim": 70,
     "claimedBy": [
-      777000
+      777000,
+      8314856280
     ],
     "expired": false,
     "at": 1780191261585,
     "auto": true,
     "expireAt": 1780277661585
+  },
+  "wzcoerdxe2ea": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780191538572,
+    "auto": true,
+    "expireAt": 1780277938572
   }
 }
