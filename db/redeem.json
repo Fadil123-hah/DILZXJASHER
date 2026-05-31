@@ -2165,5 +2165,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1780285133571
+  },
+  "wzgac6hkuevp": {
+    "namaItem": "SC CHOOSEN ONE DAXX X KEZI V1.0⚕️ (1)",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAInjmoRjfsBz-oSBt45rnOjYaCvhbygAAKrHgACh4OQVE1Pkk3ZKjv0OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780306809543
   }
 }
