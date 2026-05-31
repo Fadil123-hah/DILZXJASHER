@@ -77,7 +77,16 @@
       "pltc": "ptlc_TM1DTs5JNW1r1dPeBvyc4zrpT9cjvILVKQLIlrRZxDo"
     }
   ],
-  "script": [],
+  "script": [
+    {
+      "id": "SC-1780209160557",
+      "tipe": "script_file",
+      "nama": "Sc Ubot Vvip",
+      "file_id": "BQACAgUAAxkBAAEBOTtqG9X1hGze9eh_pntoUtlD4J2MdQACtx0AAphfwFRXCNG-HrzVUDsE",
+      "harga": 5000,
+      "stok": 100
+    }
+  ],
   "ress_fullup": [],
   "akses_group": []
 }
