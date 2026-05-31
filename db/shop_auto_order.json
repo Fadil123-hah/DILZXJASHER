@@ -1,0 +1,57 @@
+{
+  "panel": [
+    {
+      "id": "PRIB-1780204501852",
+      "tipe": "panel_prib",
+      "nama": "Panel Pribadi",
+      "listHarga": [
+        {
+          "ram": "unli",
+          "harga": 10000,
+          "stok": 10
+        },
+        {
+          "ram": "10gb",
+          "harga": 9000,
+          "stok": 10
+        },
+        {
+          "ram": "9gb",
+          "harga": 8000,
+          "stok": 10
+        },
+        {
+          "ram": "8gb",
+          "harga": 7000,
+          "stok": 10
+        },
+        {
+          "ram": "7gb",
+          "harga": 6000,
+          "stok": 10
+        },
+        {
+          "ram": "6gb",
+          "harga": 5000,
+          "stok": 10
+        },
+        {
+          "ram": "5gb",
+          "harga": 4000,
+          "stok": 10
+        },
+        {
+          "ram": "4gb",
+          "harga": 3000,
+          "stok": 10
+        }
+      ],
+      "domain": "https://lanzptrodactly.biz.id/",
+      "plta": "ptla_BuM2LxQ3hpVVu8fsY8WrqqcQqvOhQF4WkWQT62wQrrq",
+      "pltc": "ptlc_TM1DTs5JNW1r1dPeBvyc4zrpT9cjvILVKQLIlrRZxDo"
+    }
+  ],
+  "script": [],
+  "ress_fullup": [],
+  "akses_group": []
+}
