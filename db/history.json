@@ -208,5 +208,29 @@
     "title": "UBOT BY ZIFER",
     "rarity": "epic",
     "when": "31/5/2026, 15.22.45"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "unmapped_L6QNZAP8",
+    "title": "L6QNZAP8",
+    "rarity": "common",
+    "when": "31/5/2026, 16.05.28"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "BO0YGSH9",
+    "title": "VORTEZ BVBOT V5",
+    "rarity": "common",
+    "when": "31/5/2026, 16.06.10"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "AY4L6Q0S",
+    "title": "MD VIA WA",
+    "rarity": "legendary",
+    "when": "31/5/2026, 16.06.17"
   }
 ]
