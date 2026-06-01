@@ -432,5 +432,69 @@
     "title": "G3FAD5BY",
     "rarity": "common",
     "when": "1/6/2026, 08.07.04"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "unmapped_1XNZU093",
+    "title": "1XNZU093",
+    "rarity": "common",
+    "when": "1/6/2026, 08.07.55"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "4LA8TPND",
+    "title": "NEZUKO DEVIL",
+    "rarity": "epic",
+    "when": "1/6/2026, 08.07.58"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "R63NLCNA",
+    "title": "TOOLS BYPAD",
+    "rarity": "legendary",
+    "when": "1/6/2026, 08.08.05"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "TEWOP0LZ",
+    "title": "BOT JAGA GB BY ZIFER NO ENC",
+    "rarity": "legendary",
+    "when": "1/6/2026, 08.08.12"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "I43NO56W",
+    "title": "RESELLER PANEL PUBLIC",
+    "rarity": "mythic",
+    "when": "1/6/2026, 08.08.19"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "unmapped_GBHCRB2V",
+    "title": "GBHCRB2V",
+    "rarity": "common",
+    "when": "1/6/2026, 08.08.27"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "5AFA2OL6",
+    "title": "FUNC V2",
+    "rarity": "common",
+    "when": "1/6/2026, 08.08.34"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "ZS64CT6E",
+    "title": "TANJIRO SLAYER",
+    "rarity": "epic",
+    "when": "1/6/2026, 08.08.42"
   }
 ]
