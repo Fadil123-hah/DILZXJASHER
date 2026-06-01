@@ -1691,5 +1691,18 @@
     "fromUser": 7414346835,
     "fromUsername": null,
     "at": 1780284241379
+  },
+  {
+    "id": "sc_1780295452316_8638",
+    "name": "BASE BUG WA",
+    "price": 285,
+    "desc": "—( 🎉 ) || SELAMAT! Kamu Mendapat:\n\n¤ Item : ⚪ BASE BUG WA\n¤ Tipe : COMMON\n¤ Sisa Coin : 💰 5",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkDAAEBSvtqHSG_2moLsazU8T_1di_Pzbd1uAACAxwAAhhU2VSDpokTZdiJyjsE"
+    },
+    "fromUser": 7414346835,
+    "fromUsername": null,
+    "at": 1780295452316
   }
 ]
