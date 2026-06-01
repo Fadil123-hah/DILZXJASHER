@@ -640,5 +640,21 @@
     "title": "PLP COLLAB R SLOT",
     "rarity": "epic",
     "when": "1/6/2026, 12.55.41"
+  },
+  {
+    "type": "gacha",
+    "userId": "6808178075",
+    "itemId": "unmapped_EUENS5TD",
+    "title": "EUENS5TD",
+    "rarity": "common",
+    "when": "1/6/2026, 12.55.52"
+  },
+  {
+    "type": "gacha",
+    "userId": "6808178075",
+    "itemId": "unmapped_RESELLER_PRIVAT",
+    "title": "RESELLER PANEL PRIVAT",
+    "rarity": "mythic",
+    "when": "1/6/2026, 12.56.03"
   }
 ]
