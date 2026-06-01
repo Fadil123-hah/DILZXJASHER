@@ -2228,5 +2228,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1780394254018
+  },
+  "wzgaaalblydc": {
+    "namaItem": "UbotKingzSaken",
+    "isiItem": "Script dari user (@FARZMODS)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKCWWoWJ1HdbNqzoZ0ombzwz-pE4Tn6AALnIQACOhCRVMB6MaCglRN8OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780408654018
   }
 }
