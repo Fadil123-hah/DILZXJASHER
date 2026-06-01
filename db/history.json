@@ -728,5 +728,29 @@
     "title": "FUNC V2",
     "rarity": "common",
     "when": "1/6/2026, 13.22.29"
+  },
+  {
+    "type": "gacha",
+    "userId": "6808178075",
+    "itemId": "OS0EZHHG",
+    "title": "UBOT BY ZIFER",
+    "rarity": "epic",
+    "when": "1/6/2026, 13.22.56"
+  },
+  {
+    "type": "gacha",
+    "userId": "6808178075",
+    "itemId": "CBZN4W5K",
+    "title": "FOUR REVENGE CRASHER",
+    "rarity": "uncommon",
+    "when": "1/6/2026, 13.23.05"
+  },
+  {
+    "type": "gacha",
+    "userId": "6808178075",
+    "itemId": "BSNNSO3R",
+    "title": "CONTROL PANEL",
+    "rarity": "epic",
+    "when": "1/6/2026, 13.23.14"
   }
 ]
