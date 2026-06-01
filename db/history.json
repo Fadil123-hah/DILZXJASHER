@@ -376,5 +376,21 @@
     "title": "FOUR REVENGE CRASHER",
     "rarity": "uncommon",
     "when": "1/6/2026, 08.03.43"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "unmapped_1XNZU093",
+    "title": "1XNZU093",
+    "rarity": "common",
+    "when": "1/6/2026, 08.03.51"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "4XW183MD",
+    "title": "TOOLS BYPAS BERDB",
+    "rarity": "epic",
+    "when": "1/6/2026, 08.03.58"
   }
 ]
