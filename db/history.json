@@ -688,5 +688,45 @@
     "title": "BASE TAKASHI NO ENC",
     "rarity": "epic",
     "when": "1/6/2026, 13.21.43"
+  },
+  {
+    "type": "gacha",
+    "userId": "6808178075",
+    "itemId": "unmapped_L6QNZAP8",
+    "title": "L6QNZAP8",
+    "rarity": "common",
+    "when": "1/6/2026, 13.21.53"
+  },
+  {
+    "type": "gacha",
+    "userId": "6808178075",
+    "itemId": "CBZN4W5K",
+    "title": "FOUR REVENGE CRASHER",
+    "rarity": "uncommon",
+    "when": "1/6/2026, 13.22.02"
+  },
+  {
+    "type": "gacha",
+    "userId": "6808178075",
+    "itemId": "unmapped_G3FAD5BY",
+    "title": "G3FAD5BY",
+    "rarity": "common",
+    "when": "1/6/2026, 13.22.11"
+  },
+  {
+    "type": "gacha",
+    "userId": "6808178075",
+    "itemId": "CBZN4W5K",
+    "title": "FOUR REVENGE CRASHER",
+    "rarity": "uncommon",
+    "when": "1/6/2026, 13.22.19"
+  },
+  {
+    "type": "gacha",
+    "userId": "6808178075",
+    "itemId": "5AFA2OL6",
+    "title": "FUNC V2",
+    "rarity": "common",
+    "when": "1/6/2026, 13.22.29"
   }
 ]
