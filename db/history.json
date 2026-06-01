@@ -416,5 +416,21 @@
     "title": "FOUR REVENGE CRASHER",
     "rarity": "uncommon",
     "when": "1/6/2026, 08.06.49"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "unmapped_1XNZU093",
+    "title": "1XNZU093",
+    "rarity": "common",
+    "when": "1/6/2026, 08.06.57"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "unmapped_G3FAD5BY",
+    "title": "G3FAD5BY",
+    "rarity": "common",
+    "when": "1/6/2026, 08.07.04"
   }
 ]
