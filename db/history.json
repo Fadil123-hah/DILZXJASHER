@@ -656,5 +656,21 @@
     "title": "RESELLER PANEL PRIVAT",
     "rarity": "mythic",
     "when": "1/6/2026, 12.56.03"
+  },
+  {
+    "type": "gacha",
+    "userId": "7414346835",
+    "itemId": "AXCXBQP9",
+    "title": "BASE BUG WA",
+    "rarity": "common",
+    "when": "1/6/2026, 13.07.58"
+  },
+  {
+    "type": "gacha",
+    "userId": "7414346835",
+    "itemId": "ZS64CT6E",
+    "title": "TANJIRO SLAYER",
+    "rarity": "epic",
+    "when": "1/6/2026, 13.08.07"
   }
 ]
