@@ -360,5 +360,21 @@
     "title": "XP52PLK8",
     "rarity": "common",
     "when": "1/6/2026, 07.50.09"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "BSNNSO3R",
+    "title": "CONTROL PANEL",
+    "rarity": "epic",
+    "when": "1/6/2026, 08.03.36"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "CBZN4W5K",
+    "title": "FOUR REVENGE CRASHER",
+    "rarity": "uncommon",
+    "when": "1/6/2026, 08.03.43"
   }
 ]
