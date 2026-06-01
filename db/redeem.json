@@ -2221,7 +2221,9 @@
       "file_id": "BQACAgUAAxkBAAIv22oSk0H99LvpvCnonap5PTCOA6NEAAKpHwACRkSQVKS7WBcUrBk1OwQ"
     },
     "maxClaim": 5,
-    "claimedBy": [],
+    "claimedBy": [
+      7770198943
+    ],
     "expired": false,
     "auto": true,
     "expireAt": 1780394254018
