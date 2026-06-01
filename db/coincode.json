@@ -1943,7 +1943,7 @@
     "claimedBy": [
       777000
     ],
-    "expired": false,
+    "expired": true,
     "at": 1780204189948,
     "auto": true,
     "expireAt": 1780290589948
@@ -1954,7 +1954,7 @@
     "claimedBy": [
       777000
     ],
-    "expired": false,
+    "expired": true,
     "at": 1780205741424,
     "auto": true,
     "expireAt": 1780292141424
