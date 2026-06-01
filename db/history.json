@@ -752,5 +752,29 @@
     "title": "CONTROL PANEL",
     "rarity": "epic",
     "when": "1/6/2026, 13.23.14"
+  },
+  {
+    "type": "gacha",
+    "userId": "6808178075",
+    "itemId": "unmapped_EUENS5TD",
+    "title": "EUENS5TD",
+    "rarity": "common",
+    "when": "1/6/2026, 13.24.29"
+  },
+  {
+    "type": "gacha",
+    "userId": "6808178075",
+    "itemId": "604ZMEI8",
+    "title": "CASE PACK SC MD",
+    "rarity": "legendary",
+    "when": "1/6/2026, 13.24.36"
+  },
+  {
+    "type": "gacha",
+    "userId": "6808178075",
+    "itemId": "1B4C8F1D",
+    "title": "BASE VOID",
+    "rarity": "uncommon",
+    "when": "1/6/2026, 13.24.46"
   }
 ]
