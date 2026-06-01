@@ -2026,7 +2026,7 @@
       8441891384,
       8795532665
     ],
-    "expired": false,
+    "expired": true,
     "at": 1780227614555,
     "auto": true,
     "expireAt": 1780314014555
@@ -2066,5 +2066,16 @@
     "at": 1780300659034,
     "auto": true,
     "expireAt": 1780387059034
+  },
+  "wzco2nel7bny": {
+    "amount": 10,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780315059033,
+    "auto": true,
+    "expireAt": 1780401459033
   }
 }
