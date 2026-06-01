@@ -560,5 +560,37 @@
     "title": "G3FAD5BY",
     "rarity": "common",
     "when": "1/6/2026, 08.12.55"
+  },
+  {
+    "type": "gacha",
+    "userId": "8240184356",
+    "itemId": "unmapped_EUENS5TD",
+    "title": "EUENS5TD",
+    "rarity": "common",
+    "when": "1/6/2026, 08.15.58"
+  },
+  {
+    "type": "gacha",
+    "userId": "8240184356",
+    "itemId": "unmapped_XP52PLK8",
+    "title": "XP52PLK8",
+    "rarity": "common",
+    "when": "1/6/2026, 08.16.03"
+  },
+  {
+    "type": "gacha",
+    "userId": "8240184356",
+    "itemId": "unmapped_ACBUM759",
+    "title": "ACBUM759",
+    "rarity": "common",
+    "when": "1/6/2026, 08.16.06"
+  },
+  {
+    "type": "gacha",
+    "userId": "8240184356",
+    "itemId": "unmapped_G3FAD5BY",
+    "title": "G3FAD5BY",
+    "rarity": "common",
+    "when": "1/6/2026, 08.16.08"
   }
 ]
