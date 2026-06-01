@@ -886,7 +886,7 @@
   ],
   "settings": {
     "cooldown": {
-      "default": 14
+      "default": 1
     }
   }
 }
