@@ -2178,7 +2178,7 @@
       8314856280,
       7770198943
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1780306809543
   },
@@ -2212,5 +2212,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1780379854012
+  },
+  "wzgak2ed9j5f": {
+    "namaItem": "Indonesia Numbers (1)",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAIv22oSk0H99LvpvCnonap5PTCOA6NEAAKpHwACRkSQVKS7WBcUrBk1OwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780394254018
   }
 }
