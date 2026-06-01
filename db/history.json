@@ -552,5 +552,13 @@
     "title": "BASE ADD TOKEN",
     "rarity": "epic",
     "when": "1/6/2026, 08.09.40"
+  },
+  {
+    "type": "gacha",
+    "userId": "8795532665",
+    "itemId": "unmapped_G3FAD5BY",
+    "title": "G3FAD5BY",
+    "rarity": "common",
+    "when": "1/6/2026, 08.12.55"
   }
 ]
