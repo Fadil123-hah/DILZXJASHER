@@ -2199,5 +2199,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1780365454007
+  },
+  "wzganepkblpz": {
+    "namaItem": "SC CREATE MT BANS",
+    "isiItem": "Script dari user (@FARZMODS)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAKCV2oWJ1Hc9FL3OOtIDobrFQ4awShyAAL0IAACh6hpVxofG_oX0cTsOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780379854012
   }
 }
