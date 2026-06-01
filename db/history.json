@@ -328,5 +328,37 @@
     "title": "FUNC",
     "rarity": "common",
     "when": "1/6/2026, 07.49.42"
+  },
+  {
+    "type": "gacha",
+    "userId": "1468711101",
+    "itemId": "RWGBDNWV",
+    "title": "TEKS UNBAND V1",
+    "rarity": "epic",
+    "when": "1/6/2026, 07.49.49"
+  },
+  {
+    "type": "gacha",
+    "userId": "1468711101",
+    "itemId": "BO0YGSH9",
+    "title": "VORTEZ BVBOT V5",
+    "rarity": "common",
+    "when": "1/6/2026, 07.49.55"
+  },
+  {
+    "type": "gacha",
+    "userId": "1468711101",
+    "itemId": "BO0YGSH9",
+    "title": "VORTEZ BVBOT V5",
+    "rarity": "common",
+    "when": "1/6/2026, 07.50.03"
+  },
+  {
+    "type": "gacha",
+    "userId": "1468711101",
+    "itemId": "unmapped_XP52PLK8",
+    "title": "XP52PLK8",
+    "rarity": "common",
+    "when": "1/6/2026, 07.50.09"
   }
 ]
