@@ -800,5 +800,13 @@
     "title": "CEK AJA",
     "rarity": "uncommon",
     "when": "1/6/2026, 13.31.34"
+  },
+  {
+    "type": "gacha",
+    "userId": "7414346835",
+    "itemId": "LYMG532M",
+    "title": "SC PUSH",
+    "rarity": "epic",
+    "when": "1/6/2026, 13.33.40"
   }
 ]
