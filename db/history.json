@@ -496,5 +496,61 @@
     "title": "TANJIRO SLAYER",
     "rarity": "epic",
     "when": "1/6/2026, 08.08.42"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "R0ON1BCR",
+    "title": "TOOLS DDOS",
+    "rarity": "legendary",
+    "when": "1/6/2026, 08.08.49"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "KR3O1UN7",
+    "title": "UBOT TERMUX",
+    "rarity": "uncommon",
+    "when": "1/6/2026, 08.08.56"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "DGGDYTFR",
+    "title": "TEKS RESET OTP WA",
+    "rarity": "uncommon",
+    "when": "1/6/2026, 08.08.57"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "TXETZQ5J",
+    "title": "RESET OTP WA V1",
+    "rarity": "uncommon",
+    "when": "1/6/2026, 08.08.57"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "K0N5MB6K",
+    "title": "SC JASHER V7",
+    "rarity": "legendary",
+    "when": "1/6/2026, 08.08.58"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "55P00THL",
+    "title": "JASHER NO ENC",
+    "rarity": "epic",
+    "when": "1/6/2026, 08.09.35"
+  },
+  {
+    "type": "gacha",
+    "userId": "8261421749",
+    "itemId": "3H06R8LW",
+    "title": "BASE ADD TOKEN",
+    "rarity": "epic",
+    "when": "1/6/2026, 08.09.40"
   }
 ]
