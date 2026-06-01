@@ -680,5 +680,13 @@
     "title": "CONTROL PANEL",
     "rarity": "epic",
     "when": "1/6/2026, 13.20.26"
+  },
+  {
+    "type": "gacha",
+    "userId": "6808178075",
+    "itemId": "9E2EDDYE",
+    "title": "BASE TAKASHI NO ENC",
+    "rarity": "epic",
+    "when": "1/6/2026, 13.21.43"
   }
 ]
