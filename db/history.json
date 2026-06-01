@@ -776,5 +776,13 @@
     "title": "BASE VOID",
     "rarity": "uncommon",
     "when": "1/6/2026, 13.24.46"
+  },
+  {
+    "type": "gacha",
+    "userId": "6808178075",
+    "itemId": "6BDMJHWG",
+    "title": "PLP COLLAB R SLOT",
+    "rarity": "epic",
+    "when": "1/6/2026, 13.24.54"
   }
 ]
