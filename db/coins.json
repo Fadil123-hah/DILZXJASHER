@@ -494,5 +494,9 @@
   "8598098243": {
     "balance": 0,
     "referredBy": null
+  },
+  "8029294241": {
+    "balance": 20,
+    "referredBy": null
   }
 }
