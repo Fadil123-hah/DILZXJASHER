@@ -1369,5 +1369,20 @@
     "expired": true,
     "auto": true,
     "expireAt": 1779482750366
+  },
+  "wzgas6z36db3": {
+    "namaItem": "Project",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBVOFqHrrZvYXaTAcoVShHEycbCgTHlgACSR4AAsGW8FTYHqH82aBSEjsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      7523355804
+    ],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780488658050
   }
 }
