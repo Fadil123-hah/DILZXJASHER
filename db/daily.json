@@ -1,43 +1,18 @@
 {
   "609517172": {
-    "lastClaimDay": "2026-06-01",
-    "streak": 1,
-    "totalClaim": 6
-  },
-  "1842273254": {
-    "lastClaimDay": "2026-05-22",
+    "lastClaimDay": "2026-05-21",
     "streak": 1,
     "totalClaim": 1
-  },
-  "1891716046": {
-    "lastClaimDay": "2026-05-24",
-    "streak": 1,
-    "totalClaim": 1
-  },
-  "1921671426": {
-    "lastClaimDay": "2026-05-24",
-    "streak": 1,
-    "totalClaim": 1
-  },
-  "1952558844": {
-    "lastClaimDay": "2026-05-26",
-    "streak": 1,
-    "totalClaim": 1
-  },
-  "2128065133": {
-    "lastClaimDay": "2026-05-27",
-    "streak": 3,
-    "totalClaim": 3
   },
   "5705401731": {
-    "lastClaimDay": "2026-06-01",
+    "lastClaimDay": "2026-05-22",
     "streak": 1,
-    "totalClaim": 4
+    "totalClaim": 2
   },
   "6921840701": {
-    "lastClaimDay": "2026-05-22",
-    "streak": 4,
-    "totalClaim": 4
+    "lastClaimDay": "2026-05-21",
+    "streak": 3,
+    "totalClaim": 3
   },
   "7887852277": {
     "lastClaimDay": "2026-05-21",
@@ -45,39 +20,39 @@
     "totalClaim": 2
   },
   "7611754920": {
-    "lastClaimDay": "2026-05-30",
+    "lastClaimDay": "2026-05-21",
     "streak": 1,
-    "totalClaim": 4
+    "totalClaim": 1
   },
   "8240184356": {
-    "lastClaimDay": "2026-05-27",
-    "streak": 2,
-    "totalClaim": 4
+    "lastClaimDay": "2026-05-21",
+    "streak": 1,
+    "totalClaim": 1
   },
   "8795532665": {
-    "lastClaimDay": "2026-06-01",
+    "lastClaimDay": "2026-05-21",
     "streak": 1,
-    "totalClaim": 2
+    "totalClaim": 1
   },
   "8314856280": {
-    "lastClaimDay": "2026-05-27",
-    "streak": 2,
-    "totalClaim": 5
+    "lastClaimDay": "2026-05-21",
+    "streak": 1,
+    "totalClaim": 1
   },
   "8509663776": {
-    "lastClaimDay": "2026-05-28",
-    "streak": 2,
-    "totalClaim": 3
+    "lastClaimDay": "2026-05-21",
+    "streak": 1,
+    "totalClaim": 1
   },
   "8624313831": {
-    "lastClaimDay": "2026-05-22",
-    "streak": 2,
-    "totalClaim": 2
+    "lastClaimDay": "2026-05-21",
+    "streak": 1,
+    "totalClaim": 1
   },
   "7978883597": {
-    "lastClaimDay": "2026-05-27",
+    "lastClaimDay": "2026-05-21",
     "streak": 1,
-    "totalClaim": 4
+    "totalClaim": 1
   },
   "7166870727": {
     "lastClaimDay": "2026-05-21",
@@ -85,112 +60,7 @@
     "totalClaim": 1
   },
   "8724713446": {
-    "lastClaimDay": "2026-05-29",
-    "streak": 1,
-    "totalClaim": 2
-  },
-  "8343604438": {
     "lastClaimDay": "2026-05-22",
-    "streak": 1,
-    "totalClaim": 1
-  },
-  "8870215366": {
-    "lastClaimDay": "2026-05-23",
-    "streak": 2,
-    "totalClaim": 2
-  },
-  "7824453416": {
-    "lastClaimDay": "2026-05-24",
-    "streak": 2,
-    "totalClaim": 2
-  },
-  "8047476318": {
-    "lastClaimDay": "2026-05-24",
-    "streak": 1,
-    "totalClaim": 1
-  },
-  "6515076637": {
-    "lastClaimDay": "2026-05-25",
-    "streak": 1,
-    "totalClaim": 1
-  },
-  "7551446752": {
-    "lastClaimDay": "2026-05-27",
-    "streak": 3,
-    "totalClaim": 3
-  },
-  "8525168497": {
-    "lastClaimDay": "2026-05-27",
-    "streak": 2,
-    "totalClaim": 2
-  },
-  "8424231888": {
-    "lastClaimDay": "2026-05-26",
-    "streak": 1,
-    "totalClaim": 1
-  },
-  "8126940847": {
-    "lastClaimDay": "2026-05-26",
-    "streak": 1,
-    "totalClaim": 1
-  },
-  "7385550151": {
-    "lastClaimDay": "2026-05-28",
-    "streak": 1,
-    "totalClaim": 2
-  },
-  "8516680133": {
-    "lastClaimDay": "2026-05-27",
-    "streak": 1,
-    "totalClaim": 1
-  },
-  "8775387557": {
-    "lastClaimDay": "2026-05-27",
-    "streak": 1,
-    "totalClaim": 1
-  },
-  "8469052493": {
-    "lastClaimDay": "2026-05-30",
-    "streak": 1,
-    "totalClaim": 2
-  },
-  "8699409011": {
-    "lastClaimDay": "2026-05-27",
-    "streak": 1,
-    "totalClaim": 1
-  },
-  "8265699182": {
-    "lastClaimDay": "2026-05-27",
-    "streak": 1,
-    "totalClaim": 1
-  },
-  "6808178075": {
-    "lastClaimDay": "2026-06-01",
-    "streak": 1,
-    "totalClaim": 2
-  },
-  "8936469770": {
-    "lastClaimDay": "2026-05-30",
-    "streak": 2,
-    "totalClaim": 2
-  },
-  "7525601585": {
-    "lastClaimDay": "2026-05-31",
-    "streak": 1,
-    "totalClaim": 2
-  },
-  "7259636732": {
-    "lastClaimDay": "2026-05-31",
-    "streak": 1,
-    "totalClaim": 1
-  },
-  "8261421749": {
-    "lastClaimDay": "2026-05-31",
-    "streak": 1,
-    "totalClaim": 1
-  },
-  "8839357155": {
-    "lastClaimDay": "2026-05-31",
     "streak": 1,
     "totalClaim": 1
   }
