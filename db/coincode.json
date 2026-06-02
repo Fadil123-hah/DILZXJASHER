@@ -643,7 +643,9 @@
   "wzcolfcalhsy": {
     "amount": 20,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      777000
+    ],
     "expired": false,
     "at": 1780394520216,
     "auto": true,
@@ -652,10 +654,23 @@
   "wzcozafk3y7s": {
     "amount": 20,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      777000
+    ],
     "expired": false,
     "at": 1780394676157,
     "auto": true,
     "expireAt": 1780481076157
+  },
+  "wzcolyu4jyz4": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780395063084,
+    "auto": true,
+    "expireAt": 1780481463084
   }
 }
