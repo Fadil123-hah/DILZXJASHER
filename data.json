@@ -920,6 +920,6 @@
     "cooldown": {
       "default": 15
     },
-    "maintenance": true
+    "maintenance": false
   }
 }
