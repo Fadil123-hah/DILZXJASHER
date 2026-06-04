@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "sc_1780571526381_8462",
+    "name": "botnet main",
+    "price": 231,
+    "desc": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBVOBqHrrZ4xWEaiOCil2jOt67fvPhvAACSB4AAsGW8FRnG97aCfKh5jsE"
+    },
+    "fromUser": 7978883597,
+    "fromUsername": "@zakyynew",
+    "at": 1780571526381
+  }
+]
