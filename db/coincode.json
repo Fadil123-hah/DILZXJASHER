@@ -215,5 +215,16 @@
     "at": 1780563013979,
     "auto": true,
     "expireAt": 1780649413979
+  },
+  "wzcobbn444gy": {
+    "amount": 20,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780577413983,
+    "auto": true,
+    "expireAt": 1780663813983
   }
 }
