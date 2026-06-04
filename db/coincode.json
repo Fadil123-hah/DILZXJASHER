@@ -190,7 +190,9 @@
   "wzcocync2t6n": {
     "amount": 50,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8795532665
+    ],
     "expired": false,
     "at": 1780562178021,
     "auto": true,
@@ -199,7 +201,9 @@
   "wzcout7bgjds": {
     "amount": 50,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8795532665
+    ],
     "expired": false,
     "at": 1780562458322,
     "auto": true,
@@ -209,7 +213,8 @@
     "amount": 50,
     "maxClaim": 70,
     "claimedBy": [
-      777000
+      777000,
+      8795532665
     ],
     "expired": false,
     "at": 1780563013979,
