@@ -473,7 +473,9 @@
   "wzcolhr2dhlq": {
     "amount": 10,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8795532665
+    ],
     "expired": false,
     "at": 1780639253387,
     "auto": true,
@@ -540,7 +542,8 @@
     "claimedBy": [
       777000,
       8526978408,
-      8699409011
+      8699409011,
+      8795532665
     ],
     "expired": false,
     "at": 1780658471070
