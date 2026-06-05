@@ -533,5 +533,14 @@
     "at": 1780658333910,
     "auto": true,
     "expireAt": 1780744733910
+  },
+  "ambasing": {
+    "amount": 10000,
+    "maxClaim": 50,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780658471070
   }
 }
