@@ -11,5 +11,18 @@
     "fromUser": 7739237719,
     "fromUsername": "@NpcPensi",
     "at": 1780641227586
+  },
+  {
+    "id": "sc_1780675208227_2060",
+    "name": "autoleave",
+    "price": 269,
+    "desc": "Script dari user (@NpcPensi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBjAABaiLyiRpX1CEzbxZCzK8BgxvXEkgAAvwcAAKitRhVdWQzLX0UTOU7BA"
+    },
+    "fromUser": 7739237719,
+    "fromUsername": "@NpcPensi",
+    "at": 1780675208228
   }
 ]
