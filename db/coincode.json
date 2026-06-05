@@ -491,5 +491,16 @@
     "at": 1780639523659,
     "auto": true,
     "expireAt": 1780725923659
+  },
+  "wzcotfml28n4": {
+    "amount": 75,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780653923699,
+    "auto": true,
+    "expireAt": 1780740323699
   }
 }
