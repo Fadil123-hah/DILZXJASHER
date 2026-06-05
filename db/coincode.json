@@ -549,5 +549,16 @@
     ],
     "expired": false,
     "at": 1780658471070
+  },
+  "wzcoukd2v3tc": {
+    "amount": 10,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780672733990,
+    "auto": true,
+    "expireAt": 1780759133990
   }
 }
