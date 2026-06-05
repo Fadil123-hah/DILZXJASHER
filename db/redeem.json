@@ -1373,5 +1373,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1780766329015
+  },
+  "wzgalz8j82q9": {
+    "namaItem": "AutoBlacklist",
+    "isiItem": "Script dari user (@NpcPensi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBjAdqIvLMVLAQfOytaYfF0Xcz17zm5QADHQACorUYVberuknya9xhOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780780729028
   }
 }
