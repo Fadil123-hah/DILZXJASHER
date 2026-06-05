@@ -1,8 +1,4 @@
 {
-  "777000": {
-    "balance": 145,
-    "referredBy": null
-  },
   "1082147129": {
     "balance": 1275,
     "referredBy": null
@@ -40,14 +36,6 @@
     "referredBy": null
   },
   "1787212969": {
-    "balance": 0,
-    "referredBy": null
-  },
-  "1838087802": {
-    "balance": 75,
-    "referredBy": null
-  },
-  "1906580303": {
     "balance": 0,
     "referredBy": null
   },
@@ -403,40 +391,8 @@
     "balance": 300,
     "referredBy": null
   },
-  "8795532665": {
-    "balance": 150,
-    "referredBy": null
-  },
-  "7611754920": {
-    "balance": 0,
-    "referredBy": null
-  },
-  "5705401731": {
-    "balance": 0,
-    "referredBy": null
-  },
-  "7978883597": {
-    "balance": 710,
-    "referredBy": null
-  },
-  "8252015681": {
-    "balance": 0,
-    "referredBy": null
-  },
-  "8699409011": {
-    "balance": 0,
-    "referredBy": null
-  },
-  "7946596528": {
-    "balance": 0,
-    "referredBy": null
-  },
-  "7739237719": {
-    "balance": 0,
-    "referredBy": null
-  },
-  "8652646541": {
-    "balance": 75,
+  "8247284300": {
+    "balance": 95,
     "referredBy": null
   }
 }
