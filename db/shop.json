@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "sc_1780641227586_1190",
+    "name": "auto create email",
+    "price": 223,
+    "desc": "Script dari user (@NpcPensi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBeL1qIm3Mz_1eD86_5wTulZbZuHmuGQACBRwAAqK1GFUQCtLg9HizRTsE"
+    },
+    "fromUser": 7739237719,
+    "fromUsername": "@NpcPensi",
+    "at": 1780641227586
+  }
+]
