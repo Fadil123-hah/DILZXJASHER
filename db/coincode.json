@@ -478,5 +478,16 @@
     "at": 1780639253387,
     "auto": true,
     "expireAt": 1780725653387
+  },
+  "wzco9z75m5qv": {
+    "amount": 30,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780639523659,
+    "auto": true,
+    "expireAt": 1780725923659
   }
 }
