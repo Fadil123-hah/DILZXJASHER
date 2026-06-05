@@ -1325,5 +1325,18 @@
     "expired": true,
     "auto": true,
     "expireAt": 1772692438076
+  },
+  "wzgalaggh2sx": {
+    "namaItem": "auto create email",
+    "isiItem": "Script dari user (@NpcPensi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBeL1qIm3Mz_1eD86_5wTulZbZuHmuGQACBRwAAqK1GFUQCtLg9HizRTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780733118606
   }
 }
