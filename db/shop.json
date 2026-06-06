@@ -596,5 +596,18 @@
     "fromUser": 8509663776,
     "fromUsername": null,
     "at": 1780738848498
+  },
+  {
+    "id": "sc_1780741646204_4207",
+    "name": "DEWA APK V3.7 (2)",
+    "price": 271,
+    "desc": "Script dari user (@OpenRekber01)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBqeJqI_YP3zVyVxb7ourj45Bv3L0yewAChCAAAjq0IVUM8hY_0algfTsE"
+    },
+    "fromUser": 8845006457,
+    "fromUsername": "@OpenRekber01",
+    "at": 1780741646204
   }
 ]
