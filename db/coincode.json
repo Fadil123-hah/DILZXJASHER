@@ -512,7 +512,7 @@
     "amount": 10,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1780658187976,
     "auto": true,
     "expireAt": 1780744587976
@@ -525,7 +525,7 @@
       8526978408,
       8240184356
     ],
-    "expired": false,
+    "expired": true,
     "at": 1780658215158,
     "auto": true,
     "expireAt": 1780744615158
@@ -534,7 +534,7 @@
     "amount": 75,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1780658333910,
     "auto": true,
     "expireAt": 1780744733910
@@ -649,5 +649,17 @@
     "at": 1780735328919,
     "auto": true,
     "expireAt": 1780821728919
+  },
+  "wzcohrxpfk4j": {
+    "amount": 75,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000,
+      8845006457
+    ],
+    "expired": false,
+    "at": 1780745815479,
+    "auto": true,
+    "expireAt": 1780832215479
   }
 }
