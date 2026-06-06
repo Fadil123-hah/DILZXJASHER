@@ -12,5 +12,15 @@
       "harga": 1000
     }
   ],
-  "akses_group": []
+  "akses_group": [
+    {
+      "id": "GB-1780728157804",
+      "tipe": "link_gb",
+      "kategori": "Akses Groub",
+      "nama": "Akses Ceo @AotJasher_bot",
+      "link": "https://t.me/+fjuBadEXUlAyOTll",
+      "stok": 5,
+      "harga": 1000
+    }
+  ]
 }
