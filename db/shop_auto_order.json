@@ -2,15 +2,5 @@
   "panel": [],
   "script": [],
   "ress_fullup": [],
-  "akses_group": [
-    {
-      "id": "GB-1780727357085",
-      "tipe": "link_gb",
-      "kategori": "Akses Groub",
-      "nama": "Akses Ceo Jasher",
-      "link": "https://t.me/+RXwHqf_SW-RhNzk1",
-      "stok": 1,
-      "harga": 1000
-    }
-  ]
+  "akses_group": []
 }
