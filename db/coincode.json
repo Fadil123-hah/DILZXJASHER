@@ -721,5 +721,16 @@
     "at": 1780789900734,
     "auto": true,
     "expireAt": 1780876300734
+  },
+  "wzco346t478h": {
+    "amount": 50,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780789999726,
+    "auto": true,
+    "expireAt": 1780876399726
   }
 }
