@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "type": "gacha",
+    "userId": "8509663776",
+    "itemId": "CBZN4W5K",
+    "title": "FOUR REVENGE CRASHER",
+    "rarity": "uncommon",
+    "when": "6/6/2026, 16.46.06"
+  },
+  {
+    "type": "gacha",
+    "userId": "8509663776",
+    "itemId": "unmapped_XP52PLK8",
+    "title": "XP52PLK8",
+    "rarity": "common",
+    "when": "6/6/2026, 16.46.17"
+  }
+]
