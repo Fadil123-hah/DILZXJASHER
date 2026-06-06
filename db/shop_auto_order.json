@@ -1,6 +1,16 @@
 {
   "panel": [],
   "script": [],
-  "ress_fullup": [],
+  "ress_fullup": [
+    {
+      "id": "GB-1780728078216",
+      "tipe": "link_gb",
+      "kategori": "Aksed Groub",
+      "nama": "Akses Ceo @AotJasher_bot",
+      "link": "https://t.me/+fjuBadEXUlAyOTll",
+      "stok": 5,
+      "harga": 1000
+    }
+  ],
   "akses_group": []
 }
