@@ -37,5 +37,31 @@
     "fromUser": 7739237719,
     "fromUsername": "@NpcPensi",
     "at": 1780675274993
+  },
+  {
+    "id": "sc_1780738540960_7228",
+    "name": "c html dlii",
+    "price": 220,
+    "desc": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: c html dlii.zip\n┣ 💸 Harga: 1,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpxtqI-ntdkMMTRc2cIpZ30AXRM7_ZgAC8SAAAofdeVeG2eszBnv6DDsE"
+    },
+    "fromUser": 8509663776,
+    "fromUsername": null,
+    "at": 1780738540960
+  },
+  {
+    "id": "sc_1780738541686_6267",
+    "name": "Zion MD",
+    "price": 206,
+    "desc": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: Zion-MD.zip\n┣ 💸 Harga: 1,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpxpqI-nt8wTVxJBGEii0p3BWDB3dlwACCxYAAln98FVH1u_6Z_CqUzsE"
+    },
+    "fromUser": 8509663776,
+    "fromUsername": null,
+    "at": 1780738541686
   }
 ]
