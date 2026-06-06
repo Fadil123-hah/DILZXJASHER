@@ -1,116 +1,16 @@
 {
-  "panel": [
-    {
-      "id": "PRIB-1780204501852",
-      "tipe": "panel_prib",
-      "nama": "Panel Pribadi",
-      "listHarga": [
-        {
-          "ram": "unli",
-          "harga": 10000,
-          "stok": 10
-        },
-        {
-          "ram": "10gb",
-          "harga": 9000,
-          "stok": 10
-        },
-        {
-          "ram": "9gb",
-          "harga": 8000,
-          "stok": 10
-        },
-        {
-          "ram": "8gb",
-          "harga": 7000,
-          "stok": 10
-        },
-        {
-          "ram": "7gb",
-          "harga": 6000,
-          "stok": 10
-        },
-        {
-          "ram": "6gb",
-          "harga": 5000,
-          "stok": 10
-        },
-        {
-          "ram": "5gb",
-          "harga": 4000,
-          "stok": 10
-        },
-        {
-          "ram": "4gb",
-          "harga": 3000,
-          "stok": 10
-        }
-      ],
-      "domain": "https://lanzptrodactly.biz.id",
-      "plta": "ptla_BuM2LxQ3hpVVu8fsY8WrqqcQqvOhQF4WkWQT62wQrrq",
-      "pltc": "ptlc_TM1DTs5JNW1r1dPeBvyc4zrpT9cjvILVKQLIlrRZxDo"
-    },
-    {
-      "id": "ADP-1780204609295",
-      "tipe": "adp",
-      "nama": "Admin Panel (ADP)",
-      "link": "https://t.me/+1vz_mHIvNFdlNGVl",
-      "stok": 10,
-      "harga": 10000,
-      "domain": "https://lanzptrodactly.biz.id",
-      "plta": "ptla_BuM2LxQ3hpVVu8fsY8WrqqcQqvOhQF4WkWQT62wQrrq",
-      "pltc": "ptlc_TM1DTs5JNW1r1dPeBvyc4zrpT9cjvILVKQLIlrRZxDo"
-    },
-    {
-      "id": "PRIB-1780204651181",
-      "tipe": "panel_prib",
-      "nama": "Panel Pribadi",
-      "listHarga": [
-        {
-          "ram": "1gb",
-          "harga": 1,
-          "stok": 0
-        }
-      ],
-      "domain": "https://lanzptrodactly.biz.id",
-      "plta": "ptla_BuM2LxQ3hpVVu8fsY8WrqqcQqvOhQF4WkWQT62wQrrq",
-      "pltc": "ptlc_TM1DTs5JNW1r1dPeBvyc4zrpT9cjvILVKQLIlrRZxDo"
-    },
-    {
-      "id": "PT_PANEL-1780211518170",
-      "tipe": "pt_panel",
-      "nama": "PT PANEL",
-      "link": "https://t.me/+1vz_mHIvNFdlNGVl",
-      "stok": 2,
-      "harga": 13000
-    },
-    {
-      "id": "PT_PANEL-1780213281069",
-      "tipe": "pt_panel",
-      "nama": "PT PANEL",
-      "link": "https://t.me/+1vz_mHIvNFdlNGVl",
-      "stok": 2,
-      "harga": 13000
-    }
-  ],
-  "script": [
-    {
-      "id": "SC-1780209160557",
-      "tipe": "script_file",
-      "nama": "Sc Ubot Vvip",
-      "file_id": "BQACAgUAAxkBAAEBOTtqG9X1hGze9eh_pntoUtlD4J2MdQACtx0AAphfwFRXCNG-HrzVUDsE",
-      "harga": 5000,
-      "stok": 99
-    },
-    {
-      "id": "SC-1780213606664",
-      "tipe": "script_file",
-      "nama": "Flash Sale Script Ubot Vvip",
-      "file_id": "BQACAgUAAxkBAAEBOTtqG9X1hGze9eh_pntoUtlD4J2MdQACtx0AAphfwFRXCNG-HrzVUDsE",
-      "harga": 3000,
-      "stok": 1
-    }
-  ],
+  "panel": [],
+  "script": [],
   "ress_fullup": [],
-  "akses_group": []
+  "akses_group": [
+    {
+      "id": "GB-1780727357085",
+      "tipe": "link_gb",
+      "kategori": "Akses Groub",
+      "nama": "Akses Ceo Jasher",
+      "link": "https://t.me/+RXwHqf_SW-RhNzk1",
+      "stok": 1,
+      "harga": 1000
+    }
+  ]
 }
