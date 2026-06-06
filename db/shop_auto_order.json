@@ -66,7 +66,16 @@
       "pltc": "ptlc_Jem59lUWo6iBasrP6s9DH1n8dbkgdLzznVDbJX2nI8p"
     }
   ],
-  "script": [],
+  "script": [
+    {
+      "id": "SC-1780729153528",
+      "tipe": "script_file",
+      "nama": "Sc Ubot Vvip By Dilzx Via Panel",
+      "file_id": "BQACAgUAAxkDAAEBSTNqHRrGKQiS_QSsmL0VGGjL_ioZ1QACtx0AAphfwFRXCNG-HrzVUDsE",
+      "harga": 5000,
+      "stok": 5
+    }
+  ],
   "ress_fullup": [
     {
       "id": "GB-1780728078216",
