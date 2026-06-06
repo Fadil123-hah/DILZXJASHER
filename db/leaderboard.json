@@ -1333,9 +1333,18 @@
   },
   "7946596528": {
     "username": "@Sayroofficial",
+    "total": 3,
+    "hadiah": [
+      "auto create email",
+      "autoleave",
+      "AutoBlacklist"
+    ]
+  },
+  "8164024849": {
+    "username": "@OZILDEVELOPER",
     "total": 1,
     "hadiah": [
-      "auto create email"
+      "AutoBlacklist"
     ]
   }
 }
