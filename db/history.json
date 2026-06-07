@@ -918,5 +918,45 @@
     "title": "BASE ADD TOKEN",
     "rarity": "epic",
     "when": "7/6/2026, 15.02.37"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "BO0YGSH9",
+    "title": "VORTEZ BVBOT V5",
+    "rarity": "common",
+    "when": "7/6/2026, 15.02.46"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "unmapped_XP52PLK8",
+    "title": "XP52PLK8",
+    "rarity": "common",
+    "when": "7/6/2026, 15.02.50"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "ZS64CT6E",
+    "title": "TANJIRO SLAYER",
+    "rarity": "epic",
+    "when": "7/6/2026, 15.02.54"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "6VBDFTC8",
+    "title": "FUNC CRASH CLICK",
+    "rarity": "epic",
+    "when": "7/6/2026, 15.03.00"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "unmapped_ACBUM759",
+    "title": "ACBUM759",
+    "rarity": "common",
+    "when": "7/6/2026, 15.03.20"
   }
 ]
