@@ -70,5 +70,61 @@
     "title": "BASE VOID",
     "rarity": "uncommon",
     "when": "7/6/2026, 10.05.09"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "2DCQFWHV",
+    "title": "ANGKASA BOT LIMIT V0.1",
+    "rarity": "uncommon",
+    "when": "7/6/2026, 10.05.36"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "unmapped_0QGTNX8D",
+    "title": "0QGTNX8D",
+    "rarity": "common",
+    "when": "7/6/2026, 10.05.57"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "unmapped_1XNZU093",
+    "title": "1XNZU093",
+    "rarity": "common",
+    "when": "7/6/2026, 10.06.00"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "TXETZQ5J",
+    "title": "RESET OTP WA V1",
+    "rarity": "uncommon",
+    "when": "7/6/2026, 10.06.05"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "9E2EDDYE",
+    "title": "BASE TAKASHI NO ENC",
+    "rarity": "epic",
+    "when": "7/6/2026, 10.06.05"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "unmapped_WZH3BCSG",
+    "title": "WZH3BCSG",
+    "rarity": "common",
+    "when": "7/6/2026, 10.06.06"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "6VBDFTC8",
+    "title": "FUNC CRASH CLICK",
+    "rarity": "epic",
+    "when": "7/6/2026, 10.06.07"
   }
 ]
