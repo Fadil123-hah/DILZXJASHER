@@ -158,5 +158,45 @@
     "title": "X FUXXO",
     "rarity": "epic",
     "when": "7/6/2026, 10.15.59"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "RWGBDNWV",
+    "title": "TEKS UNBAND V1",
+    "rarity": "epic",
+    "when": "7/6/2026, 10.16.38"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "TXETZQ5J",
+    "title": "RESET OTP WA V1",
+    "rarity": "uncommon",
+    "when": "7/6/2026, 10.16.40"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "unmapped_XP52PLK8",
+    "title": "XP52PLK8",
+    "rarity": "common",
+    "when": "7/6/2026, 10.17.18"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "43IPITW5",
+    "title": "SC EZOZET V1.0.3",
+    "rarity": "epic",
+    "when": "7/6/2026, 10.17.18"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "unmapped_ACBUM759",
+    "title": "ACBUM759",
+    "rarity": "common",
+    "when": "7/6/2026, 10.17.19"
   }
 ]
