@@ -126,5 +126,21 @@
     "title": "FUNC CRASH CLICK",
     "rarity": "epic",
     "when": "7/6/2026, 10.06.07"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "4LA8TPND",
+    "title": "NEZUKO DEVIL",
+    "rarity": "epic",
+    "when": "7/6/2026, 10.06.36"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "43IPITW5",
+    "title": "SC EZOZET V1.0.3",
+    "rarity": "epic",
+    "when": "7/6/2026, 10.06.58"
   }
 ]
