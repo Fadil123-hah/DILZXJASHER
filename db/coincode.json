@@ -596,7 +596,7 @@
       777000,
       7946596528
     ],
-    "expired": false,
+    "expired": true,
     "at": 1780715933959,
     "auto": true,
     "expireAt": 1780802333959
@@ -921,5 +921,16 @@
     "at": 1780801393656,
     "auto": true,
     "expireAt": 1780887793656
+  },
+  "wzcow7ev2u69": {
+    "amount": 75,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780802933927,
+    "auto": true,
+    "expireAt": 1780889333927
   }
 }
