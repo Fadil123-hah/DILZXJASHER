@@ -1552,5 +1552,15 @@
     "price": 141,
     "discount": 0,
     "at": 1780792446653
+  },
+  {
+    "id": 1780792620212,
+    "userId": 8509663776,
+    "username": "𝐃𝐢𝐥𝐳𝐱𝐗𝐲𝐳 𝐓𝟓",
+    "itemId": "sc_1780738825964_196",
+    "itemName": "FIX SC BUYNOKOSV2",
+    "price": 135,
+    "discount": 0,
+    "at": 1780792620212
   }
 ]
