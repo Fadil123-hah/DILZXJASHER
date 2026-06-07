@@ -828,11 +828,35 @@
     "amount": 10,
     "maxClaim": 70,
     "claimedBy": [
-      777000
+      777000,
+      7946596528
     ],
     "expired": false,
     "at": 1780799794107,
     "auto": true,
     "expireAt": 1780886194107
+  },
+  "wzco86h53zpl": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000,
+      7946596528
+    ],
+    "expired": false,
+    "at": 1780800149885,
+    "auto": true,
+    "expireAt": 1780886549885
+  },
+  "wzcof6mhjt6j": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780800223272,
+    "auto": true,
+    "expireAt": 1780886623272
   }
 }
