@@ -238,5 +238,45 @@
     "title": "XP52PLK8",
     "rarity": "common",
     "when": "7/6/2026, 10.17.32"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "BO0YGSH9",
+    "title": "VORTEZ BVBOT V5",
+    "rarity": "common",
+    "when": "7/6/2026, 10.18.48"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "BO0YGSH9",
+    "title": "VORTEZ BVBOT V5",
+    "rarity": "common",
+    "when": "7/6/2026, 10.18.49"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "TEWOP0LZ",
+    "title": "BOT JAGA GB BY ZIFER NO ENC",
+    "rarity": "legendary",
+    "when": "7/6/2026, 10.18.49"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "97RR7EIV",
+    "title": "FUNC",
+    "rarity": "common",
+    "when": "7/6/2026, 10.18.50"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "unmapped_GBHCRB2V",
+    "title": "GBHCRB2V",
+    "rarity": "common",
+    "when": "7/6/2026, 10.18.50"
   }
 ]
