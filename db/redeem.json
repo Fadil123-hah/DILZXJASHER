@@ -1488,5 +1488,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1780868210600
+  },
+  "wzgaxn7cegax": {
+    "namaItem": "gacha bot",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: gacha-bot.zip\n┣ 💸 Harga: 20,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpz1qI-oheDP96ZKDU4RZJNg_7pMB6gACrBoAAkG6qFZi54pOX2ICTDsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780905509306
   }
 }
