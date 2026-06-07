@@ -651,5 +651,18 @@
     "fromUser": 7235398434,
     "fromUsername": "@penzoyzy29",
     "at": 1780802044118
+  },
+  {
+    "id": "sc_1780818127797_6650",
+    "name": "SC PUSH",
+    "price": 263,
+    "desc": "—( 🎉 ) || SELAMAT! Kamu Mendapat:\n\n¤ Item : 🟣 SC PUSH\n¤ Tipe : EPIC\n¤ Sisa Coin : 💰 0",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkDAAEBS5pqHSfFBrfNpPHXzwk9tkfk_qfV1wACJhwAAhhU2VTOAsFE-NkLljsE"
+    },
+    "fromUser": 7414346835,
+    "fromUsername": null,
+    "at": 1780818127797
   }
 ]
