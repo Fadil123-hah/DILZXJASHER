@@ -854,5 +854,21 @@
     "title": "XP52PLK8",
     "rarity": "common",
     "when": "7/6/2026, 13.05.22"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "unmapped_G3FAD5BY",
+    "title": "G3FAD5BY",
+    "rarity": "common",
+    "when": "7/6/2026, 15.01.11"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "55P00THL",
+    "title": "JASHER NO ENC",
+    "rarity": "epic",
+    "when": "7/6/2026, 15.01.38"
   }
 ]
