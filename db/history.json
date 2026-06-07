@@ -478,5 +478,85 @@
     "title": "BASE ADD TOKEN",
     "rarity": "epic",
     "when": "7/6/2026, 10.22.07"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "unmapped_8AZM527G",
+    "title": "8AZM527G",
+    "rarity": "common",
+    "when": "7/6/2026, 10.29.57"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "AY4L6Q0S",
+    "title": "MD VIA WA",
+    "rarity": "legendary",
+    "when": "7/6/2026, 10.29.59"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "TXETZQ5J",
+    "title": "RESET OTP WA V1",
+    "rarity": "uncommon",
+    "when": "7/6/2026, 10.29.59"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "LYMG532M",
+    "title": "SC PUSH",
+    "rarity": "epic",
+    "when": "7/6/2026, 10.29.59"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "unmapped_VIH2094A",
+    "title": "VIH2094A",
+    "rarity": "common",
+    "when": "7/6/2026, 10.29.59"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "2DCQFWHV",
+    "title": "ANGKASA BOT LIMIT V0.1",
+    "rarity": "uncommon",
+    "when": "7/6/2026, 10.30.02"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "CBZN4W5K",
+    "title": "FOUR REVENGE CRASHER",
+    "rarity": "uncommon",
+    "when": "7/6/2026, 10.30.02"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "unmapped_VIH2094A",
+    "title": "VIH2094A",
+    "rarity": "common",
+    "when": "7/6/2026, 10.30.03"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "unmapped_WZH3BCSG",
+    "title": "WZH3BCSG",
+    "rarity": "common",
+    "when": "7/6/2026, 10.30.03"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "ZL2WONBX",
+    "title": "MD TELE",
+    "rarity": "legendary",
+    "when": "7/6/2026, 10.30.09"
   }
 ]
