@@ -988,5 +988,14 @@
     "at": 1780811914309,
     "auto": true,
     "expireAt": 1780898314309
+  },
+  "vvip": {
+    "amount": 1000,
+    "maxClaim": 100,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780813948075
   }
 }
