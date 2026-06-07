@@ -910,5 +910,16 @@
     "at": 1780801092403,
     "auto": true,
     "expireAt": 1780887492403
+  },
+  "wzcocdp23erz": {
+    "amount": 30,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780801393656,
+    "auto": true,
+    "expireAt": 1780887793656
   }
 }
