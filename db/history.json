@@ -278,5 +278,77 @@
     "title": "GBHCRB2V",
     "rarity": "common",
     "when": "7/6/2026, 10.18.50"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "55P00THL",
+    "title": "JASHER NO ENC",
+    "rarity": "epic",
+    "when": "7/6/2026, 10.19.26"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "9E2EDDYE",
+    "title": "BASE TAKASHI NO ENC",
+    "rarity": "epic",
+    "when": "7/6/2026, 10.19.27"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "unmapped_0QGTNX8D",
+    "title": "0QGTNX8D",
+    "rarity": "common",
+    "when": "7/6/2026, 10.19.27"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "Z1S8K17B",
+    "title": "CEK AJA",
+    "rarity": "uncommon",
+    "when": "7/6/2026, 10.19.28"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "unmapped_L6QNZAP8",
+    "title": "L6QNZAP8",
+    "rarity": "common",
+    "when": "7/6/2026, 10.19.28"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "ZS64CT6E",
+    "title": "TANJIRO SLAYER",
+    "rarity": "epic",
+    "when": "7/6/2026, 10.20.08"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "DXHEG349",
+    "title": "BLANK INFINITY",
+    "rarity": "epic",
+    "when": "7/6/2026, 10.20.09"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "unmapped_ACBUM759",
+    "title": "ACBUM759",
+    "rarity": "common",
+    "when": "7/6/2026, 10.20.09"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "unmapped_8AZM527G",
+    "title": "8AZM527G",
+    "rarity": "common",
+    "when": "7/6/2026, 10.20.10"
   }
 ]
