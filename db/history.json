@@ -350,5 +350,53 @@
     "title": "8AZM527G",
     "rarity": "common",
     "when": "7/6/2026, 10.20.10"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "unmapped_WZH3BCSG",
+    "title": "WZH3BCSG",
+    "rarity": "common",
+    "when": "7/6/2026, 10.20.40"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "9HIZ7SB5",
+    "title": "MISTERI HOW ALL",
+    "rarity": "epic",
+    "when": "7/6/2026, 10.20.40"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "TXETZQ5J",
+    "title": "RESET OTP WA V1",
+    "rarity": "uncommon",
+    "when": "7/6/2026, 10.20.41"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "55P00THL",
+    "title": "JASHER NO ENC",
+    "rarity": "epic",
+    "when": "7/6/2026, 10.20.41"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "1B4C8F1D",
+    "title": "BASE VOID",
+    "rarity": "uncommon",
+    "when": "7/6/2026, 10.21.11"
+  },
+  {
+    "type": "gacha",
+    "userId": "8669188963",
+    "itemId": "VYX8TVZY",
+    "title": "BASE APK BUG VORTUNIX [FREE]",
+    "rarity": "epic",
+    "when": "7/6/2026, 10.21.12"
   }
 ]
