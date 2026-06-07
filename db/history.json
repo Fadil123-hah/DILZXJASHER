@@ -558,5 +558,21 @@
     "title": "MD TELE",
     "rarity": "legendary",
     "when": "7/6/2026, 10.30.09"
+  },
+  {
+    "type": "gacha",
+    "userId": "1479275953",
+    "itemId": "CBZN4W5K",
+    "title": "FOUR REVENGE CRASHER",
+    "rarity": "uncommon",
+    "when": "7/6/2026, 10.42.24"
+  },
+  {
+    "type": "gacha",
+    "userId": "1479275953",
+    "itemId": "KR3O1UN7",
+    "title": "UBOT TERMUX",
+    "rarity": "uncommon",
+    "when": "7/6/2026, 10.42.31"
   }
 ]
