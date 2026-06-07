@@ -677,7 +677,7 @@
       7946596528,
       8669188963
     ],
-    "expired": false,
+    "expired": true,
     "at": 1780760216670,
     "auto": true,
     "expireAt": 1780846616670
@@ -690,7 +690,7 @@
       8669188963,
       7523355804
     ],
-    "expired": false,
+    "expired": true,
     "at": 1780774615559,
     "auto": true,
     "expireAt": 1780861015559
@@ -1025,5 +1025,16 @@
     "at": 1780832881857,
     "auto": true,
     "expireAt": 1780919281857
+  },
+  "wzcoprwwbrut": {
+    "amount": 50,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780867445268,
+    "auto": true,
+    "expireAt": 1780953845268
   }
 }
