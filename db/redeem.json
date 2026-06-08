@@ -1515,7 +1515,8 @@
     "maxClaim": 5,
     "claimedBy": [
       8669188963,
-      8526978408
+      8526978408,
+      7523355804
     ],
     "expired": false,
     "auto": true,
@@ -1556,7 +1557,8 @@
     },
     "maxClaim": 5,
     "claimedBy": [
-      8526978408
+      8526978408,
+      7523355804
     ],
     "expired": false,
     "auto": true,
@@ -1572,7 +1574,8 @@
     "maxClaim": 5,
     "claimedBy": [
       8669188963,
-      8526978408
+      8526978408,
+      7523355804
     ],
     "expired": false,
     "auto": true,
