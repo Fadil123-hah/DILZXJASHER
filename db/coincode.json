@@ -1009,7 +1009,7 @@
       8526978408,
       8669188963
     ],
-    "expired": false,
+    "expired": true,
     "at": 1780832841192,
     "auto": true,
     "expireAt": 1780919241192
@@ -1021,7 +1021,7 @@
       777000,
       7523355804
     ],
-    "expired": false,
+    "expired": true,
     "at": 1780832881857,
     "auto": true,
     "expireAt": 1780919281857
@@ -1068,5 +1068,16 @@
     "at": 1780905188750,
     "auto": true,
     "expireAt": 1780991588750
+  },
+  "wzco39je7gts": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780920070515,
+    "auto": true,
+    "expireAt": 1781006470515
   }
 }
