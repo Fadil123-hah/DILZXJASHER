@@ -1190,5 +1190,13 @@
     "title": "BASE UBOT V PANEL",
     "rarity": "epic",
     "when": "7/6/2026, 21.04.37"
+  },
+  {
+    "type": "gacha",
+    "userId": "6808178075",
+    "itemId": "BXCVSTMR",
+    "title": "ADD TOKEN DEATHNOTE",
+    "rarity": "epic",
+    "when": "8/6/2026, 12.09.12"
   }
 ]
