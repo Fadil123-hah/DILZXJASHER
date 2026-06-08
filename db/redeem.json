@@ -1485,7 +1485,7 @@
       7523355804,
       8526978408
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1780868210600
   },
@@ -1519,5 +1519,31 @@
     "expired": false,
     "auto": true,
     "expireAt": 1780926476896
+  },
+  "wzgasqy9rjkv": {
+    "namaItem": "VORTEX BROADCAST BOT 7.0",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: VORTEX BROADCAST BOT 7.0.zip\n┣ 💸 Harga: 1,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzZqI-ohZFsq9DnK84P3zx2HUpr2zwAC1iYAAiBsuVRdP2Z_517H0zsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780961040343
+  },
+  "wzgalnt4gg4k": {
+    "namaItem": "HackVpsByAtomicModss",
+    "isiItem": "Script dari user (@AngkasaNirvana)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBrJpqJAkJynvL7cJNV0nwgIE9mzVXLQAC_B8AAjBNIVWzarkN40U8iTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1780975440434
   }
 }
