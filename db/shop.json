@@ -666,5 +666,18 @@
     "fromUser": 7414346835,
     "fromUsername": null,
     "at": 1780818127797
+  },
+  {
+    "id": "sc_1780958956661_3158",
+    "name": "SC AUTO ORDER NOKOS BY HEROIKZRE @daffaheroikzre",
+    "price": 259,
+    "desc": "Script dari user (@ryuzoffc)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEB-ENqJ0bsdUHOOriAqf5UAAHvcbV4YDwAArsdAAJ_w-FU8Vq30Txwt9k7BA"
+    },
+    "fromUser": 1277396334,
+    "fromUsername": "@ryuzoffc",
+    "at": 1780958956661
   }
 ]
