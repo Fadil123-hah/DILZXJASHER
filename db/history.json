@@ -1198,5 +1198,29 @@
     "title": "ADD TOKEN DEATHNOTE",
     "rarity": "epic",
     "when": "8/6/2026, 12.09.12"
+  },
+  {
+    "type": "gacha",
+    "userId": "6808178075",
+    "itemId": "RKHMF5F1",
+    "title": "X FUXXO",
+    "rarity": "epic",
+    "when": "8/6/2026, 12.09.22"
+  },
+  {
+    "type": "gacha",
+    "userId": "6808178075",
+    "itemId": "BO0YGSH9",
+    "title": "VORTEZ BVBOT V5",
+    "rarity": "common",
+    "when": "8/6/2026, 12.09.31"
+  },
+  {
+    "type": "gacha",
+    "userId": "6808178075",
+    "itemId": "BO0YGSH9",
+    "title": "VORTEZ BVBOT V5",
+    "rarity": "common",
+    "when": "8/6/2026, 12.09.41"
   }
 ]
