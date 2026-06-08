@@ -1057,5 +1057,16 @@
     "at": 1780896245905,
     "auto": true,
     "expireAt": 1780982645905
+  },
+  "wzcouken87b3": {
+    "amount": 10,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1780905188750,
+    "auto": true,
+    "expireAt": 1780991588750
   }
 }
