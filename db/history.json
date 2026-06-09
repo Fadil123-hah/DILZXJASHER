@@ -2238,5 +2238,53 @@
     "title": "4OY3SWBX",
     "rarity": "common",
     "when": "9/6/2026, 21.50.28"
+  },
+  {
+    "type": "gacha",
+    "userId": "8240184356",
+    "itemId": "O2C5S433",
+    "title": "FUNC 2",
+    "rarity": "common",
+    "when": "9/6/2026, 21.53.13"
+  },
+  {
+    "type": "gacha",
+    "userId": "8240184356",
+    "itemId": "1B4C8F1D",
+    "title": "BASE VOID",
+    "rarity": "uncommon",
+    "when": "9/6/2026, 21.53.17"
+  },
+  {
+    "type": "gacha",
+    "userId": "8240184356",
+    "itemId": "6VBDFTC8",
+    "title": "FUNC CRASH CLICK",
+    "rarity": "epic",
+    "when": "9/6/2026, 21.53.17"
+  },
+  {
+    "type": "gacha",
+    "userId": "8240184356",
+    "itemId": "unmapped_L6QNZAP8",
+    "title": "L6QNZAP8",
+    "rarity": "common",
+    "when": "9/6/2026, 21.53.18"
+  },
+  {
+    "type": "gacha",
+    "userId": "8240184356",
+    "itemId": "2DCQFWHV",
+    "title": "ANGKASA BOT LIMIT V0.1",
+    "rarity": "uncommon",
+    "when": "9/6/2026, 21.53.18"
+  },
+  {
+    "type": "gacha",
+    "userId": "8240184356",
+    "itemId": "ZS64CT6E",
+    "title": "TANJIRO SLAYER",
+    "rarity": "epic",
+    "when": "9/6/2026, 21.53.18"
   }
 ]
