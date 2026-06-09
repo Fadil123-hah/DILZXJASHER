@@ -1560,7 +1560,7 @@
       8526978408,
       7523355804
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1780989840546
   },
@@ -1640,5 +1640,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781065721295
+  },
+  "wzga7ezhamyv": {
+    "namaItem": "BASE XPRESHX",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: BASE XPRESHX.zip\n┣ 💸 Harga: 1,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp2NqI-ohMiFMvKwAAf5oAAFG4sGYzPo9AALwHQAC1MjAVC_rfJKYiIaEOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781081237444
   }
 }
