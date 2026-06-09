@@ -1666,5 +1666,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781095637430
+  },
+  "wzgagl5968tf": {
+    "namaItem": "SC GIFT BERUANG FREE (PUSH CH)",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: SC GIFT BERUANG FREE (PUSH CH).zip\n┣ 💸 Harga: 20,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzhqI-oh8itEyqocvlnR200sEU6rQQACZR0AAsDrgVdizCSky181zzsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781110037489
   }
 }
