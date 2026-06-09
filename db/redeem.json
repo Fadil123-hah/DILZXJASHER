@@ -1544,7 +1544,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1780975440434
   },
@@ -1627,5 +1627,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781042507484
+  },
+  "wzgag2m2rrd3": {
+    "namaItem": "BuildXyy",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: BuildXyy.zip\n┣ 💸 Harga: 1,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp2JqI-ohmiL33KFNBoV50preC2klKAAC6B0AAtTIwFTBsdu85a5a2jsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781065721295
   }
 }
