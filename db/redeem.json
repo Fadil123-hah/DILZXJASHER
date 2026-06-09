@@ -1679,5 +1679,20 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781110037489
+  },
+  "wzgamsvmmvrz": {
+    "namaItem": "HackVpsByAtomicModss",
+    "isiItem": "Script dari user (@AngkasaNirvana)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBrJpqJAkJynvL7cJNV0nwgIE9mzVXLQAC_B8AAjBNIVWzarkN40U8iTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8526978408
+    ],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781124437476
   }
 }
