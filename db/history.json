@@ -2222,5 +2222,21 @@
     "title": "BASE BUG WA",
     "rarity": "common",
     "when": "9/6/2026, 16.44.38"
+  },
+  {
+    "type": "gacha",
+    "userId": "8795532665",
+    "itemId": "2DCQFWHV",
+    "title": "ANGKASA BOT LIMIT V0.1",
+    "rarity": "uncommon",
+    "when": "9/6/2026, 21.50.20"
+  },
+  {
+    "type": "gacha",
+    "userId": "8795532665",
+    "itemId": "unmapped_4OY3SWBX",
+    "title": "4OY3SWBX",
+    "rarity": "common",
+    "when": "9/6/2026, 21.50.28"
   }
 ]
