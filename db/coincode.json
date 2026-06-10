@@ -1171,5 +1171,16 @@
     "at": 1781045243060,
     "auto": true,
     "expireAt": 1781131643060
+  },
+  "wzcodnex66c7": {
+    "amount": 20,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1781059655023,
+    "auto": true,
+    "expireAt": 1781146055023
   }
 }
