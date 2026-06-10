@@ -1193,5 +1193,16 @@
     "at": 1781072437692,
     "auto": true,
     "expireAt": 1781158837692
+  },
+  "wzcosta9gsmw": {
+    "amount": 50,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1781072605117,
+    "auto": true,
+    "expireAt": 1781159005117
   }
 }
