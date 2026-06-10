@@ -1663,7 +1663,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1781095637430
   },
@@ -1735,5 +1735,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781168945570
+  },
+  "wzgakapz9c7y": {
+    "namaItem": "sc auto order malzz",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: sc auto order malzz.zip\n┣ 💸 Harga: 400,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp8pqI-p_6gKxWj615ob6vsw5idJYwwACdSAAAlNBuFRywfqeVNM1izsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781183345650
   }
 }
