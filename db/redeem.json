@@ -1694,5 +1694,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781124437476
+  },
+  "wzgaq7gn62ep": {
+    "namaItem": "Base Tornado Infinity〽️",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: Base Tornado Infinity〽️.zip\n┣ 💸 Harga: 100,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzBqI-ohjYpMJrIeGFGrzaE-RmnCtAAC5BcAAsFTMVer8a_T3mG7ojsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781138841562
   }
 }
