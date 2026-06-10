@@ -1167,7 +1167,7 @@
       777000,
       8619949295
     ],
-    "expired": false,
+    "expired": true,
     "at": 1781045243060,
     "auto": true,
     "expireAt": 1781131643060
@@ -1345,5 +1345,16 @@
     "at": 1781118550584,
     "auto": true,
     "expireAt": 1781204950584
+  },
+  "wzcokr53hhag": {
+    "amount": 50,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1781132950614,
+    "auto": true,
+    "expireAt": 1781219350614
   }
 }
