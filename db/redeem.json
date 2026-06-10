@@ -1650,7 +1650,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1781081237444
   },
@@ -1722,5 +1722,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781153266186
+  },
+  "wzga4y59y7yu": {
+    "namaItem": "SC AUTO ORDER NOKOS BY HEROIKZRE @daffaheroikzre",
+    "isiItem": "Script dari user (@ryuzoffc)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEB-ENqJ0bsdUHOOriAqf5UAAHvcbV4YDwAArsdAAJ_w-FU8Vq30Txwt9k7BA"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781168945570
   }
 }
