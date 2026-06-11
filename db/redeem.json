@@ -1719,7 +1719,7 @@
     "claimedBy": [
       8526978408
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1781153266186
   },
@@ -1791,5 +1791,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781226545636
+  },
+  "wzga8gvmkm5s": {
+    "namaItem": "1778475798829 OBF NO ENC",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: 1778475798829_OBF_NO_ENC.zip\n┣ 💸 Harga: 1,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpz9qI-ohD-T6wkO7h2tLY-IfbaIFEAACGCAAAmtKuVQIWliA1ohm9zsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781240945656
   }
 }
