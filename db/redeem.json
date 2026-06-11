@@ -1760,7 +1760,7 @@
     "claimedBy": [
       8669188963
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1781197745662
   },
@@ -1830,5 +1830,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781269951485
+  },
+  "wzgalfu4hq59": {
+    "namaItem": "OPEN ORDER STORE YELLOW",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: OPEN ORDER STORE YELLOW.zip\n┣ 💸 Harga: 20,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzlqI-oh0Jcgrvedko9-MHmO0MKRhwACTCQAAhCyCFQGk8WHTEiSfzsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781284351439
   }
 }
