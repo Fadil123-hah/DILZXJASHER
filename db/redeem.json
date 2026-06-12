@@ -1827,7 +1827,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1781269951485
   },
@@ -1840,7 +1840,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1781284351439
   },
@@ -1869,5 +1869,31 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781318013934
+  },
+  "wzga7asd5d92": {
+    "namaItem": "Base Tampilan keren",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: Base Tampilan keren.zip\n┣ 💸 Harga: 1,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzFqI-ohsH8PpnV0hnYgxXJ9-igdggACNiQAAhCyCFQx7fhrhAyH-zsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781354779705
+  },
+  "wzgags22hxrt": {
+    "namaItem": "SC MD VIA TELE",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: SC_MD_VIA_TELE.zip\n┣ 💸 Harga: 400,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpyRqI-oht3PTCkC9J9kJ6O3dKtcAAdQAAnAgAAJTQbhU2xvUtivjeI07BA"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781378536613
   }
 }
