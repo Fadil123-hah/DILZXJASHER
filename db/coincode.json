@@ -1689,5 +1689,16 @@
     "at": 1781257075451,
     "auto": true,
     "expireAt": 1781343475451
+  },
+  "wzcod98bsna7": {
+    "amount": 10,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1781257736581,
+    "auto": true,
+    "expireAt": 1781344136581
   }
 }
