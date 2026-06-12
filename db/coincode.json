@@ -1623,5 +1623,16 @@
     "at": 1781254686138,
     "auto": true,
     "expireAt": 1781341086138
+  },
+  "wzcotf75pmvp": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1781254855616,
+    "auto": true,
+    "expireAt": 1781341255616
   }
 }
