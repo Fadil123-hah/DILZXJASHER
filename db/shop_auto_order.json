@@ -19,6 +19,15 @@
       "link": "https://t.me/+fjuBadEXUlAyOTll",
       "stok": 5,
       "harga": 1000
+    },
+    {
+      "id": "GB-1781256343893",
+      "tipe": "link_gb",
+      "kategori": "FullUp",
+      "nama": "tester",
+      "link": "https",
+      "stok": 1,
+      "harga": 0
     }
   ],
   "akses_group": [
