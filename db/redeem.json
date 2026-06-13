@@ -1866,7 +1866,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1781318013934
   },
@@ -1908,5 +1908,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781398805024
+  },
+  "wzgax5s8ea3b": {
+    "namaItem": "SC AUTO ORDER NEWFIXED",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: SC_AUTO_ORDER_NEWFIXED.zip\n┣ 💸 Harga: 400,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp89qI-p_RjBkulG5hyEUu4GaM6BVdQACfSAAAlNBuFQaf-VIyy63QTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781408948503
   }
 }
