@@ -2686,5 +2686,13 @@
     "title": "BASE ADD TOKEN",
     "rarity": "epic",
     "when": "13/6/2026, 18.59.51"
+  },
+  {
+    "type": "gacha",
+    "userId": "8642241108",
+    "itemId": "O2C5S433",
+    "title": "FUNC 2",
+    "rarity": "common",
+    "when": "13/6/2026, 19.10.05"
   }
 ]
