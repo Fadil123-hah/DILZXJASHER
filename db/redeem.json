@@ -1971,7 +1971,7 @@
     "claimedBy": [
       7525601585
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1781454139167
   },
@@ -2046,5 +2046,20 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781526502495
+  },
+  "wzgacwf2z2ud": {
+    "namaItem": "JASHER FULL BUTTON V1 (1)",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: JASHER FULL BUTTON V1 (1).zip\n┣ 💸 Harga: 400,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp85qI-p_wL_tFMaA6pN1yilzzVhFqwACeiAAAlNBuFTt2sWKXlHJIDsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8314856280
+    ],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781540902523
   }
 }
