@@ -1924,7 +1924,7 @@
       8642241108,
       6931233228
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1781408948503
   },
@@ -2007,5 +2007,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781482961281
+  },
+  "wzga65wb7vw6": {
+    "namaItem": "SCRIPT ADD FUNCTION",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: SCRIPT ADD FUNCTION.zip\n┣ 💸 Harga: 100,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpy1qI-ohXKpPhKQiJwOexWMqBNh3iQACwhYAAiVI4FZx4tGWawY8JTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781497361280
   }
 }
