@@ -1989,5 +1989,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781468561339
+  },
+  "wzgahghfxavb": {
+    "namaItem": "1778475798829 Ubot Premium Di Share YTTA",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: 1778475798829_Ubot_Premium_Di_Share_YTTA.zip\n┣ 💸 Harga: 1,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp0pqI-ohcLbs-qYbPb3_qxWBmzi92AACJiAAAmtKuVR2roIrwl2j3zsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781482961281
   }
 }
