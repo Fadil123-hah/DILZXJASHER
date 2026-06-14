@@ -1779,7 +1779,7 @@
       777000,
       8642241108
     ],
-    "expired": false,
+    "expired": true,
     "at": 1781315286657,
     "auto": true,
     "expireAt": 1781401686657
@@ -1790,7 +1790,7 @@
     "claimedBy": [
       777000
     ],
-    "expired": false,
+    "expired": true,
     "at": 1781315353483,
     "auto": true,
     "expireAt": 1781401753483
@@ -1855,5 +1855,16 @@
     "at": 1781389366261,
     "auto": true,
     "expireAt": 1781475766261
+  },
+  "wzco7kugg3vm": {
+    "amount": 50,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1781403766237,
+    "auto": true,
+    "expireAt": 1781490166237
   }
 }
