@@ -1878,5 +1878,16 @@
     "at": 1781418166253,
     "auto": true,
     "expireAt": 1781504566253
+  },
+  "wzco2mh2n95e": {
+    "amount": 20,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1781418502864,
+    "auto": true,
+    "expireAt": 1781504902864
   }
 }
