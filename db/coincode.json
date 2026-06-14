@@ -1816,7 +1816,7 @@
       6931233228,
       8642241108
     ],
-    "expired": false,
+    "expired": true,
     "at": 1781344153576,
     "auto": true,
     "expireAt": 1781430553576
@@ -1892,5 +1892,16 @@
     "at": 1781418502864,
     "auto": true,
     "expireAt": 1781504902864
+  },
+  "wzcosvmacdma": {
+    "amount": 20,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1781432907496,
+    "auto": true,
+    "expireAt": 1781519307496
   }
 }
