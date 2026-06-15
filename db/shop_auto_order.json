@@ -1,5 +1,14 @@
 {
-  "panel": [],
+  "panel": [
+    {
+      "id": "ADMIN_CH-1781522636784",
+      "tipe": "admin_ch",
+      "nama": "ADMIN CH",
+      "link": "-",
+      "stok": 1,
+      "harga": 100000
+    }
+  ],
   "script": [
     {
       "id": "SC-1780729153528",
