@@ -2950,5 +2950,29 @@
     "title": "FUNC 2",
     "rarity": "common",
     "when": "15/6/2026, 00.00.51"
+  },
+  {
+    "type": "gacha",
+    "userId": "7543670677",
+    "itemId": "JO9GEJE5",
+    "title": "BASE UBOT V PANEL",
+    "rarity": "epic",
+    "when": "15/6/2026, 18.19.35"
+  },
+  {
+    "type": "gacha",
+    "userId": "7543670677",
+    "itemId": "unmapped_WZH3BCSG",
+    "title": "WZH3BCSG",
+    "rarity": "common",
+    "when": "15/6/2026, 18.19.49"
+  },
+  {
+    "type": "gacha",
+    "userId": "7543670677",
+    "itemId": "LYMG532M",
+    "title": "SC PUSH",
+    "rarity": "epic",
+    "when": "15/6/2026, 18.20.00"
   }
 ]
