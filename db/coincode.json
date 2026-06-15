@@ -2007,5 +2007,16 @@
     "at": 1781522961497,
     "auto": true,
     "expireAt": 1781609361497
+  },
+  "wzcou8l2ulc8": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1781523536078,
+    "auto": true,
+    "expireAt": 1781609936078
   }
 }
