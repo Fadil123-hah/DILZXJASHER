@@ -2018,5 +2018,16 @@
     "at": 1781523536078,
     "auto": true,
     "expireAt": 1781609936078
+  },
+  "wzcomnrt3zfp": {
+    "amount": 10,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1781523857789,
+    "auto": true,
+    "expireAt": 1781610257789
   }
 }
