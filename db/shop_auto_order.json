@@ -50,5 +50,15 @@
       "harga": 2000
     }
   ],
-  "admin_ch": []
+  "admin_ch": [
+    {
+      "id": "ACH-1781523649433",
+      "tipe": "admin_ch",
+      "nama": "Admin Channel @AotJasher",
+      "link": "https://t.me/aotjasher",
+      "channelId": "@aotjasher",
+      "stok": 5,
+      "harga": 2000
+    }
+  ]
 }
