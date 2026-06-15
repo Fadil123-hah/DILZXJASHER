@@ -2087,5 +2087,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781572404857
+  },
+  "wzgahaqhr6wk": {
+    "namaItem": "JASEB WANN",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: JASEB WANN.zip\n┣ 💸 Harga: 20,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzxqI-ohXM59WAp1eQSt-QSM0cYjuQACdSEAAlBroVbdnvSHexz2ljsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781592338897
   }
 }
