@@ -2126,5 +2126,14 @@
     "at": 1781570207124,
     "auto": true,
     "expireAt": 1781656607124
+  },
+  "wzco3bcsetwd": {
+    "amount": 20,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1781570458348,
+    "auto": true,
+    "expireAt": 1781656858348
   }
 }
