@@ -2123,7 +2123,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1781617452839
   },
@@ -2191,5 +2191,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781690650591
+  },
+  "wzgaffwx248l": {
+    "namaItem": "1779940306958 IndictiveCore V5 01 Fixxed 1",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: 1779940306958_IndictiveCore_V5_01_Fixxed___1_.zip\n┣ 💸 Harga: 1,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp0BqI-ohnMZMTEXiIFhcuGEh9NX8GgACGSAAAmtKuVRnxNNgqdRxXTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781707678367
   }
 }
