@@ -2205,10 +2205,21 @@
   "wzcoct34htb9": {
     "amount": 30,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      777000
+    ],
     "expired": false,
     "at": 1781611455647,
     "auto": true,
     "expireAt": 1781697855647
+  },
+  "wzcowyd8pddq": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1781614083364,
+    "auto": true,
+    "expireAt": 1781700483364
   }
 }
