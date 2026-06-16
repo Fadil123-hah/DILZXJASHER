@@ -2149,7 +2149,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1781646252963
   },
@@ -2217,5 +2217,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781722078407
+  },
+  "wzga65tkzypd": {
+    "namaItem": "SC Surya crash",
+    "isiItem": "SC Surya crash.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBuPdqJOH9ZdSH69VSFaxyxH5oogNIKAACFigAApfiIVVh48O_K9EasDsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781736478416
   }
 }
