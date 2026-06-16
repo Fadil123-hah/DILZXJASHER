@@ -2071,5 +2071,16 @@
     "at": 1781568161593,
     "auto": true,
     "expireAt": 1781654561593
+  },
+  "wzcon2mn777w": {
+    "amount": 20,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1781568982445,
+    "auto": true,
+    "expireAt": 1781655382445
   }
 }
