@@ -1969,7 +1969,7 @@
       777000,
       7543670677
     ],
-    "expired": false,
+    "expired": true,
     "at": 1781522279729,
     "auto": true,
     "expireAt": 1781608679729
@@ -1980,7 +1980,7 @@
     "claimedBy": [
       777000
     ],
-    "expired": false,
+    "expired": true,
     "at": 1781522533548,
     "auto": true,
     "expireAt": 1781608933548
@@ -1991,7 +1991,7 @@
     "claimedBy": [
       777000
     ],
-    "expired": false,
+    "expired": true,
     "at": 1781522770591,
     "auto": true,
     "expireAt": 1781609170591
@@ -2003,7 +2003,7 @@
       777000,
       7543670677
     ],
-    "expired": false,
+    "expired": true,
     "at": 1781522961497,
     "auto": true,
     "expireAt": 1781609361497
@@ -2014,7 +2014,7 @@
     "claimedBy": [
       777000
     ],
-    "expired": false,
+    "expired": true,
     "at": 1781523536078,
     "auto": true,
     "expireAt": 1781609936078
@@ -2025,7 +2025,7 @@
     "claimedBy": [
       777000
     ],
-    "expired": false,
+    "expired": true,
     "at": 1781523857789,
     "auto": true,
     "expireAt": 1781610257789
@@ -2201,5 +2201,14 @@
     "at": 1781597055584,
     "auto": true,
     "expireAt": 1781683455584
+  },
+  "wzcoct34htb9": {
+    "amount": 30,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1781611455647,
+    "auto": true,
+    "expireAt": 1781697855647
   }
 }
