@@ -2062,5 +2062,14 @@
     "at": 1781567268378,
     "auto": true,
     "expireAt": 1781653668378
+  },
+  "wzco4rcr85bn": {
+    "amount": 50,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1781568161593,
+    "auto": true,
+    "expireAt": 1781654561593
   }
 }
