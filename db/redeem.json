@@ -2190,7 +2190,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1781690650591
   },
@@ -2260,5 +2260,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781765278456
+  },
+  "wzgact4rcv98": {
+    "namaItem": "Base Tampilan keren",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: Base Tampilan keren.zip\n┣ 💸 Harga: 1,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzFqI-ohsH8PpnV0hnYgxXJ9-igdggACNiQAAhCyCFQx7fhrhAyH-zsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781779678743
   }
 }
