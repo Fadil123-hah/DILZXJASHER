@@ -2164,7 +2164,7 @@
     "claimedBy": [
       777000
     ],
-    "expired": false,
+    "expired": true,
     "at": 1781595230611,
     "auto": true,
     "expireAt": 1781681630611
@@ -2175,7 +2175,7 @@
     "claimedBy": [
       777000
     ],
-    "expired": false,
+    "expired": true,
     "at": 1781595631339,
     "auto": true,
     "expireAt": 1781682031339
@@ -2186,7 +2186,7 @@
     "claimedBy": [
       777000
     ],
-    "expired": false,
+    "expired": true,
     "at": 1781595976757,
     "auto": true,
     "expireAt": 1781682376757
@@ -2197,7 +2197,7 @@
     "claimedBy": [
       777000
     ],
-    "expired": false,
+    "expired": true,
     "at": 1781597055584,
     "auto": true,
     "expireAt": 1781683455584
@@ -2263,5 +2263,16 @@
     "at": 1781671683443,
     "auto": true,
     "expireAt": 1781758083443
+  },
+  "wzco3d6ugcpl": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1781686083422,
+    "auto": true,
+    "expireAt": 1781772483422
   }
 }
