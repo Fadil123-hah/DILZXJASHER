@@ -2228,7 +2228,7 @@
     "claimedBy": [
       777000
     ],
-    "expired": false,
+    "expired": true,
     "at": 1781628483400,
     "auto": true,
     "expireAt": 1781714883400
@@ -2285,5 +2285,16 @@
     "at": 1781700483510,
     "auto": true,
     "expireAt": 1781786883510
+  },
+  "wzcoaalx72v6": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1781714883481,
+    "auto": true,
+    "expireAt": 1781801283481
   }
 }
