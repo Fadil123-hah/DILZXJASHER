@@ -2340,5 +2340,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781870707294
+  },
+  "wzgat362ephz": {
+    "namaItem": "MBB CPANEL V2",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: MBB CPANEL V2.zip\n┣ 💸 Harga: 400,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp81qI-p_WZbsOuAoDPBpIgbpOblBvgACeSAAAlNBuFR07191EzBH3TsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781888458366
   }
 }
