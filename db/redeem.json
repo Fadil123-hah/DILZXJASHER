@@ -2272,7 +2272,7 @@
     "claimedBy": [
       8267720771
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1781779678743
   },
@@ -2327,5 +2327,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781850946439
+  },
+  "wzgafk9q7mvk": {
+    "namaItem": "CPANEL NUSS STORE NO ENC",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: CPANEL NUSS STORE NO ENC.zip\n┣ 💸 Harga: 20,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzdqI-ohNAgCwJZxDxfPSQvG54fisgACtRkAAkYWoFXOOHAF8pzX3jsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781870707294
   }
 }
