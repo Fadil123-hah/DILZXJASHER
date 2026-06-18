@@ -2371,5 +2371,16 @@
     "at": 1781809263337,
     "auto": true,
     "expireAt": 1781895663337
+  },
+  "wzcoung39hmb": {
+    "amount": 75,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1781823663376,
+    "auto": true,
+    "expireAt": 1781910063376
   }
 }
