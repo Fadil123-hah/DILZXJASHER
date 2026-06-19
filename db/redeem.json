@@ -2394,5 +2394,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781932837587
+  },
+  "wzgaq337myep": {
+    "namaItem": "SC UNSERBOT 3.1 VVIP (1)",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: SC UNSERBOT 3.1 VVIP (1).zip\n┣ 💸 Harga: 400,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp8hqI-p_PsFcRVnvdMGqjeffNqd5XwACciAAAlNBuFTUg2FOYpV5bDsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781947237462
   }
 }
