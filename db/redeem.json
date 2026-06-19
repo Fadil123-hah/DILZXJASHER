@@ -2366,5 +2366,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781902858374
+  },
+  "wzga9kxs2z9c": {
+    "namaItem": "1778475798830 install vps no enc",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: 1778475798830_install_vps_no_enc.zip\n┣ 💸 Harga: 1,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp0hqI-ohum_sgt4nqOIymljDp-_z0QACJCAAAmtKuVQek6u8vQAB6h07BA"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781917780713
   }
 }
