@@ -2350,7 +2350,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1781888458366
   },
@@ -2420,5 +2420,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781961637482
+  },
+  "wzgagv7jbann": {
+    "namaItem": "HackVpsByAtomicModss",
+    "isiItem": "Script dari user (@AngkasaNirvana)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBrJpqJAkJynvL7cJNV0nwgIE9mzVXLQAC_B8AAjBNIVWzarkN40U8iTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781976037462
   }
 }
