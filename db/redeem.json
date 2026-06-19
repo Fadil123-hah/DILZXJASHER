@@ -2381,5 +2381,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781917780713
+  },
+  "wzgaxa73ap37": {
+    "namaItem": "Base Xopown",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: Base-Xopown.zip\n┣ 💸 Harga: 1,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp2BqI-ohh9EJidxLqic4ENqlxk9PcAAC4B0AAtTIwFTnAAHPGEJ93Xw7BA"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781932837587
   }
 }
