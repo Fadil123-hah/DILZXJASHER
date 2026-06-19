@@ -2337,7 +2337,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1781870707294
   },
@@ -2407,5 +2407,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781947237462
+  },
+  "wzgaz59wgjnr": {
+    "namaItem": "1779940306958 SC FULL pianseture 5 1 2026 05 39 54",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: 1779940306958_SC_FULL_pianseture_5_1_2026_05_39_54.zip\n┣ 💸 Harga: 1,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpz5qI-ohqe1r4hw8tT0SstJ22FGSJwACFyAAAmtKuVRfKENAAAGY0pQ7BA"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1781961637482
   }
 }
