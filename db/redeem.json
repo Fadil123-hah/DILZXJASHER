@@ -2378,7 +2378,7 @@
     "claimedBy": [
       8526978408
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1781917780713
   },
@@ -2446,5 +2446,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1781990459379
+  },
+  "wzgacb745uzn": {
+    "namaItem": "CREATE WEB BY XSMONS",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: CREATE WEB BY XSMONS.zip\n┣ 💸 Harga: 400,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp8ZqI-p_U8F8qV7mVgkq-LbJWj_SUwACeCAAAlNBuFTKLezRnrbaEzsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782008101595
   }
 }
