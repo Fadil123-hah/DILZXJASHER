@@ -2471,7 +2471,7 @@
     "claimedBy": [
       7525601585
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1782025685869
   },
@@ -2539,5 +2539,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1782102117724
+  },
+  "wzgarpds4lv3": {
+    "namaItem": "1778475798840 SCRIPT ADD FUNCTION",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: 1778475798840_SCRIPT_ADD_FUNCTION.zip\n┣ 💸 Harga: 1,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp0lqI-ohlsjqpmPvLVD7twqnS2FkcQACJSAAAmtKuVQxCTl-lsd_UjsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782117172533
   }
 }
