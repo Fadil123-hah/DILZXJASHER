@@ -2443,7 +2443,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1781990459379
   },
@@ -2513,5 +2513,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1782068970223
+  },
+  "wzgat93hm9xm": {
+    "namaItem": "20+ SC PUSH CH & GB",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: 20+ SC PUSH CH & GB.zip\n┣ 💸 Harga: 20,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzpqI-oh4jGIitSkUvf8OAfkPVkZAgACuhoAAgcBoVWzQ0edjhT7kzsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782083817585
   }
 }
