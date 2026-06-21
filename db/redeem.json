@@ -2484,7 +2484,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1782040170192
   },
@@ -2552,5 +2552,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1782117172533
+  },
+  "wzga6s2eb8b5": {
+    "namaItem": "FIX SC BUYNOKOSV2",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: FIX-SC-BUYNOKOSV2.zip\n┣ 💸 Harga: 400,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp8dqI-p_X8SKVpREl6-tYpTRoMJXxwACbiAAAlNBuFTXLm7tSVIx1jsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782131599637
   }
 }
