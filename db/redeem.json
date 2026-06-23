@@ -2655,7 +2655,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1782246561084
   },
@@ -2710,5 +2710,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1782325246825
+  },
+  "wzgapmsnax2q": {
+    "namaItem": "c html dlii",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: c html dlii.zip\n┣ 💸 Harga: 400,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpyJqI-ohsG1Z3Jwg8G03d1oXIAodEAACgSAAAlNBuFTLTpbFWwuo4zsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782339668507
   }
 }
