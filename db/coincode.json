@@ -2648,5 +2648,16 @@
     "at": 1782231651790,
     "auto": true,
     "expireAt": 1782318051790
+  },
+  "wzcolj7sarz7": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1782246073390,
+    "auto": true,
+    "expireAt": 1782332473390
   }
 }
