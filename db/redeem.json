@@ -2642,7 +2642,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1782218042763
   },
@@ -2684,5 +2684,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1782286280499
+  },
+  "wzgaea96ge9s": {
+    "namaItem": "auto create email",
+    "isiItem": "Script dari user (@NpcPensi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBeL1qIm3Mz_1eD86_5wTulZbZuHmuGQACBRwAAqK1GFUQCtLg9HizRTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782310846748
   }
 }
