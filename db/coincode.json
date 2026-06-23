@@ -2591,7 +2591,7 @@
       777000,
       8613334992
     ],
-    "expired": false,
+    "expired": true,
     "at": 1782124447675,
     "auto": true,
     "expireAt": 1782210847675
@@ -2626,5 +2626,16 @@
     "at": 1782192686532,
     "auto": true,
     "expireAt": 1782279086532
+  },
+  "wzco3bwmn9a6": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1782217251724,
+    "auto": true,
+    "expireAt": 1782303651724
   }
 }
