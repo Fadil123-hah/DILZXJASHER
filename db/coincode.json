@@ -2844,5 +2844,16 @@
     "at": 1782273259666,
     "auto": true,
     "expireAt": 1782359659666
+  },
+  "wzcompbwduec": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1782287659758,
+    "auto": true,
+    "expireAt": 1782374059758
   }
 }
