@@ -2674,5 +2674,16 @@
     "at": 1782260473391,
     "auto": true,
     "expireAt": 1782346873391
+  },
+  "wzcoqjednnyc": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [
+      777000
+    ],
+    "expired": false,
+    "at": 1782267356643,
+    "auto": true,
+    "expireAt": 1782353756643
   }
 }
