@@ -2974,5 +2974,13 @@
     "title": "SC PUSH",
     "rarity": "epic",
     "when": "15/6/2026, 18.20.00"
+  },
+  {
+    "type": "gacha",
+    "userId": "6931233228",
+    "itemId": "604ZMEI8",
+    "title": "CASE PACK SC MD",
+    "rarity": "legendary",
+    "when": "25/6/2026, 15.21.21"
   }
 ]
