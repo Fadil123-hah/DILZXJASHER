@@ -2754,7 +2754,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1782381254913
   },
@@ -2809,5 +2809,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1782454679484
+  },
+  "wzgaumwcbzxr": {
+    "namaItem": "X ATHENA V𝟼",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: X-ATHENA V𝟼.zip\n┣ 💸 Harga: 20,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpztqI-ohxWiUGHv-Or4xBUA-dx_N0QAC5xgAAn9zoVb_2dbaVwH8fTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782469079497
   }
 }
