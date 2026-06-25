@@ -2982,5 +2982,45 @@
     "title": "CASE PACK SC MD",
     "rarity": "legendary",
     "when": "25/6/2026, 15.21.21"
+  },
+  {
+    "type": "gacha",
+    "userId": "8699409011",
+    "itemId": "604ZMEI8",
+    "title": "CASE PACK SC MD",
+    "rarity": "legendary",
+    "when": "25/6/2026, 19.18.38"
+  },
+  {
+    "type": "gacha",
+    "userId": "8699409011",
+    "itemId": "unmapped_XP52PLK8",
+    "title": "XP52PLK8",
+    "rarity": "common",
+    "when": "25/6/2026, 19.18.48"
+  },
+  {
+    "type": "gacha",
+    "userId": "8699409011",
+    "itemId": "2R3S0LV8",
+    "title": "HTML CPANEL",
+    "rarity": "legendary",
+    "when": "25/6/2026, 19.19.37"
+  },
+  {
+    "type": "gacha",
+    "userId": "8699409011",
+    "itemId": "S8UL62LQ",
+    "title": "DOX KTP",
+    "rarity": "legendary",
+    "when": "25/6/2026, 19.19.39"
+  },
+  {
+    "type": "gacha",
+    "userId": "8699409011",
+    "itemId": "OL82SNT5",
+    "title": "TEKS UNBAND NEW",
+    "rarity": "epic",
+    "when": "25/6/2026, 19.19.43"
   }
 ]
