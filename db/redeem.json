@@ -2741,7 +2741,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1782366854782
   },
@@ -2796,5 +2796,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1782440279441
+  },
+  "wzgal2kqbrpg": {
+    "namaItem": "autoorderpanel",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: autoorderpanel.zip\n┣ 💸 Harga: 400,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp8xqI-p_BxMfG6bh-yz3QgZglSMEQAACfCAAAlNBuFQat8aMxHcJDjsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782454679484
   }
 }
