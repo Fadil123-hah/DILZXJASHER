@@ -3126,5 +3126,45 @@
     "title": "X FOXXO",
     "rarity": "uncommon",
     "when": "25/6/2026, 19.20.15"
+  },
+  {
+    "type": "gacha",
+    "userId": "8699409011",
+    "itemId": "unmapped_GBHCRB2V",
+    "title": "GBHCRB2V",
+    "rarity": "common",
+    "when": "25/6/2026, 19.21.39"
+  },
+  {
+    "type": "gacha",
+    "userId": "8699409011",
+    "itemId": "YFQKDT2Y",
+    "title": "MT TO PERMA",
+    "rarity": "uncommon",
+    "when": "25/6/2026, 19.21.40"
+  },
+  {
+    "type": "gacha",
+    "userId": "8699409011",
+    "itemId": "unmapped_WZH3BCSG",
+    "title": "WZH3BCSG",
+    "rarity": "common",
+    "when": "25/6/2026, 19.21.40"
+  },
+  {
+    "type": "gacha",
+    "userId": "8699409011",
+    "itemId": "unmapped_VIH2094A",
+    "title": "VIH2094A",
+    "rarity": "common",
+    "when": "25/6/2026, 19.21.41"
+  },
+  {
+    "type": "gacha",
+    "userId": "8699409011",
+    "itemId": "6VBDFTC8",
+    "title": "FUNC CRASH CLICK",
+    "rarity": "epic",
+    "when": "25/6/2026, 19.21.41"
   }
 ]
