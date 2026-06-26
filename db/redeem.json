@@ -2866,7 +2866,9 @@
       "file_id": "BQACAgUAAxkDAAEBS5pqHSfFBrfNpPHXzwk9tkfk_qfV1wACJhwAAhhU2VTOAsFE-NkLljsE"
     },
     "maxClaim": 5,
-    "claimedBy": [],
+    "claimedBy": [
+      7525601585
+    ],
     "expired": false,
     "auto": true,
     "expireAt": 1782555485919
@@ -2879,7 +2881,9 @@
       "file_id": "BQACAgUAAxkBAAEBp2NqI-ohMiFMvKwAAf5oAAFG4sGYzPo9AALwHQAC1MjAVC_rfJKYiIaEOwQ"
     },
     "maxClaim": 5,
-    "claimedBy": [],
+    "claimedBy": [
+      7525601585
+    ],
     "expired": false,
     "auto": true,
     "expireAt": 1782569888149
