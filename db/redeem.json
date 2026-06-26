@@ -2826,5 +2826,20 @@
     "expired": false,
     "auto": true,
     "expireAt": 1782469079497
+  },
+  "wzga688mbwpx": {
+    "namaItem": "autoleave",
+    "isiItem": "Script dari user (@NpcPensi)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBjAABaiLyiRpX1CEzbxZCzK8BgxvXEkgAAvwcAAKitRhVdWQzLX0UTOU7BA"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      7523355804
+    ],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782526663049
   }
 }
