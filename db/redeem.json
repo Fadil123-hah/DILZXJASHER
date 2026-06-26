@@ -2900,5 +2900,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1782584395673
+  },
+  "wzgayqbupw2z": {
+    "namaItem": "SC MD VIA TELE",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: SC_MD_VIA_TELE.zip\n┣ 💸 Harga: 400,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpyRqI-oht3PTCkC9J9kJ6O3dKtcAAdQAAnAgAAJTQbhU2xvUtivjeI07BA"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782598795710
   }
 }
