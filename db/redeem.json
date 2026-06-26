@@ -2823,7 +2823,7 @@
     "claimedBy": [
       7523355804
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1782469079497
   },
@@ -2857,5 +2857,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1782541066665
+  },
+  "wzgawlvnjb92": {
+    "namaItem": "SC PUSH",
+    "isiItem": "—( 🎉 ) || SELAMAT! Kamu Mendapat:\n\n¤ Item : 🟣 SC PUSH\n¤ Tipe : EPIC\n¤ Sisa Coin : 💰 0",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkDAAEBS5pqHSfFBrfNpPHXzwk9tkfk_qfV1wACJhwAAhhU2VTOAsFE-NkLljsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782555485919
   }
 }
