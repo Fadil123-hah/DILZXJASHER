@@ -2952,5 +2952,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1782642035563
+  },
+  "wzga237nd98r": {
+    "namaItem": "base lubyz",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: base lubyz.zip\n┣ 💸 Harga: 1,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp2FqI-ohf1m8hOP3z0xnYEThXH7_agAC7x0AAtTIwFS1xYl3zgYveTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782655377469
   }
 }
