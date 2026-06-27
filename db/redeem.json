@@ -2884,7 +2884,7 @@
     "claimedBy": [
       7525601585
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1782569888149
   },
@@ -2897,7 +2897,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1782584395673
   },
@@ -2967,5 +2967,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1782655377469
+  },
+  "wzgamgn3pvyc": {
+    "namaItem": "DEWA APK V3.7 (2)",
+    "isiItem": "Script dari user (@OpenRekber01)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBqeJqI_YP3zVyVxb7ourj45Bv3L0yewAChCAAAjq0IVUM8hY_0algfTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782680974601
   }
 }
