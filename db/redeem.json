@@ -2936,7 +2936,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1782627595823
   },
@@ -2993,5 +2993,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1782701567448
+  },
+  "wzgard9fsllx": {
+    "namaItem": "Zion MD",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: Zion-MD.zip\n┣ 💸 Harga: 1,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpxpqI-nt8wTVxJBGEii0p3BWDB3dlwACCxYAAln98FVH1u_6Z_CqUzsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782715967467
   }
 }
