@@ -3006,5 +3006,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1782715967467
+  },
+  "wzgafnlr9xjy": {
+    "namaItem": "VORTEX BROADCAST BOT 7.0",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: VORTEX BROADCAST BOT 7.0.zip\n┣ 💸 Harga: 1,000,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzZqI-ohZFsq9DnK84P3zx2HUpr2zwAC1iYAAiBsuVRdP2Z_517H0zsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782736311235
   }
 }
