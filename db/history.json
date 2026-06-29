@@ -4198,5 +4198,37 @@
     "title": "BOT JAGA GB BY ZIFER ENC",
     "rarity": "epic",
     "when": "30/6/2026, 03.42.46"
+  },
+  {
+    "type": "gacha",
+    "userId": "8895956394",
+    "itemId": "91579RR4",
+    "title": "SET ANDRO EPEP [G TAU AMAN KAGA]",
+    "rarity": "uncommon",
+    "when": "30/6/2026, 04.02.10"
+  },
+  {
+    "type": "gacha",
+    "userId": "8895956394",
+    "itemId": "97RR7EIV",
+    "title": "FUNC",
+    "rarity": "common",
+    "when": "30/6/2026, 04.02.10"
+  },
+  {
+    "type": "gacha",
+    "userId": "8895956394",
+    "itemId": "R63NLCNA",
+    "title": "TOOLS BYPAD",
+    "rarity": "legendary",
+    "when": "30/6/2026, 04.02.11"
+  },
+  {
+    "type": "gacha",
+    "userId": "8895956394",
+    "itemId": "BO0YGSH9",
+    "title": "VORTEZ BVBOT V5",
+    "rarity": "common",
+    "when": "30/6/2026, 04.02.12"
   }
 ]
