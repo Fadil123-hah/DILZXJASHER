@@ -3125,5 +3125,14 @@
     "at": 1782723532138,
     "auto": true,
     "expireAt": 1782809932138
+  },
+  "wzco664hgld5": {
+    "amount": 50,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1782724102635,
+    "auto": true,
+    "expireAt": 1782810502635
   }
 }
