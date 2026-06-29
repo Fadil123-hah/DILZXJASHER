@@ -3165,7 +3165,9 @@
   "wzcoarjfclsk": {
     "amount": 10,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8709724282
+    ],
     "expired": false,
     "at": 1782750765218,
     "auto": true,
@@ -3174,7 +3176,9 @@
   "wzcoc6g743xd": {
     "amount": 10,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8709724282
+    ],
     "expired": false,
     "at": 1782765183349,
     "auto": true,
