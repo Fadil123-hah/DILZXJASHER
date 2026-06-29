@@ -1592,5 +1592,15 @@
     "price": 280,
     "discount": 0,
     "at": 1780819060289
+  },
+  {
+    "id": 1782732988317,
+    "userId": "8509663776",
+    "username": "@AotJasher_bot",
+    "itemId": "sc_1780571571720_9359",
+    "itemName": "Dementor V12 Version Free",
+    "price": 283,
+    "discount": 0,
+    "at": 1782732988317
   }
 ]
