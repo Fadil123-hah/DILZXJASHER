@@ -3179,5 +3179,14 @@
     "at": 1782726528565,
     "auto": true,
     "expireAt": 1782812928565
+  },
+  "wzco33kwsumm": {
+    "amount": 75,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1782727119364,
+    "auto": true,
+    "expireAt": 1782813519364
   }
 }
