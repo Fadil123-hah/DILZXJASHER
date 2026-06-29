@@ -3166,5 +3166,14 @@
     "at": 1782715941774,
     "auto": true,
     "expireAt": 1782802341774
+  },
+  "wzcoj945lafe": {
+    "amount": 20,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1782716375570,
+    "auto": true,
+    "expireAt": 1782802775570
   }
 }
