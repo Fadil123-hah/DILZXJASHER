@@ -3045,5 +3045,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1782765111250
+  },
+  "wzgaswyx85ne": {
+    "namaItem": "sc otp balz",
+    "isiItem": "✅ PENUKARAN BERHASIL\n\n┣ 📂 Nama: sc otp balz.zip\n┣ 💸 Harga: 400,000 Coins",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp8lqI-p_6XOmG2YohHgEBVzwAktFMQACdiAAAlNBuFR2ZdfAuYuhWDsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782779511246
   }
 }
