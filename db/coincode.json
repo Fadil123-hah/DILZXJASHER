@@ -3084,7 +3084,9 @@
   "wzcoddzyvs8w": {
     "amount": 100,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8442651886
+    ],
     "expired": false,
     "at": 1782642716234,
     "auto": true,
