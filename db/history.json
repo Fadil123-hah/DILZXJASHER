@@ -4262,5 +4262,69 @@
     "title": "TEKS UNBAND V1",
     "rarity": "epic",
     "when": "30/6/2026, 09.03.22"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "97RR7EIV",
+    "title": "FUNC",
+    "rarity": "common",
+    "when": "30/6/2026, 09.12.39"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "OL82SNT5",
+    "title": "TEKS UNBAND NEW",
+    "rarity": "epic",
+    "when": "30/6/2026, 09.12.42"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "unmapped_VIH2094A",
+    "title": "VIH2094A",
+    "rarity": "common",
+    "when": "30/6/2026, 09.12.45"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "unmapped_GBHCRB2V",
+    "title": "GBHCRB2V",
+    "rarity": "common",
+    "when": "30/6/2026, 09.12.46"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "9HIZ7SB5",
+    "title": "MISTERI HOW ALL",
+    "rarity": "epic",
+    "when": "30/6/2026, 09.12.47"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "unmapped_VIH2094A",
+    "title": "VIH2094A",
+    "rarity": "common",
+    "when": "30/6/2026, 09.12.54"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "unmapped_ACBUM759",
+    "title": "ACBUM759",
+    "rarity": "common",
+    "when": "30/6/2026, 09.12.55"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "2DCQFWHV",
+    "title": "ANGKASA BOT LIMIT V0.1",
+    "rarity": "uncommon",
+    "when": "30/6/2026, 09.13.00"
   }
 ]
