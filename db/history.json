@@ -4582,5 +4582,85 @@
     "title": "FUNC CRASH CLICK",
     "rarity": "epic",
     "when": "30/6/2026, 18.35.16"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "1B4C8F1D",
+    "title": "BASE VOID",
+    "rarity": "uncommon",
+    "when": "30/6/2026, 18.36.24"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "RKHMF5F1",
+    "title": "X FUXXO",
+    "rarity": "epic",
+    "when": "30/6/2026, 18.36.26"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "BOJ6ID0H",
+    "title": "APK PHISING V1",
+    "rarity": "epic",
+    "when": "30/6/2026, 18.36.26"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "unmapped_0QGTNX8D",
+    "title": "0QGTNX8D",
+    "rarity": "common",
+    "when": "30/6/2026, 18.36.27"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "R63NLCNA",
+    "title": "TOOLS BYPAD",
+    "rarity": "legendary",
+    "when": "30/6/2026, 18.36.27"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "GBXFIUGG",
+    "title": "DEATHNOTE JAGA GB",
+    "rarity": "legendary",
+    "when": "30/6/2026, 18.36.30"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "unmapped_0QGTNX8D",
+    "title": "0QGTNX8D",
+    "rarity": "common",
+    "when": "30/6/2026, 18.36.30"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "unmapped_WZH3BCSG",
+    "title": "WZH3BCSG",
+    "rarity": "common",
+    "when": "30/6/2026, 18.36.32"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "unmapped_XP52PLK8",
+    "title": "XP52PLK8",
+    "rarity": "common",
+    "when": "30/6/2026, 18.36.32"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "2R3S0LV8",
+    "title": "HTML CPANEL",
+    "rarity": "legendary",
+    "when": "30/6/2026, 18.36.33"
   }
 ]
