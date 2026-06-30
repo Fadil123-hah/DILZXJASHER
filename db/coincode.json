@@ -3324,5 +3324,14 @@
     "at": 1782832598139,
     "auto": true,
     "expireAt": 1782918998139
+  },
+  "wzcoynbg4pvf": {
+    "amount": 75,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1782833756209,
+    "auto": true,
+    "expireAt": 1782920156209
   }
 }
