@@ -4230,5 +4230,37 @@
     "title": "VORTEZ BVBOT V5",
     "rarity": "common",
     "when": "30/6/2026, 04.02.12"
+  },
+  {
+    "type": "gacha",
+    "userId": "5338704359",
+    "itemId": "TXETZQ5J",
+    "title": "RESET OTP WA V1",
+    "rarity": "uncommon",
+    "when": "30/6/2026, 09.03.20"
+  },
+  {
+    "type": "gacha",
+    "userId": "5338704359",
+    "itemId": "unmapped_GBHCRB2V",
+    "title": "GBHCRB2V",
+    "rarity": "common",
+    "when": "30/6/2026, 09.03.21"
+  },
+  {
+    "type": "gacha",
+    "userId": "5338704359",
+    "itemId": "RKHMF5F1",
+    "title": "X FUXXO",
+    "rarity": "epic",
+    "when": "30/6/2026, 09.03.21"
+  },
+  {
+    "type": "gacha",
+    "userId": "5338704359",
+    "itemId": "RWGBDNWV",
+    "title": "TEKS UNBAND V1",
+    "rarity": "epic",
+    "when": "30/6/2026, 09.03.22"
   }
 ]
