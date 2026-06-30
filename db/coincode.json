@@ -3253,5 +3253,14 @@
     "at": 1782802645969,
     "auto": true,
     "expireAt": 1782889045969
+  },
+  "wzcoh742pnde": {
+    "amount": 10,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1782804706511,
+    "auto": true,
+    "expireAt": 1782891106511
   }
 }
