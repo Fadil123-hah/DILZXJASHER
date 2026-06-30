@@ -4662,5 +4662,45 @@
     "title": "HTML CPANEL",
     "rarity": "legendary",
     "when": "30/6/2026, 18.36.33"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "unmapped_0QGTNX8D",
+    "title": "0QGTNX8D",
+    "rarity": "common",
+    "when": "1/7/2026, 04.46.27"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "unmapped_XP52PLK8",
+    "title": "XP52PLK8",
+    "rarity": "common",
+    "when": "1/7/2026, 04.46.27"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "1IK447ZC",
+    "title": "X FOXXO",
+    "rarity": "uncommon",
+    "when": "1/7/2026, 04.46.28"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "unmapped_8AZM527G",
+    "title": "8AZM527G",
+    "rarity": "common",
+    "when": "1/7/2026, 04.46.28"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "unmapped_XP52PLK8",
+    "title": "XP52PLK8",
+    "rarity": "common",
+    "when": "1/7/2026, 04.46.28"
   }
 ]
