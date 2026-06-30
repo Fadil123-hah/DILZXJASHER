@@ -3050,7 +3050,7 @@
       5338704359,
       6458245908
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1782858778737
   },
@@ -3107,5 +3107,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1782934051889
+  },
+  "wzgaqm3ex6qu": {
+    "namaItem": "SMSNumbers   2026 05 24T100606.128",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBY_9qIV2GY8GgcZpm5n1GfopPn1Ih6wACCSIAArUcEFXFJlDdAAFaQ9s7BA"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782948529375
   }
 }
