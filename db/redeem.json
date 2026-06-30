@@ -3053,5 +3053,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1782858778737
+  },
+  "wzgav7hutwu2": {
+    "namaItem": "BuildXyy",
+    "isiItem": "BuildXyy.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp2JqI-ohmiL33KFNBoV50preC2klKAAC6B0AAtTIwFTBsdu85a5a2jsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782873179937
   }
 }
