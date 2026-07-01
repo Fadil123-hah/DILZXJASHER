@@ -3089,5 +3089,14 @@
     "at": 1782913037515,
     "auto": true,
     "expireAt": 1782999437515
+  },
+  "wzco59e36vlc": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1782913389941,
+    "auto": true,
+    "expireAt": 1782999789941
   }
 }
