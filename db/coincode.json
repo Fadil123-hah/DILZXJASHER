@@ -3117,7 +3117,9 @@
   "wzcouhl7sv4m": {
     "amount": 20,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7523355804
+    ],
     "expired": false,
     "at": 1782917126997,
     "auto": true,
