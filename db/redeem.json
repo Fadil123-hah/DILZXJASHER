@@ -3006,5 +3006,119 @@
     "expired": true,
     "auto": true,
     "expireAt": 1782715967467
+  },
+  "wzgamccda9qb": {
+    "namaItem": "Base Xopown",
+    "isiItem": "Base-Xopown.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp2BqI-ohh9EJidxLqic4ENqlxk9PcAAC4B0AAtTIwFTnAAHPGEJ93Xw7BA"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      5338704359,
+      6458245908
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1782829960073
+  },
+  "wzgawuj7unjk": {
+    "namaItem": "JASHER FULL BUTTON V1 (1)",
+    "isiItem": "JASHER FULL BUTTON V1 (1).zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp85qI-p_wL_tFMaA6pN1yilzzVhFqwACeiAAAlNBuFTt2sWKXlHJIDsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      8709724282
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1782844360197
+  },
+  "wzgaq5sdhsl9": {
+    "namaItem": "Hi I'M DEATH FLOWERS V13 (3)",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBVOZqHrrZPm8nZagzJjW6x767Nv42ZAACTR4AAsGW8FQRs_v1Wy0h_TsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      5338704359,
+      6458245908
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1782858778737
+  },
+  "wzgav7hutwu2": {
+    "namaItem": "BuildXyy",
+    "isiItem": "BuildXyy.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp2JqI-ohmiL33KFNBoV50preC2klKAAC6B0AAtTIwFTBsdu85a5a2jsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [
+      6458245908
+    ],
+    "expired": true,
+    "auto": true,
+    "expireAt": 1782873179937
+  },
+  "wzgakb4vgcrg": {
+    "namaItem": "VORTEX BROADCAST BOT 9.0",
+    "isiItem": "VORTEX BROADCAST BOT 9.0.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzJqI-oh32IsWTlI2xfD7kd23ZHLjAAC0CYAAiBsuVR-g3MNLQ-TzTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782900986666
+  },
+  "wzga8ez5pnx4": {
+    "namaItem": "VORTEX BROADCAST BOT 9.0",
+    "isiItem": "VORTEX BROADCAST BOT 9.0.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzJqI-oh32IsWTlI2xfD7kd23ZHLjAAC0CYAAiBsuVR-g3MNLQ-TzTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782915440498
+  },
+  "wzgavht35qqd": {
+    "namaItem": "botnet main",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBVOBqHrrZ4xWEaiOCil2jOt67fvPhvAACSB4AAsGW8FRnG97aCfKh5jsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782934051889
+  },
+  "wzgaqm3ex6qu": {
+    "namaItem": "SMSNumbers   2026 05 24T100606.128",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBY_9qIV2GY8GgcZpm5n1GfopPn1Ih6wACCSIAArUcEFXFJlDdAAFaQ9s7BA"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1782948529375
   }
 }
