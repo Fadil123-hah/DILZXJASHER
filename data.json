@@ -1345,16 +1345,7 @@
     "1295213440",
     "1541584884"
   ],
-  "ubot_users": {
-    "8509663776": {
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDJmZjUzMGFkNjhlZWI0YTkzZDlkOCIsImlhdCI6MTc4MTU5NTI4MiwiZXhwIjoxNzgyMjAwMDgyfQ.IGEVHaDelL6yDnykRjMnn-kyxu-SW6dt7-swlSB6O0E",
-      "username": "dilzxxyz"
-    },
-    "8699409011": {
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMTVhNjQzZTE0M2YzM2ZhZGRmNzM3NiIsImlhdCI6MTc4MTc3ODk1OCwiZXhwIjoxNzgyMzgzNzU4fQ.xtHwvs4muexnu3gzV0GocWVNG99kIdzzvL_htCXkx6g",
-      "username": "Alif"
-    }
-  },
+  "ubot_users": {},
   "user_group_count": {
     "1087968824": 0,
     "1160945585": 1,
