@@ -3149,7 +3149,9 @@
   "wzcoarzslqd8": {
     "amount": 10,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7523355804
+    ],
     "expired": false,
     "at": 1782945927011,
     "auto": true,
