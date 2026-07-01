@@ -1345,7 +1345,13 @@
     "1295213440",
     "1541584884"
   ],
-  "ubot_users": {},
+  "ubot_users": {
+    "8509663776": {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMDJmZjUzMGFkNjhlZWI0YTkzZDlkOCIsImlhdCI6MTc4MjkyMDE1NSwiZXhwIjoxNzgzNTI0OTU1fQ.X8hDYTUD3nWnbsDMelvq1XuTkeO4yOqf41QVTbDXA84",
+      "username": "dilzxxyz",
+      "password": "hyric12"
+    }
+  },
   "user_group_count": {
     "1087968824": 0,
     "1160945585": 1,
