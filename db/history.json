@@ -4702,5 +4702,101 @@
     "title": "XP52PLK8",
     "rarity": "common",
     "when": "1/7/2026, 04.46.28"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "5AFA2OL6",
+    "title": "FUNC V2",
+    "rarity": "common",
+    "when": "1/7/2026, 07.35.40"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "YFQKDT2Y",
+    "title": "MT TO PERMA",
+    "rarity": "uncommon",
+    "when": "1/7/2026, 07.35.40"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "GBXFIUGG",
+    "title": "DEATHNOTE JAGA GB",
+    "rarity": "legendary",
+    "when": "1/7/2026, 07.35.41"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "YFQKDT2Y",
+    "title": "MT TO PERMA",
+    "rarity": "uncommon",
+    "when": "1/7/2026, 07.35.47"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "unmapped_L6QNZAP8",
+    "title": "L6QNZAP8",
+    "rarity": "common",
+    "when": "1/7/2026, 07.35.49"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "YFQKDT2Y",
+    "title": "MT TO PERMA",
+    "rarity": "uncommon",
+    "when": "1/7/2026, 07.35.50"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "91579RR4",
+    "title": "SET ANDRO EPEP [G TAU AMAN KAGA]",
+    "rarity": "uncommon",
+    "when": "1/7/2026, 07.35.50"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "BOJ6ID0H",
+    "title": "APK PHISING V1",
+    "rarity": "epic",
+    "when": "1/7/2026, 07.35.51"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "9HIZ7SB5",
+    "title": "MISTERI HOW ALL",
+    "rarity": "epic",
+    "when": "1/7/2026, 07.35.52"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "BOJ6ID0H",
+    "title": "APK PHISING V1",
+    "rarity": "epic",
+    "when": "1/7/2026, 07.35.53"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "unmapped_ACBUM759",
+    "title": "ACBUM759",
+    "rarity": "common",
+    "when": "1/7/2026, 07.35.53"
+  },
+  {
+    "type": "gacha",
+    "userId": "6458245908",
+    "itemId": "unmapped_EUENS5TD",
+    "title": "EUENS5TD",
+    "rarity": "common",
+    "when": "1/7/2026, 07.35.53"
   }
 ]
