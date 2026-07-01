@@ -1602,5 +1602,15 @@
     "price": 139,
     "discount": 0,
     "at": 1782933740270
+  },
+  {
+    "id": 1782934592473,
+    "userId": "8374172221",
+    "username": "@AotJasher_bot",
+    "itemId": "sc_1780738825964_196",
+    "itemName": "FIX SC BUYNOKOSV2",
+    "price": 135,
+    "discount": 0,
+    "at": 1782934592473
   }
 ]
