@@ -3118,5 +3118,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1783107953720
+  },
+  "wzgaky4gcqf7": {
+    "namaItem": "Sc Auto Order Vps",
+    "isiItem": "Sc Auto Order Vps.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpyZqI-ohYt_0yLig8HO3rcR_vTrjQgACbyAAAlNBuFTjSl8L_0iWUTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1783122353720
   }
 }
