@@ -3279,7 +3279,9 @@
   "wzcohpp84ae5": {
     "amount": 20,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7523355804
+    ],
     "expired": false,
     "at": 1782967729111,
     "auto": true,
