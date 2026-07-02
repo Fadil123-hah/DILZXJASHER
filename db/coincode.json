@@ -3360,7 +3360,9 @@
   "wzcor925d796": {
     "amount": 10,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7523355804
+    ],
     "expired": false,
     "at": 1782971158707,
     "auto": true,
