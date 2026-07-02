@@ -3216,7 +3216,9 @@
   "wzco79g3mh3k": {
     "amount": 20,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8374172221
+    ],
     "expired": false,
     "at": 1782965628104,
     "auto": true,
