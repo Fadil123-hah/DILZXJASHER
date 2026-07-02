@@ -3249,7 +3249,10 @@
   "wzcov4jm5fr3": {
     "amount": 20,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8374172221,
+      1753222072
+    ],
     "expired": false,
     "at": 1782967223955,
     "auto": true,
