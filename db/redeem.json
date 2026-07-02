@@ -3037,5 +3037,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1783025122005
+  },
+  "wzgater898eu": {
+    "namaItem": "base lubyz",
+    "isiItem": "base lubyz.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp2FqI-ohf1m8hOP3z0xnYEThXH7_agAC7x0AAtTIwFS1xYl3zgYveTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1783039522005
   }
 }
