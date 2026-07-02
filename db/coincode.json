@@ -3291,7 +3291,9 @@
   "wzcojjz2k63p": {
     "amount": 50,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7523355804
+    ],
     "expired": false,
     "at": 1782968350687,
     "auto": true,
