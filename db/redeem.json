@@ -3070,5 +3070,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1783064753708
+  },
+  "wzgartjsjmam": {
+    "namaItem": "SC AUTO ORDER NEWFIXED",
+    "isiItem": "SC_AUTO_ORDER_NEWFIXED.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp89qI-p_RjBkulG5hyEUu4GaM6BVdQACfSAAAlNBuFQaf-VIyy63QTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1783079153718
   }
 }
