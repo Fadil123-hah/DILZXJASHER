@@ -3087,5 +3087,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1783079153718
+  },
+  "wzgawzgdnyyj": {
+    "namaItem": "SC CPANEL X PUSH BY RAMZ (1)",
+    "isiItem": "Script dari user (@OpenRekber01)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBqe5qI_ZjMmtjeBAh2pdXjEpMZoqZfAAC-h4AApWsIVWOndmmmAhYnTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1783093553770
   }
 }
