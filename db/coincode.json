@@ -3356,5 +3356,14 @@
     "at": 1782970263701,
     "auto": true,
     "expireAt": 1783056663701
+  },
+  "wzcor925d796": {
+    "amount": 10,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1782971158707,
+    "auto": true,
+    "expireAt": 1783057558707
   }
 }
