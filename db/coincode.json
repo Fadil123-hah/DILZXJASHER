@@ -3368,5 +3368,14 @@
     "at": 1782971158707,
     "auto": true,
     "expireAt": 1783057558707
+  },
+  "wzcoaa424eny": {
+    "amount": 20,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1782985558717,
+    "auto": true,
+    "expireAt": 1783071958717
   }
 }
