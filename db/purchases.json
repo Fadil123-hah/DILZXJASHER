@@ -1612,5 +1612,25 @@
     "price": 135,
     "discount": 0,
     "at": 1782934592473
+  },
+  {
+    "id": 1783000678447,
+    "userId": "8374172221",
+    "username": "@AotJasher_bot",
+    "itemId": "sc_1780738597146_3362",
+    "itemName": "20+ SC PUSH CH & GB",
+    "price": 139,
+    "discount": 0,
+    "at": 1783000678447
+  },
+  {
+    "id": 1783000701492,
+    "userId": "8374172221",
+    "username": "@AotJasher_bot",
+    "itemId": "sc_1780738597210_7624",
+    "itemName": "JASEB WANN",
+    "price": 240,
+    "discount": 0,
+    "at": 1783000701492
   }
 ]
