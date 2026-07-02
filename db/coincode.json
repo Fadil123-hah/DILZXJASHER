@@ -3333,5 +3333,14 @@
     "at": 1782969206264,
     "auto": true,
     "expireAt": 1783055606264
+  },
+  "wzcou89dtshm": {
+    "amount": 20,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1782969532761,
+    "auto": true,
+    "expireAt": 1783055932761
   }
 }
