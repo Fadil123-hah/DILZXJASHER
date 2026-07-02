@@ -3238,7 +3238,9 @@
   "wzcofk79dswx": {
     "amount": 20,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8374172221
+    ],
     "expired": false,
     "at": 1782966951098,
     "auto": true,
