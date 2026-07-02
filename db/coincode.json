@@ -3298,5 +3298,14 @@
     "at": 1782968350687,
     "auto": true,
     "expireAt": 1783054750687
+  },
+  "wzcom6tjtsms": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1782968672117,
+    "auto": true,
+    "expireAt": 1783055072117
   }
 }
