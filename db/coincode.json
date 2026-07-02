@@ -3173,10 +3173,23 @@
   "wzcop3rg7sl5": {
     "amount": 75,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8374172221
+    ],
     "expired": false,
     "at": 1782961463874,
     "auto": true,
     "expireAt": 1783047863874
+  },
+  "wzco84r42dyl": {
+    "amount": 20,
+    "maxClaim": 70,
+    "claimedBy": [
+      8336284827
+    ],
+    "expired": false,
+    "at": 1782961619801,
+    "auto": true,
+    "expireAt": 1783048019801
   }
 }
