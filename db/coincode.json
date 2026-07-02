@@ -3257,7 +3257,8 @@
     "maxClaim": 70,
     "claimedBy": [
       8374172221,
-      1753222072
+      1753222072,
+      7523355804
     ],
     "expired": false,
     "at": 1782967223955,
@@ -3267,7 +3268,9 @@
   "wzco63q3qrzz": {
     "amount": 50,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7523355804
+    ],
     "expired": false,
     "at": 1782967474198,
     "auto": true,
