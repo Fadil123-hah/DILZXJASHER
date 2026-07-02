@@ -3103,5 +3103,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1783093553770
+  },
+  "wzgapuzzya7a": {
+    "namaItem": "BASE XPRESHX",
+    "isiItem": "BASE XPRESHX.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp2NqI-ohMiFMvKwAAf5oAAFG4sGYzPo9AALwHQAC1MjAVC_rfJKYiIaEOwQ"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1783107953720
   }
 }
