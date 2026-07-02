@@ -3227,10 +3227,21 @@
   "wzcof88s497c": {
     "amount": 20,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8374172221
+    ],
     "expired": false,
     "at": 1782966433161,
     "auto": true,
     "expireAt": 1783052833161
+  },
+  "wzcofk79dswx": {
+    "amount": 20,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1782966951098,
+    "auto": true,
+    "expireAt": 1783053351098
   }
 }
