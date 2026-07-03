@@ -3163,5 +3163,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1783190711146
+  },
+  "wzgavcsvye8g": {
+    "namaItem": "SC PUSH",
+    "isiItem": "SC PUSH",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkDAAEBS5pqHSfFBrfNpPHXzwk9tkfk_qfV1wACJhwAAhhU2VTOAsFE-NkLljsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1783205111128
   }
 }
