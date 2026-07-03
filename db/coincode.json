@@ -3491,7 +3491,9 @@
   "wzcotl3x3hlf": {
     "amount": 100,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8374172221
+    ],
     "expired": false,
     "at": 1783097116057,
     "auto": true,
