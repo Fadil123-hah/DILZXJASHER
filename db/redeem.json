@@ -3067,7 +3067,7 @@
       8267720771,
       8374172221
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1783064753708
   },
@@ -3147,5 +3147,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1783136753720
+  },
+  "wzgaww6lbn6g": {
+    "namaItem": "Base Tornado Infinity〽️",
+    "isiItem": "Base Tornado Infinity〽️.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzBqI-ohjYpMJrIeGFGrzaE-RmnCtAAC5BcAAsFTMVer8a_T3mG7ojsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1783151153720
   }
 }
