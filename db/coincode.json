@@ -3492,7 +3492,8 @@
     "amount": 100,
     "maxClaim": 70,
     "claimedBy": [
-      8374172221
+      8374172221,
+      7523355804
     ],
     "expired": false,
     "at": 1783097116057,
@@ -3502,7 +3503,9 @@
   "wzco426vynlm": {
     "amount": 50,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7523355804
+    ],
     "expired": false,
     "at": 1783111516056,
     "auto": true,
