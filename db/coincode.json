@@ -3404,7 +3404,8 @@
     "claimedBy": [
       8374172221,
       8267720771,
-      5227012137
+      5227012137,
+      7523355804
     ],
     "expired": false,
     "at": 1783014358715,
@@ -3414,7 +3415,9 @@
   "wzcoqvmjm3cr": {
     "amount": 30,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7523355804
+    ],
     "expired": false,
     "at": 1783028758717,
     "auto": true,
@@ -3423,7 +3426,9 @@
   "wzcosjbhf83y": {
     "amount": 50,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7523355804
+    ],
     "expired": false,
     "at": 1783043158719,
     "auto": true,
