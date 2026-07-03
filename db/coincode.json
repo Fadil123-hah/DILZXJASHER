@@ -3498,5 +3498,14 @@
     "at": 1783097116057,
     "auto": true,
     "expireAt": 1783183516057
+  },
+  "wzco426vynlm": {
+    "amount": 50,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1783111516056,
+    "auto": true,
+    "expireAt": 1783197916056
   }
 }
