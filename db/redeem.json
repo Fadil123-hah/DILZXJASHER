@@ -3133,5 +3133,18 @@
     "expired": true,
     "auto": true,
     "expireAt": 1782989352867
+  },
+  "wzgaw6h92xpy": {
+    "namaItem": "Base Tampilan keren",
+    "isiItem": "Base Tampilan keren.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzFqI-ohsH8PpnV0hnYgxXJ9-igdggACNiQAAhCyCFQx7fhrhAyH-zsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1783176311075
   }
 }
