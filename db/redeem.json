@@ -3197,5 +3197,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1783223830695
+  },
+  "wzga42aeuesu": {
+    "namaItem": "VORTEX BROADCAST BOT 9.0",
+    "isiItem": "VORTEX BROADCAST BOT 9.0.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzJqI-oh32IsWTlI2xfD7kd23ZHLjAAC0CYAAiBsuVR-g3MNLQ-TzTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1783238230729
   }
 }
