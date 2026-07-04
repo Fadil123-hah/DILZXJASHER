@@ -3108,7 +3108,9 @@
   "wzco2vklq3c9": {
     "amount": 100,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8374172221
+    ],
     "expired": false,
     "at": 1783181054953,
     "auto": true,
