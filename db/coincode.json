@@ -3575,5 +3575,14 @@
     "at": 1783163338064,
     "auto": true,
     "expireAt": 1783249738064
+  },
+  "wzco3lvn28x5": {
+    "amount": 10,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1783163501347,
+    "auto": true,
+    "expireAt": 1783249901347
   }
 }
