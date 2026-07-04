@@ -3514,7 +3514,9 @@
   "wzcojcjenu5h": {
     "amount": 100,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7523355804
+    ],
     "expired": false,
     "at": 1783125916053,
     "auto": true,
@@ -3523,7 +3525,9 @@
   "wzcolmfq5887": {
     "amount": 20,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7523355804
+    ],
     "expired": false,
     "at": 1783130235698,
     "auto": true,
