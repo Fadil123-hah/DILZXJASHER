@@ -3559,10 +3559,21 @@
   "wzco58qe48t3": {
     "amount": 30,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7523355804
+    ],
     "expired": false,
     "at": 1783159483721,
     "auto": true,
     "expireAt": 1783245883721
+  },
+  "wzcoebfxb4kj": {
+    "amount": 20,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1783163338064,
+    "auto": true,
+    "expireAt": 1783249738064
   }
 }
