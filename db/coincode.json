@@ -3555,5 +3555,14 @@
     "at": 1783159035720,
     "auto": true,
     "expireAt": 1783245435720
+  },
+  "wzco58qe48t3": {
+    "amount": 30,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1783159483721,
+    "auto": true,
+    "expireAt": 1783245883721
   }
 }
