@@ -3536,7 +3536,9 @@
   "wzcoyumhjefp": {
     "amount": 75,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7523355804
+    ],
     "expired": false,
     "at": 1783144635728,
     "auto": true,
