@@ -3579,7 +3579,9 @@
   "wzco3lvn28x5": {
     "amount": 10,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7523355804
+    ],
     "expired": false,
     "at": 1783163501347,
     "auto": true,
