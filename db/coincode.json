@@ -3095,7 +3095,9 @@
   "wzcox3cyc24q": {
     "amount": 30,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8374172221
+    ],
     "expired": false,
     "at": 1783180673698,
     "auto": true,
