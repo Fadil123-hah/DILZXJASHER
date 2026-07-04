@@ -3124,5 +3124,14 @@
     "at": 1783181598061,
     "auto": true,
     "expireAt": 1783267998061
+  },
+  "wzcoy32mme79": {
+    "amount": 50,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1783181863766,
+    "auto": true,
+    "expireAt": 1783268263766
   }
 }
