@@ -3182,7 +3182,9 @@
   "wzco7rxklrgj": {
     "amount": 30,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8336284827
+    ],
     "expired": false,
     "at": 1783240576061,
     "auto": true,
