@@ -3047,5 +3047,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1783305371062
+  },
+  "wzgabq856pr3": {
+    "namaItem": "1778475798829 Ubot Premium Di Share YTTA",
+    "isiItem": "1778475798829_Ubot_Premium_Di_Share_YTTA.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp0pqI-ohcLbs-qYbPb3_qxWBmzi92AACJiAAAmtKuVR2roIrwl2j3zsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1783319771062
   }
 }
