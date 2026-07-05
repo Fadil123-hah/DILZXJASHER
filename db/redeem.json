@@ -3060,5 +3060,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1783319771062
+  },
+  "wzgavpn6qf6c": {
+    "namaItem": "SC CEK BIO WA",
+    "isiItem": "SC CEK BIO WA.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp8tqI-p_92bseKJ9Fy8buOdetaq1wwACcyAAAlNBuFS-kAfWUE9lcDsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1783334171062
   }
 }
