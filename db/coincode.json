@@ -3254,5 +3254,14 @@
     "at": 1783305713637,
     "auto": true,
     "expireAt": 1783392113637
+  },
+  "wzco397jh5pu": {
+    "amount": 10,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1783305830017,
+    "auto": true,
+    "expireAt": 1783392230017
   }
 }
