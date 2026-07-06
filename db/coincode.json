@@ -3263,5 +3263,14 @@
     "at": 1783305830017,
     "auto": true,
     "expireAt": 1783392230017
+  },
+  "wzcobwhjenum": {
+    "amount": 20,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1783305997203,
+    "auto": true,
+    "expireAt": 1783392397203
   }
 }
