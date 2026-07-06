@@ -3085,7 +3085,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1783348571061
   },
@@ -3155,5 +3155,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1783424218430
+  },
+  "wzga7ryzpehs": {
+    "namaItem": "SC CPANEL X PUSH BY RAMZ (1)",
+    "isiItem": "Script dari user (@OpenRekber01)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBqe5qI_ZjMmtjeBAh2pdXjEpMZoqZfAAC-h4AApWsIVWOndmmmAhYnTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1783438618435
   }
 }
