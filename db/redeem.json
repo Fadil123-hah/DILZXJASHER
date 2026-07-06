@@ -3057,7 +3057,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1783319771062
   },
