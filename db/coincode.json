@@ -3341,7 +3341,9 @@
   "wzcolvgd6dvg": {
     "amount": 75,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8374172221
+    ],
     "expired": false,
     "at": 1783307936631,
     "auto": true,
