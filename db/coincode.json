@@ -3330,7 +3330,9 @@
   "wzcoknufn8aa": {
     "amount": 20,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8374172221
+    ],
     "expired": false,
     "at": 1783307605199,
     "auto": true,
