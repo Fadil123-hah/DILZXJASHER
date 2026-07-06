@@ -3231,7 +3231,9 @@
   "wzcoceb9u3cu": {
     "amount": 30,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8374172221
+    ],
     "expired": false,
     "at": 1783304233657,
     "auto": true,
@@ -3240,7 +3242,9 @@
   "wzcogwfua3et": {
     "amount": 75,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8374172221
+    ],
     "expired": false,
     "at": 1783305579915,
     "auto": true,
@@ -3249,7 +3253,9 @@
   "wzco7847j5f6": {
     "amount": 30,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8374172221
+    ],
     "expired": false,
     "at": 1783305713637,
     "auto": true,
@@ -3258,7 +3264,9 @@
   "wzco397jh5pu": {
     "amount": 10,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8374172221
+    ],
     "expired": false,
     "at": 1783305830017,
     "auto": true,
