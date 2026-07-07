@@ -3152,7 +3152,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1783424218430
   },
@@ -3220,5 +3220,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1783496218437
+  },
+  "wzgakqt2p49t": {
+    "namaItem": "SC AUTO ORDER NEWFIXED",
+    "isiItem": "SC_AUTO_ORDER_NEWFIXED.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp89qI-p_RjBkulG5hyEUu4GaM6BVdQACfSAAAlNBuFQaf-VIyy63QTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1783510618437
   }
 }
