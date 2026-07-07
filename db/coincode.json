@@ -3353,7 +3353,7 @@
     "amount": 75,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1783311536873,
     "auto": true,
     "expireAt": 1783397936873
@@ -3362,7 +3362,7 @@
     "amount": 20,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1783311633683,
     "auto": true,
     "expireAt": 1783398033683
@@ -3371,7 +3371,7 @@
     "amount": 75,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1783311751940,
     "auto": true,
     "expireAt": 1783398151940
@@ -3456,5 +3456,14 @@
     "at": 1783388223433,
     "auto": true,
     "expireAt": 1783474623433
+  },
+  "wzcolmflf7rp": {
+    "amount": 20,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1783402623434,
+    "auto": true,
+    "expireAt": 1783489023434
   }
 }
