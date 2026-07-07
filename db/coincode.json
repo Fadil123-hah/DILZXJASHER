@@ -3380,7 +3380,7 @@
     "amount": 30,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1783319950332,
     "auto": true,
     "expireAt": 1783406350332
@@ -3389,7 +3389,7 @@
     "amount": 50,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1783320880523,
     "auto": true,
     "expireAt": 1783407280523
@@ -3398,7 +3398,7 @@
     "amount": 30,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1783321135991,
     "auto": true,
     "expireAt": 1783407535991
@@ -3407,7 +3407,7 @@
     "amount": 75,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1783321178661,
     "auto": true,
     "expireAt": 1783407578661
