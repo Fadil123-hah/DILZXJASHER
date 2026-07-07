@@ -3126,7 +3126,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1783405346940
   },
@@ -3207,5 +3207,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1783481818436
+  },
+  "wzga85jcchz2": {
+    "namaItem": "Base Tampilan keren",
+    "isiItem": "Base Tampilan keren.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzFqI-ohsH8PpnV0hnYgxXJ9-igdggACNiQAAhCyCFQx7fhrhAyH-zsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1783496218437
   }
 }
