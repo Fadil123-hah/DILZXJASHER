@@ -3470,7 +3470,7 @@
     "amount": 10,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1783417023433,
     "auto": true,
     "expireAt": 1783503423433
@@ -3530,5 +3530,14 @@
     "at": 1783489407695,
     "auto": true,
     "expireAt": 1783575807695
+  },
+  "wzco2xbetp6n": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1783503807703,
+    "auto": true,
+    "expireAt": 1783590207703
   }
 }
