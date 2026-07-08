@@ -3280,5 +3280,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1783553818437
+  },
+  "wzga8l4b46ub": {
+    "namaItem": "X ATHENA V𝟼",
+    "isiItem": "X-ATHENA V𝟼.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpztqI-ohxWiUGHv-Or4xBUA-dx_N0QAC5xgAAn9zoVb_2dbaVwH8fTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1783568218438
   }
 }
