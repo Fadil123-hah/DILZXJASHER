@@ -5238,5 +5238,45 @@
     "title": "GBHCRB2V",
     "rarity": "common",
     "when": "9/7/2026, 23.35.34"
+  },
+  {
+    "type": "gacha",
+    "userId": "8970100010",
+    "itemId": "DGGDYTFR",
+    "title": "TEKS RESET OTP WA",
+    "rarity": "uncommon",
+    "when": "9/7/2026, 23.41.43"
+  },
+  {
+    "type": "gacha",
+    "userId": "8970100010",
+    "itemId": "1IK447ZC",
+    "title": "X FOXXO",
+    "rarity": "uncommon",
+    "when": "9/7/2026, 23.41.43"
+  },
+  {
+    "type": "gacha",
+    "userId": "8970100010",
+    "itemId": "unmapped_8AZM527G",
+    "title": "8AZM527G",
+    "rarity": "common",
+    "when": "9/7/2026, 23.41.43"
+  },
+  {
+    "type": "gacha",
+    "userId": "8970100010",
+    "itemId": "2DCQFWHV",
+    "title": "ANGKASA BOT LIMIT V0.1",
+    "rarity": "uncommon",
+    "when": "9/7/2026, 23.41.44"
+  },
+  {
+    "type": "gacha",
+    "userId": "8970100010",
+    "itemId": "OS0EZHHG",
+    "title": "UBOT BY ZIFER",
+    "rarity": "epic",
+    "when": "9/7/2026, 23.41.44"
   }
 ]
