@@ -1642,5 +1642,15 @@
     "price": 240,
     "discount": 0,
     "at": 1783612116870
+  },
+  {
+    "id": 1783613155037,
+    "userId": "8954425515",
+    "username": "@AotJasher_bot",
+    "itemId": "sc_1780641227586_1190",
+    "itemName": "auto create email",
+    "price": 223,
+    "discount": 0,
+    "at": 1783613155037
   }
 ]
