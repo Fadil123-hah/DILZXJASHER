@@ -3675,7 +3675,9 @@
   "wzco88v4lzsx": {
     "amount": 30,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7969837935
+    ],
     "expired": false,
     "at": 1783621823972,
     "auto": true,
