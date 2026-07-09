@@ -4182,5 +4182,13 @@
     "title": "UBOT TERMUX",
     "rarity": "uncommon",
     "when": "9/7/2026, 22.20.17"
+  },
+  {
+    "type": "gacha",
+    "userId": "8970100010",
+    "itemId": "unmapped_G3FAD5BY",
+    "title": "G3FAD5BY",
+    "rarity": "common",
+    "when": "9/7/2026, 22.24.19"
   }
 ]
