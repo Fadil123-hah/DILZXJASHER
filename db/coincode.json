@@ -3658,7 +3658,9 @@
   "ambas": {
     "amount": 999999999999,
     "maxClaim": 20,
-    "claimedBy": [],
+    "claimedBy": [
+      777000
+    ],
     "expired": false,
     "at": 1783610689747
   }
