@@ -1672,5 +1672,15 @@
     "price": 223,
     "discount": 0,
     "at": 1783625674131
+  },
+  {
+    "id": 1783626795043,
+    "userId": "8954425515",
+    "username": "@AotJasher_bot",
+    "itemId": "sc_1780958956661_3158",
+    "itemName": "SC AUTO ORDER NOKOS BY HEROIKZRE @daffaheroikzre",
+    "price": 259,
+    "discount": 0,
+    "at": 1783626795043
   }
 ]
