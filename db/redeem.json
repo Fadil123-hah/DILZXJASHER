@@ -3290,7 +3290,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1783568218438
   },
@@ -3362,5 +3362,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1783640602706
+  },
+  "wzgamx97pgtr": {
+    "namaItem": "sc otp balz",
+    "isiItem": "sc otp balz.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp8lqI-p_6XOmG2YohHgEBVzwAktFMQACdiAAAlNBuFR2ZdfAuYuhWDsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1783659860783
   }
 }
