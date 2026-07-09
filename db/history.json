@@ -4206,5 +4206,13 @@
     "title": "BLANK INFINITY",
     "rarity": "epic",
     "when": "9/7/2026, 22.26.38"
+  },
+  {
+    "type": "gacha",
+    "userId": "8970100010",
+    "itemId": "5AFA2OL6",
+    "title": "FUNC V2",
+    "rarity": "common",
+    "when": "9/7/2026, 22.28.01"
   }
 ]
