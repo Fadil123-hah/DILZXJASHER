@@ -3704,5 +3704,14 @@
     "at": 1783649527540,
     "auto": true,
     "expireAt": 1783735927540
+  },
+  "wzco97u33nxp": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1783663927546,
+    "auto": true,
+    "expireAt": 1783750327546
   }
 }
