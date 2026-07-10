@@ -3722,7 +3722,8 @@
     "amount": 20,
     "maxClaim": 70,
     "claimedBy": [
-      8970100010
+      8970100010,
+      7523355804
     ],
     "expired": false,
     "at": 1783678327547,
@@ -3732,7 +3733,9 @@
   "wzcoek7lta3t": {
     "amount": 10,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7523355804
+    ],
     "expired": false,
     "at": 1783681618099,
     "auto": true,
