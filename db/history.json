@@ -5798,5 +5798,21 @@
     "title": "FOUR REVENGE CRASHER",
     "rarity": "uncommon",
     "when": "9/7/2026, 23.44.54"
+  },
+  {
+    "type": "gacha",
+    "userId": "8970100010",
+    "itemId": "1IK447ZC",
+    "title": "X FOXXO",
+    "rarity": "uncommon",
+    "when": "10/7/2026, 10.07.01"
+  },
+  {
+    "type": "gacha",
+    "userId": "8970100010",
+    "itemId": "DGGDYTFR",
+    "title": "TEKS RESET OTP WA",
+    "rarity": "uncommon",
+    "when": "10/7/2026, 10.07.02"
   }
 ]
