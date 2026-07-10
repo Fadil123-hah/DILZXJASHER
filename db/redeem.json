@@ -3465,5 +3465,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1783743122548
+  },
+  "wzgagpnkydtw": {
+    "namaItem": "FIX SC BUYNOKOSV2",
+    "isiItem": "FIX-SC-BUYNOKOSV2.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp8dqI-p_X8SKVpREl6-tYpTRoMJXxwACbiAAAlNBuFTXLm7tSVIx1jsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1783757522555
   }
 }
