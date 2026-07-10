@@ -3421,7 +3421,7 @@
       8970100010,
       5646999546
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1783701018973
   },
@@ -3493,5 +3493,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1783778441782
+  },
+  "wzgab6zerw57": {
+    "namaItem": "Sc Auto Order Vps",
+    "isiItem": "Sc Auto Order Vps.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpyZqI-ohYt_0yLig8HO3rcR_vTrjQgACbyAAAlNBuFTjSl8L_0iWUTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1783792841789
   }
 }
