@@ -3006,5 +3006,18 @@
     "expired": true,
     "auto": true,
     "expireAt": 1782715967467
+  },
+  "wzgacuc4gzzt": {
+    "namaItem": "SC MD TELE",
+    "isiItem": "SC_MD_TELE.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpyVqI-ohVp54exfA9TbTaXjvt2iUTQACcSAAAlNBuFQIMbMxVBWU5zsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1783833672582
   }
 }
