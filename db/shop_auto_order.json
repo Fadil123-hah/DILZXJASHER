@@ -6,7 +6,7 @@
       "tipe": "script_file",
       "nama": "Sc Ubot Vvip By Dilzx Via Panel",
       "file_id": "BQACAgUAAxkDAAEBSTNqHRrGKQiS_QSsmL0VGGjL_ioZ1QACtx0AAphfwFRXCNG-HrzVUDsE",
-      "harga": 500000,
+      "harga": 5000,
       "stok": 5
     }
   ],
@@ -18,7 +18,7 @@
       "nama": "Akses Ceo @AotJasher_bot",
       "link": "https://t.me/+fjuBadEXUlAyOTll",
       "stok": 5,
-      "harga": 100000
+      "harga": 1000
     }
   ],
   "akses_group": [
@@ -29,7 +29,7 @@
       "nama": "Akses Ceo @AotJasher_bot",
       "link": "https://t.me/+fjuBadEXUlAyOTll",
       "stok": 5,
-      "harga": 100000
+      "harga": 1000
     },
     {
       "id": "GB-1780728904251",
@@ -38,7 +38,7 @@
       "nama": "Murlog Vvip",
       "link": "https://t.me/+-PnagzEPdfliZjBl",
       "stok": 5,
-      "harga": 150000
+      "harga": 1500
     }
   ],
   "admin_ch": [
@@ -49,7 +49,7 @@
       "link": "https://t.me/aotjasher",
       "channelId": "@aotjasher",
       "stok": 4,
-      "harga": 200000
+      "harga": 2000
     }
   ]
 }
