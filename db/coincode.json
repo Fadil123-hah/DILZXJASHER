@@ -3118,5 +3118,15 @@
     "at": 1783763562560,
     "auto": true,
     "expireAt": 1783849962560
+  },
+  "besokminggu": {
+    "amount": 1111111111,
+    "maxClaim": 10,
+    "claimedBy": [
+      8970100010,
+      777000
+    ],
+    "expired": false,
+    "at": 1783763780106
   }
 }
