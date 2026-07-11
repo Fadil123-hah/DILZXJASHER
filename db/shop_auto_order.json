@@ -28,6 +28,15 @@
       "link": "httpss",
       "stok": 1,
       "harga": 10
+    },
+    {
+      "id": "GB-1783756542349",
+      "tipe": "link_gb",
+      "kategori": "FullUp",
+      "nama": "Tester",
+      "link": "100",
+      "stok": 1,
+      "harga": 500
     }
   ],
   "akses_group": [
