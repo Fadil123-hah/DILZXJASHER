@@ -3111,7 +3111,9 @@
   "wzcoasnhclrw": {
     "amount": 50,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8970100010
+    ],
     "expired": false,
     "at": 1783763562560,
     "auto": true,
