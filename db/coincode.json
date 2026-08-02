@@ -3737,7 +3737,9 @@
   "wzcocfck6jn3": {
     "amount": 30,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8374172221
+    ],
     "expired": false,
     "at": 1785640447875,
     "auto": true,
