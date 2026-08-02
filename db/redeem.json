@@ -3210,5 +3210,18 @@
     "expired": true,
     "auto": true,
     "expireAt": 1783238230729
+  },
+  "wzgat6pmcqlu": {
+    "namaItem": "1779940306958 IndictiveCore V5 01 Fixxed 1",
+    "isiItem": "1779940306958_IndictiveCore_V5_01_Fixxed___1_.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBp0BqI-ohnMZMTEXiIFhcuGEh9NX8GgACGSAAAmtKuVRnxNNgqdRxXTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1785734676333
   }
 }
