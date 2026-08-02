@@ -1977,7 +1977,7 @@
   ],
   "settings": {
     "cooldown": {
-      "default": 15
+      "default": 1
     },
     "maintenance": false
   }
