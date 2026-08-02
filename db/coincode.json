@@ -3704,5 +3704,14 @@
     "at": 1785634478795,
     "auto": true,
     "expireAt": 1785720878795
+  },
+  "wzcousssmvnc": {
+    "amount": 50,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1785634571956,
+    "auto": true,
+    "expireAt": 1785720971956
   }
 }
