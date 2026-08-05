@@ -253,7 +253,9 @@
   "wzcoe8c3yyje": {
     "amount": 100,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8764287639
+    ],
     "expired": false,
     "at": 1785951312801,
     "auto": true,
