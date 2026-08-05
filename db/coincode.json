@@ -260,5 +260,14 @@
     "at": 1785951312801,
     "auto": true,
     "expireAt": 1786037712801
+  },
+  "wzconrebe37h": {
+    "amount": 50,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1785965712800,
+    "auto": true,
+    "expireAt": 1786052112800
   }
 }
