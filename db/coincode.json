@@ -213,5 +213,14 @@
     "at": 1785879312799,
     "auto": true,
     "expireAt": 1785965712799
+  },
+  "wzcoj3722syc": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1785893712799,
+    "auto": true,
+    "expireAt": 1785980112799
   }
 }
