@@ -2065,7 +2065,7 @@
   ],
   "settings": {
     "cooldown": {
-      "default": 12
+      "default": 15
     },
     "maintenance": false
   }
