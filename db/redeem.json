@@ -3262,5 +3262,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1786287289208
+  },
+  "wzgaf7afd3dm": {
+    "namaItem": "api dark verse v6 (1)",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBY_5qIV2GBLcNHt0DMlbfywm0pF7icQACCCIAArUcEFVUiPhb-N21vzsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1786301689241
   }
 }
