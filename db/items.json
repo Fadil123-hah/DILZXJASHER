@@ -93,9 +93,9 @@
   {
     "id": "0I6SOHHC",
     "title": "AKSES CEO 1 BULAN JASHER",
-    "rarity": "mythic",
-    "emoji": "🔴",
-    "prob": 1,
+    "rarity": "legendary",
+    "emoji": "🟡",
+    "prob": 2,
     "type": "document",
     "file_id": "BQACAgUAAxkDAAEBMnBqG42eU2KWLy0XBED2AQ6b8bVVBAAC-xsAAhhU2VRSlDoOQuUm3TsE",
     "file_name": "AKSES CEO 1 BULAN JASHER.js",
@@ -884,3 +884,4 @@
     "added_at": "2025-11-18T15:56:59.614Z"
   }
 ]
+
