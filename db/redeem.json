@@ -3353,5 +3353,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1786387477796
+  },
+  "wzgan66wrsk3": {
+    "namaItem": "VORTEX BROADCAST BOT V2",
+    "isiItem": "VORTEX BROADCAST BOT V2.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzRqI-ohY6AGrjBMBx4rRmMMB4BCXAAC0iYAAiBsuVSpUKuFzr6LRzsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1786401914955
   }
 }
