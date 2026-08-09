@@ -3327,5 +3327,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1786359289305
+  },
+  "wzgaxdmuvbfj": {
+    "namaItem": "SC GIFT BERUANG FREE (PUSH CH)",
+    "isiItem": "SC GIFT BERUANG FREE (PUSH CH).zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzhqI-oh8itEyqocvlnR200sEU6rQQACZR0AAsDrgVdizCSky181zzsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1786373077730
   }
 }
