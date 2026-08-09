@@ -3829,7 +3829,9 @@
   "wzcocd7z75tk": {
     "amount": 100,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      600045234
+    ],
     "expired": false,
     "at": 1786279483431,
     "auto": true,
