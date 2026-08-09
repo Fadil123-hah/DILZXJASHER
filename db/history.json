@@ -5006,5 +5006,21 @@
     "title": "UBOT BY ZIFER",
     "rarity": "epic",
     "when": "1/7/2026, 10.31.56"
+  },
+  {
+    "type": "gacha",
+    "userId": "600045234",
+    "itemId": "unmapped_XP52PLK8",
+    "title": "XP52PLK8",
+    "rarity": "common",
+    "when": "9/8/2026, 20.59.25"
+  },
+  {
+    "type": "gacha",
+    "userId": "600045234",
+    "itemId": "unmapped_8AZM527G",
+    "title": "8AZM527G",
+    "rarity": "common",
+    "when": "9/8/2026, 20.59.44"
   }
 ]
