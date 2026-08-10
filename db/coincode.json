@@ -3872,5 +3872,14 @@
     "at": 1786337120681,
     "auto": true,
     "expireAt": 1786423520681
+  },
+  "wzco85274pdt": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1786351520652,
+    "auto": true,
+    "expireAt": 1786437920652
   }
 }
