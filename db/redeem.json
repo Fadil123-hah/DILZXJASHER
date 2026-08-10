@@ -3392,5 +3392,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1786430714992
+  },
+  "wzga52lruxme": {
+    "namaItem": "20+ SC PUSH CH & GB",
+    "isiItem": "20+ SC PUSH CH & GB.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzpqI-oh4jGIitSkUvf8OAfkPVkZAgACuhoAAgcBoVWzQ0edjhT7kzsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1786445115113
   }
 }
