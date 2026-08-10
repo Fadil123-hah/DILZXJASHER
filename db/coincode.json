@@ -3858,7 +3858,9 @@
   "wzcoggvnxhnz": {
     "amount": 30,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8860636120
+    ],
     "expired": false,
     "at": 1786322720698,
     "auto": true,
