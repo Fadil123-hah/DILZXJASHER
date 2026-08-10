@@ -3337,7 +3337,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1786373077730
   },
@@ -3405,5 +3405,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1786445115113
+  },
+  "wzgankbxgle4": {
+    "namaItem": "VORTEX BROADCAST BOT V2",
+    "isiItem": "VORTEX BROADCAST BOT V2.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzRqI-ohY6AGrjBMBx4rRmMMB4BCXAAC0iYAAiBsuVSpUKuFzr6LRzsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1786459604121
   }
 }
