@@ -3457,5 +3457,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1786525489253
+  },
+  "wzga3556uefw": {
+    "namaItem": "SC Surya crash",
+    "isiItem": "SC Surya crash.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBuPdqJOH9ZdSH69VSFaxyxH5oogNIKAACFigAApfiIVVh48O_K9EasDsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1786539912111
   }
 }
