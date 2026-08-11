@@ -3376,7 +3376,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1786416314953
   },
@@ -3418,5 +3418,31 @@
     "expired": false,
     "auto": true,
     "expireAt": 1786459604121
+  },
+  "wzgaztsal2bu": {
+    "namaItem": "VORTEX BROADCAST BOT V5",
+    "isiItem": "VORTEX BROADCAST BOT V5.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzNqI-ohBeaHXwEYC8V6GwYCOqp28wAC0SYAAiBsuVQ_Q2ScsB1Y_zsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1786496689176
+  },
+  "wzga4tbakgz8": {
+    "namaItem": "SC Surya crash",
+    "isiItem": "SC Surya crash.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBuPdqJOH9ZdSH69VSFaxyxH5oogNIKAACFigAApfiIVVh48O_K9EasDsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1786511089305
   }
 }
