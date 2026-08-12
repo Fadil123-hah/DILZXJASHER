@@ -3486,5 +3486,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1786554375849
+  },
+  "wzga8swc6lfj": {
+    "namaItem": "meregukAntiDepresanLagi",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBY_lqIV2GA9Cw0xw7S7xD8Lt8SYNvSgACAyIAArUcEFWv7b5bAaMNJTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1786581944525
   }
 }
