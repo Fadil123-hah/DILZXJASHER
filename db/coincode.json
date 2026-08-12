@@ -3968,7 +3968,9 @@
   "wzco3nq2s49r": {
     "amount": 30,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7646972959
+    ],
     "expired": false,
     "at": 1786517149540,
     "auto": true,
