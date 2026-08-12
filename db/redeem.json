@@ -3527,5 +3527,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1786611870614
+  },
+  "wzgajwzzmsrf": {
+    "namaItem": "𝖣𝗎𝗌𝗍𝗂𝗇𝖾𝗌 𝖥𝗈𝗋𝖽 𝟥 𝟢 𝖱𝗈𝗒𝖺𝗅𝗂𝗍𝗒",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBZAFqIV2GNbum4FCbHImqvgW8derBOgACCiIAArUcEFXsl8Ulgu2t7jsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1786626270701
   }
 }
