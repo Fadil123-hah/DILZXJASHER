@@ -1,4 +1,10 @@
 {
+  "1072730592": {
+    "username": "@marxxnyabobo",
+    "reason": "Melanggar aturan.",
+    "at": 1786536550285,
+    "by": 8509663776
+  },
   "1341370908": {
     "username": null,
     "reason": "Melanggar aturan.",
@@ -45,6 +51,12 @@
     "username": "@AboutAzmii",
     "reason": "Melanggar aturan.",
     "at": 1782823178759,
+    "by": 8509663776
+  },
+  "8374172221": {
+    "username": "@windosstore",
+    "reason": "Melanggar aturan.",
+    "at": 1786536541997,
     "by": 8509663776
   }
 }
