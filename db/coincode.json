@@ -3975,5 +3975,14 @@
     "at": 1786517149540,
     "auto": true,
     "expireAt": 1786603549540
+  },
+  "wzcoen948c7x": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1786532675568,
+    "auto": true,
+    "expireAt": 1786619075568
   }
 }
