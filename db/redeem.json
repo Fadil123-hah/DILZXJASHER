@@ -3483,7 +3483,7 @@
       7523355804,
       8860636120
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1786554375849
   },
@@ -3552,7 +3552,9 @@
       "file_id": "BQACAgUAAxkBAAEBVOBqHrrZ4xWEaiOCil2jOt67fvPhvAACSB4AAsGW8FRnG97aCfKh5jsE"
     },
     "maxClaim": 5,
-    "claimedBy": [],
+    "claimedBy": [
+      7646972959
+    ],
     "expired": false,
     "auto": true,
     "expireAt": 1786640691578
