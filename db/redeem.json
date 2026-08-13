@@ -3524,7 +3524,7 @@
     },
     "maxClaim": 5,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1786611870614
   },
@@ -3571,5 +3571,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1786655317235
+  },
+  "wzgat4bw46gf": {
+    "namaItem": "Dementor V12 Version Free",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBVN9qHrrZe-QQ7kfirTAyLaphTG_f_wACRx4AAsGW8FSmBCyjWnwgDDsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1786703150830
   }
 }
