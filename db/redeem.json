@@ -3540,7 +3540,7 @@
       7523355804,
       8860636120
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1786626270701
   },
@@ -3584,5 +3584,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1786703150830
+  },
+  "wzgafbu69fyy": {
+    "namaItem": "DEWA APK V3.7 (2)",
+    "isiItem": "Script dari user (@OpenRekber01)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBqeJqI_YP3zVyVxb7ourj45Bv3L0yewAChCAAAjq0IVUM8hY_0algfTsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1786717550902
   }
 }
