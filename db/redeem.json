@@ -3555,7 +3555,7 @@
     "claimedBy": [
       7646972959
     ],
-    "expired": false,
+    "expired": true,
     "auto": true,
     "expireAt": 1786640691578
   },
@@ -3597,5 +3597,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1786717550902
+  },
+  "wzgamvdl3zlz": {
+    "namaItem": "Zion MD",
+    "isiItem": "Zion-MD.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpxpqI-nt8wTVxJBGEii0p3BWDB3dlwACCxYAAln98FVH1u_6Z_CqUzsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1786731950922
   }
 }
