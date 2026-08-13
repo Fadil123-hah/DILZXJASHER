@@ -4002,7 +4002,7 @@
     "claimedBy": [
       7646972959
     ],
-    "expired": false,
+    "expired": true,
     "at": 1786561496471,
     "auto": true,
     "expireAt": 1786647896471
@@ -4040,5 +4040,14 @@
     "at": 1786638356550,
     "auto": true,
     "expireAt": 1786724756550
+  },
+  "wzco2vmrv79j": {
+    "amount": 75,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1786662587627,
+    "auto": true,
+    "expireAt": 1786748987627
   }
 }
