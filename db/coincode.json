@@ -4036,7 +4036,7 @@
     "amount": 50,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1786638356550,
     "auto": true,
     "expireAt": 1786724756550
