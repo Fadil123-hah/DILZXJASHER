@@ -4062,7 +4062,9 @@
   "wzco9lxfudle": {
     "amount": 100,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8429816974
+    ],
     "expired": false,
     "at": 1786693338170,
     "auto": true,
