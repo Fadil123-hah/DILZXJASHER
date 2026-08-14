@@ -4011,7 +4011,7 @@
     "amount": 10,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1786606928737,
     "auto": true,
     "expireAt": 1786693328737
@@ -4058,5 +4058,14 @@
     "at": 1786676987676,
     "auto": true,
     "expireAt": 1786763387676
+  },
+  "wzco9lxfudle": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1786693338170,
+    "auto": true,
+    "expireAt": 1786779738170
   }
 }
