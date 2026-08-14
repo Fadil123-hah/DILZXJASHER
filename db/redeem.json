@@ -3649,5 +3649,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1786786932026
+  },
+  "wzgapbwq4qc4": {
+    "namaItem": "botnet main",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBVOBqHrrZ4xWEaiOCil2jOt67fvPhvAACSB4AAsGW8FRnG97aCfKh5jsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1786801332079
   }
 }
