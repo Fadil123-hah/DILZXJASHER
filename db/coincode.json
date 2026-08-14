@@ -4080,5 +4080,14 @@
     "at": 1786707738361,
     "auto": true,
     "expireAt": 1786794138361
+  },
+  "wzcovn3dryv8": {
+    "amount": 75,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1786722138355,
+    "auto": true,
+    "expireAt": 1786808538355
   }
 }
