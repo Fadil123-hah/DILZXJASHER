@@ -4149,7 +4149,9 @@
   "wzcowgykteuu": {
     "amount": 100,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7780721803
+    ],
     "expired": false,
     "at": 1786890106902,
     "auto": true,
