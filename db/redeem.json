@@ -3718,5 +3718,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1786938168150
+  },
+  "wzga24pcqbtv": {
+    "namaItem": "SMSNumbers   2026 06 02T234737.340",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBY_xqIV2GLdoY7fuqrzefOVmxoqBuMQACBiIAArUcEFVjrb5K9NC6eDsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1786952894951
   }
 }
