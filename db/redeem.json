@@ -3837,5 +3837,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1787217270886
+  },
+  "wzgat5u8fnbu": {
+    "namaItem": "Hi I'M DEATH FLOWERS V13 (3)",
+    "isiItem": "Script dari user (@zakyynew)",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBVOZqHrrZPm8nZagzJjW6x767Nv42ZAACTR4AAsGW8FQRs_v1Wy0h_TsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1787232035807
   }
 }
