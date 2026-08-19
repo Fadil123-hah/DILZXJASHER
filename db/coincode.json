@@ -4214,7 +4214,9 @@
   "wzcorchg2va3": {
     "amount": 50,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7523355804
+    ],
     "expired": false,
     "at": 1787138076489,
     "auto": true,
@@ -4224,7 +4226,8 @@
     "amount": 100,
     "maxClaim": 70,
     "claimedBy": [
-      7954516739
+      7954516739,
+      7523355804
     ],
     "expired": false,
     "at": 1787152933038,
