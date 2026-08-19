@@ -4230,5 +4230,14 @@
     "at": 1787152933038,
     "auto": true,
     "expireAt": 1787239333038
+  },
+  "wzcon79jnyx8": {
+    "amount": 10,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1787167333037,
+    "auto": true,
+    "expireAt": 1787253733037
   }
 }
