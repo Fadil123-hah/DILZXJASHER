@@ -3850,5 +3850,18 @@
     "expired": false,
     "auto": true,
     "expireAt": 1787232035807
+  },
+  "wzgahvjcwqk5": {
+    "namaItem": "JASEB WANN",
+    "isiItem": "JASEB WANN.zip",
+    "media": {
+      "type": "document",
+      "file_id": "BQACAgUAAxkBAAEBpzxqI-ohXM59WAp1eQSt-QSM0cYjuQACdSEAAlBroVbdnvSHexz2ljsE"
+    },
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "auto": true,
+    "expireAt": 1787246527485
   }
 }
