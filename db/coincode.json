@@ -4223,7 +4223,9 @@
   "wzcovf46xq2e": {
     "amount": 100,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7954516739
+    ],
     "expired": false,
     "at": 1787152933038,
     "auto": true,
