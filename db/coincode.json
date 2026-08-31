@@ -74,7 +74,9 @@
   "wzco3qan6ptm": {
     "amount": 75,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7954516739
+    ],
     "expired": false,
     "at": 1788184117175,
     "auto": true,
