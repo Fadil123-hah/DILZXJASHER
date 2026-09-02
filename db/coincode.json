@@ -104,7 +104,7 @@
     "amount": 30,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1788227317178,
     "auto": true,
     "expireAt": 1788313717178
@@ -155,5 +155,14 @@
     "at": 1788299317179,
     "auto": true,
     "expireAt": 1788385717179
+  },
+  "wzcomsp94dxt": {
+    "amount": 50,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1788313717179,
+    "auto": true,
+    "expireAt": 1788400117179
   }
 }
