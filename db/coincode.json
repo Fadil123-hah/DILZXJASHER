@@ -142,7 +142,7 @@
     "claimedBy": [
       8867921751
     ],
-    "expired": false,
+    "expired": true,
     "at": 1788284917180,
     "auto": true,
     "expireAt": 1788371317180
