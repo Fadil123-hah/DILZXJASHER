@@ -188,7 +188,9 @@
   "wzco524q3x2n": {
     "amount": 50,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8136454866
+    ],
     "expired": false,
     "at": 1788356917181,
     "auto": true,
