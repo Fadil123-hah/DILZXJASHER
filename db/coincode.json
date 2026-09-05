@@ -283,7 +283,7 @@
     "amount": 75,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1788532990377,
     "auto": true,
     "expireAt": 1788619390377
@@ -334,5 +334,14 @@
     "at": 1788604990377,
     "auto": true,
     "expireAt": 1788691390377
+  },
+  "wzcopa7wcap2": {
+    "amount": 50,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1788619390378,
+    "auto": true,
+    "expireAt": 1788705790378
   }
 }
