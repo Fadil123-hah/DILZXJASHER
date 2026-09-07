@@ -439,7 +439,9 @@
   "wzco3dhw4spv": {
     "amount": 30,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8217679992
+    ],
     "expired": false,
     "at": 1788777790379,
     "auto": true,
