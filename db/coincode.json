@@ -461,7 +461,9 @@
   "wzco7kede4rb": {
     "amount": 75,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      600045234
+    ],
     "expired": false,
     "at": 1788793578334,
     "auto": true,
