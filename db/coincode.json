@@ -450,7 +450,9 @@
   "wzcom3sphflv": {
     "amount": 30,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8804168720
+    ],
     "expired": false,
     "at": 1788792190381,
     "auto": true,
