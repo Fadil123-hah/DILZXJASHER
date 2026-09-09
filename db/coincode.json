@@ -508,7 +508,7 @@
     "amount": 30,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1788891414565,
     "auto": true,
     "expireAt": 1788977814565
@@ -559,5 +559,14 @@
     "at": 1788963701198,
     "auto": true,
     "expireAt": 1789050101198
+  },
+  "wzcoz426n336": {
+    "amount": 75,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1788978101198,
+    "auto": true,
+    "expireAt": 1789064501198
   }
 }
