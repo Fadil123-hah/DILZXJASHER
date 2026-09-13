@@ -20,7 +20,9 @@
   "wzcorr27e59e": {
     "amount": 75,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8174751156
+    ],
     "expired": false,
     "at": 1789281880625,
     "auto": true,
