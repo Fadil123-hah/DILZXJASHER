@@ -71,7 +71,9 @@
   "wzcoq5nzj8s5": {
     "amount": 20,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8962520746
+    ],
     "expired": false,
     "at": 1789339398442,
     "auto": true,
