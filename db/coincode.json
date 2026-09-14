@@ -78,5 +78,14 @@
     "at": 1789339398442,
     "auto": true,
     "expireAt": 1789425798442
+  },
+  "wzcord9gyukc": {
+    "amount": 30,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1789344006557,
+    "auto": true,
+    "expireAt": 1789430406557
   }
 }
