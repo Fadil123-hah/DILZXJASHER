@@ -165,7 +165,9 @@
   "wzcodg84ykql": {
     "amount": 75,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7926451912
+    ],
     "expired": false,
     "at": 1789473607767,
     "auto": true,
