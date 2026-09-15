@@ -74,7 +74,7 @@
     "claimedBy": [
       8962520746
     ],
-    "expired": false,
+    "expired": true,
     "at": 1789339398442,
     "auto": true,
     "expireAt": 1789425798442
@@ -83,7 +83,7 @@
     "amount": 30,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1789344006557,
     "auto": true,
     "expireAt": 1789430406557
@@ -134,5 +134,14 @@
     "at": 1789416006562,
     "auto": true,
     "expireAt": 1789502406562
+  },
+  "wzcokgg2pg3f": {
+    "amount": 50,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1789430407764,
+    "auto": true,
+    "expireAt": 1789516807764
   }
 }
