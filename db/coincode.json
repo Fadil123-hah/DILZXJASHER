@@ -167,7 +167,7 @@
     "claimedBy": [
       7998463612
     ],
-    "expired": false,
+    "expired": true,
     "at": 1789459207766,
     "auto": true,
     "expireAt": 1789545607766
@@ -219,5 +219,14 @@
     "at": 1789531227809,
     "auto": true,
     "expireAt": 1789617627827
+  },
+  "wzco836krm82": {
+    "amount": 30,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1789545626119,
+    "auto": true,
+    "expireAt": 1789632026119
   }
 }
