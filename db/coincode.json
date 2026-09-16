@@ -232,7 +232,9 @@
   "wzcovgz79mq4": {
     "amount": 50,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8807829553
+    ],
     "expired": false,
     "at": 1789560026121,
     "auto": true,
