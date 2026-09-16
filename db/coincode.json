@@ -179,7 +179,7 @@
       7926451912,
       7998463612
     ],
-    "expired": false,
+    "expired": true,
     "at": 1789473607767,
     "auto": true,
     "expireAt": 1789560007767
@@ -228,5 +228,14 @@
     "at": 1789545626119,
     "auto": true,
     "expireAt": 1789632026119
+  },
+  "wzcovgz79mq4": {
+    "amount": 50,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1789560026121,
+    "auto": true,
+    "expireAt": 1789646426121
   }
 }
