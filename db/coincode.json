@@ -224,7 +224,7 @@
     "amount": 30,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1789545626119,
     "auto": true,
     "expireAt": 1789632026119
@@ -275,5 +275,14 @@
     "at": 1789617608249,
     "auto": true,
     "expireAt": 1789704008249
+  },
+  "wzcot7gdmdpp": {
+    "amount": 75,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1789632291593,
+    "auto": true,
+    "expireAt": 1789718691610
   }
 }
