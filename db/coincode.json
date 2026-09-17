@@ -297,7 +297,9 @@
   "wzcor75hfx4r": {
     "amount": 100,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8304160385
+    ],
     "expired": false,
     "at": 1789661139407,
     "auto": true,
