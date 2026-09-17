@@ -235,7 +235,7 @@
     "claimedBy": [
       8807829553
     ],
-    "expired": false,
+    "expired": true,
     "at": 1789560026121,
     "auto": true,
     "expireAt": 1789646426121
@@ -284,5 +284,14 @@
     "at": 1789632291593,
     "auto": true,
     "expireAt": 1789718691610
+  },
+  "wzcobegjl8bt": {
+    "amount": 50,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1789646744429,
+    "auto": true,
+    "expireAt": 1789733144481
   }
 }
