@@ -327,7 +327,9 @@
   "wzcovvlmha29": {
     "amount": 30,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8763044655
+    ],
     "expired": false,
     "at": 1789704011616,
     "auto": true,
