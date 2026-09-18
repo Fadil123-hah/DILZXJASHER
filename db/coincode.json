@@ -354,7 +354,9 @@
   "wzcom9ubwf69": {
     "amount": 75,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8961209424
+    ],
     "expired": false,
     "at": 1789732811616,
     "auto": true,
