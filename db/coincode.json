@@ -299,7 +299,8 @@
     "maxClaim": 70,
     "claimedBy": [
       8304160385,
-      8909836304
+      8909836304,
+      8763044655
     ],
     "expired": false,
     "at": 1789661139407,
@@ -309,7 +310,9 @@
   "wzco7gus7lq9": {
     "amount": 75,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8763044655
+    ],
     "expired": false,
     "at": 1789675539407,
     "auto": true,
@@ -318,7 +321,9 @@
   "wzcozmwpcqc3": {
     "amount": 50,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8763044655
+    ],
     "expired": false,
     "at": 1789689611614,
     "auto": true,
