@@ -336,7 +336,9 @@
   "wzcoy94y583t": {
     "amount": 75,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8763044655
+    ],
     "expired": false,
     "at": 1789718411617,
     "auto": true,
