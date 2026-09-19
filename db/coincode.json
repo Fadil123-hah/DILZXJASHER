@@ -392,7 +392,9 @@
   "wzcoxg4flfdv": {
     "amount": 10,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8260841223
+    ],
     "expired": false,
     "at": 1789790408071,
     "auto": true,
