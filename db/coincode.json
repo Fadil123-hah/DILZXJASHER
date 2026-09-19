@@ -408,5 +408,14 @@
     "at": 1789804808071,
     "auto": true,
     "expireAt": 1789891208071
+  },
+  "wzco5rs333gt": {
+    "amount": 30,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1789819208071,
+    "auto": true,
+    "expireAt": 1789905608071
   }
 }
