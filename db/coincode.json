@@ -412,7 +412,9 @@
   "wzco5rs333gt": {
     "amount": 30,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7523355804
+    ],
     "expired": false,
     "at": 1789819208071,
     "auto": true,
