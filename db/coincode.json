@@ -448,7 +448,9 @@
   "wzcolzppj8bl": {
     "amount": 50,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8673060885
+    ],
     "expired": false,
     "at": 1789876808283,
     "auto": true,
