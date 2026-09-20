@@ -439,7 +439,7 @@
       7523355804,
       1064940846
     ],
-    "expired": false,
+    "expired": true,
     "at": 1789848008071,
     "auto": true,
     "expireAt": 1789934408071
@@ -501,5 +501,14 @@
     "at": 1789920040192,
     "auto": true,
     "expireAt": 1790006440192
+  },
+  "wzco28hb3s2g": {
+    "amount": 20,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1789934440192,
+    "auto": true,
+    "expireAt": 1790020840192
   }
 }
