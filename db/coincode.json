@@ -480,7 +480,9 @@
   "wzco58wycn97": {
     "amount": 100,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      1064940846
+    ],
     "expired": false,
     "at": 1789905641376,
     "auto": true,
