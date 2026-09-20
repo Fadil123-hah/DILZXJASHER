@@ -505,7 +505,9 @@
   "wzco28hb3s2g": {
     "amount": 20,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      6405841968
+    ],
     "expired": false,
     "at": 1789934440192,
     "auto": true,
