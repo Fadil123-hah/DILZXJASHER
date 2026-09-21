@@ -477,7 +477,7 @@
       8374927844,
       1064940846
     ],
-    "expired": false,
+    "expired": true,
     "at": 1789891208283,
     "auto": true,
     "expireAt": 1789977608283
@@ -530,5 +530,14 @@
     "at": 1789963208423,
     "auto": true,
     "expireAt": 1790049608423
+  },
+  "wzcou95cfmtt": {
+    "amount": 30,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1789977608422,
+    "auto": true,
+    "expireAt": 1790064008422
   }
 }
