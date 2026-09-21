@@ -451,7 +451,7 @@
       7523355804,
       1064940846
     ],
-    "expired": false,
+    "expired": true,
     "at": 1789862408282,
     "auto": true,
     "expireAt": 1789948808282
@@ -512,5 +512,14 @@
     "at": 1789934440192,
     "auto": true,
     "expireAt": 1790020840192
+  },
+  "wzcomyqujcmr": {
+    "amount": 20,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1789948808421,
+    "auto": true,
+    "expireAt": 1790035208421
   }
 }
