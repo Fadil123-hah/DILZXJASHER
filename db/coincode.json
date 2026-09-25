@@ -770,7 +770,9 @@
   "wzco4j7kzd28": {
     "amount": 20,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      6405841968
+    ],
     "expired": false,
     "at": 1790354535247,
     "auto": true,
