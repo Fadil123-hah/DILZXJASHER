@@ -730,5 +730,14 @@
     "at": 1790280008339,
     "auto": true,
     "expireAt": 1790366408339
+  },
+  "wzcoaws89dak": {
+    "amount": 10,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1790294408063,
+    "auto": true,
+    "expireAt": 1790380808063
   }
 }
