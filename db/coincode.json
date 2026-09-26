@@ -840,5 +840,14 @@
     "at": 1790451409655,
     "auto": true,
     "expireAt": 1790537809655
+  },
+  "wzcoclhncuml": {
+    "amount": 75,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1790465809656,
+    "auto": true,
+    "expireAt": 1790552209656
   }
 }
