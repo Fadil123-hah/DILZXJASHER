@@ -822,5 +822,14 @@
     "at": 1790424008285,
     "auto": true,
     "expireAt": 1790510408285
+  },
+  "wzconcuw26tv": {
+    "amount": 75,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1790437009653,
+    "auto": true,
+    "expireAt": 1790523409653
   }
 }
