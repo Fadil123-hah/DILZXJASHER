@@ -753,7 +753,7 @@
     "amount": 75,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1790323208065,
     "auto": true,
     "expireAt": 1790409608065
@@ -804,5 +804,14 @@
     "at": 1790395208285,
     "auto": true,
     "expireAt": 1790481608285
+  },
+  "wzcoybuk26rf": {
+    "amount": 20,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1790409608286,
+    "auto": true,
+    "expireAt": 1790496008286
   }
 }
