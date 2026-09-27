@@ -809,7 +809,7 @@
     "amount": 20,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1790409608286,
     "auto": true,
     "expireAt": 1790496008286
