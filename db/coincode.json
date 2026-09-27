@@ -858,5 +858,14 @@
     "at": 1790467207773,
     "auto": true,
     "expireAt": 1790553607773
+  },
+  "wzcorr94thtv": {
+    "amount": 75,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1790481607775,
+    "auto": true,
+    "expireAt": 1790568007775
   }
 }
