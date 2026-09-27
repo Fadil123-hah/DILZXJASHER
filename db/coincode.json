@@ -800,7 +800,7 @@
     "amount": 100,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1790395208285,
     "auto": true,
     "expireAt": 1790481608285
