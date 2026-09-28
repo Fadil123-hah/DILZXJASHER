@@ -916,7 +916,9 @@
   "wzcolpcuwxjw": {
     "amount": 20,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      6712546790
+    ],
     "expired": false,
     "at": 1790568008334,
     "auto": true,
