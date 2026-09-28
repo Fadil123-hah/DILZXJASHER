@@ -845,7 +845,7 @@
     "amount": 75,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1790465809656,
     "auto": true,
     "expireAt": 1790552209656
@@ -854,7 +854,7 @@
     "amount": 75,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1790467207773,
     "auto": true,
     "expireAt": 1790553607773
@@ -903,5 +903,14 @@
     "at": 1790539207777,
     "auto": true,
     "expireAt": 1790625607777
+  },
+  "wzcogentf3kp": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1790553608332,
+    "auto": true,
+    "expireAt": 1790640008332
   }
 }
