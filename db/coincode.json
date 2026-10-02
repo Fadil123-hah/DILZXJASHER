@@ -51,5 +51,14 @@
     "at": 1790965935094,
     "auto": true,
     "expireAt": 1791052335094
+  },
+  "wzcowlmffr63": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1790980335094,
+    "auto": true,
+    "expireAt": 1791066735094
   }
 }
