@@ -1,9 +1,13 @@
 {
   "8614939176": {
-    "balance": 50,
+    "balance": 80,
     "referredBy": null
   },
   "8514372835": {
+    "balance": 0,
+    "referredBy": null
+  },
+  "8557553439": {
     "balance": 0,
     "referredBy": null
   }
