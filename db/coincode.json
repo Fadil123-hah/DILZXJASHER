@@ -16,5 +16,14 @@
     "at": 1790922735093,
     "auto": true,
     "expireAt": 1791009135093
+  },
+  "wzcoaevab86g": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1790937135094,
+    "auto": true,
+    "expireAt": 1791023535094
   }
 }
