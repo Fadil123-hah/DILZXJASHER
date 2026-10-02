@@ -7,5 +7,14 @@
     "at": 1790908335091,
     "auto": true,
     "expireAt": 1790994735091
+  },
+  "wzcog85jyske": {
+    "amount": 50,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1790922735093,
+    "auto": true,
+    "expireAt": 1791009135093
   }
 }
