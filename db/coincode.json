@@ -57,7 +57,7 @@
     "amount": 100,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1790980335094,
     "auto": true,
     "expireAt": 1791066735094
@@ -106,5 +106,14 @@
     "at": 1791052335096,
     "auto": true,
     "expireAt": 1791138735096
+  },
+  "wzcoam733nyy": {
+    "amount": 50,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1791066735095,
+    "auto": true,
+    "expireAt": 1791153135095
   }
 }
