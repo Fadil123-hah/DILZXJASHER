@@ -151,5 +151,14 @@
     "at": 1791103820239,
     "auto": true,
     "expireAt": 1791190220239
+  },
+  "wzcocc33v2ca": {
+    "amount": 75,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1791113235612,
+    "auto": true,
+    "expireAt": 1791199635612
   }
 }
