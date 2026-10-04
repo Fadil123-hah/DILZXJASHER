@@ -169,5 +169,14 @@
     "at": 1791113989841,
     "auto": true,
     "expireAt": 1791200389841
+  },
+  "wzcody4mj3uw": {
+    "amount": 20,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1791114401041,
+    "auto": true,
+    "expireAt": 1791200801041
   }
 }
