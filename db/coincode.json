@@ -264,7 +264,9 @@
   "wzconbd9xret": {
     "amount": 100,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      1711875956
+    ],
     "expired": false,
     "at": 1791244001046,
     "auto": true,
