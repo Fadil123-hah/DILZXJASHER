@@ -182,7 +182,9 @@
   "wzcohbekphjg": {
     "amount": 50,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      1195453188
+    ],
     "expired": false,
     "at": 1791128801043,
     "auto": true,
@@ -193,7 +195,8 @@
     "maxClaim": 70,
     "claimedBy": [
       8081451567,
-      6454083237
+      6454083237,
+      1195453188
     ],
     "expired": false,
     "at": 1791143201043,
@@ -203,7 +206,9 @@
   "wzcorbx6lhlz": {
     "amount": 20,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      1195453188
+    ],
     "expired": false,
     "at": 1791157601044,
     "auto": true,
