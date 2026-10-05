@@ -212,7 +212,9 @@
   "wzcozbhpeuf3": {
     "amount": 10,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      1195453188
+    ],
     "expired": false,
     "at": 1791172001044,
     "auto": true,
