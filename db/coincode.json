@@ -129,7 +129,7 @@
     "amount": 30,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1791095535096,
     "auto": true,
     "expireAt": 1791181935096
@@ -224,5 +224,14 @@
     "at": 1791172001044,
     "auto": true,
     "expireAt": 1791258401044
+  },
+  "wzcoutu73x44": {
+    "amount": 30,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1791186401044,
+    "auto": true,
+    "expireAt": 1791272801044
   }
 }
