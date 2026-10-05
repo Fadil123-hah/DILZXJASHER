@@ -156,7 +156,7 @@
     "amount": 75,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1791113235612,
     "auto": true,
     "expireAt": 1791199635612
@@ -165,7 +165,7 @@
     "amount": 100,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1791113989841,
     "auto": true,
     "expireAt": 1791200389841
@@ -174,7 +174,7 @@
     "amount": 20,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": false,
+    "expired": true,
     "at": 1791114401041,
     "auto": true,
     "expireAt": 1791200801041
@@ -233,5 +233,14 @@
     "at": 1791186401044,
     "auto": true,
     "expireAt": 1791272801044
+  },
+  "wzcoa94jftt2": {
+    "amount": 30,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1791200801044,
+    "auto": true,
+    "expireAt": 1791287201044
   }
 }
