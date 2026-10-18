@@ -1,284 +1,199 @@
 {
-  "wzco34xqkqg8": {
+  "coin 100": {
+    "amount": 100,
+    "maxClaim": 5,
+    "claimedBy": [
+      8254832892,
+      8201297938,
+      6259598730
+    ],
+    "expired": false,
+    "at": 1770730227928
+  },
+  "200 coin": {
+    "amount": 200,
+    "maxClaim": 5,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1770731280207
+  },
+  "coin_200": {
+    "amount": 200,
+    "maxClaim": 5,
+    "claimedBy": [
+      8254832892,
+      8201297938,
+      8228470299,
+      7921908338,
+      8555584059
+    ],
+    "expired": true,
+    "at": 1770731339912
+  },
+  "buatwalz": {
+    "amount": 1000,
+    "maxClaim": 1,
+    "claimedBy": [
+      8254832892
+    ],
+    "expired": true,
+    "at": 1770813084649
+  },
+  "walzzbaik": {
+    "amount": 450,
+    "maxClaim": 80,
+    "claimedBy": [
+      5553818775,
+      8228835651,
+      8201297938,
+      8254832892,
+      8516926902,
+      7540820327,
+      1151797816,
+      8215047074,
+      1082147129,
+      7670303161,
+      6956125205,
+      7503863580,
+      8509339417,
+      7259862136,
+      8151350721,
+      8592427512,
+      6442449177,
+      6127020744,
+      8213047962,
+      8430574643,
+      7711405045,
+      7198258427,
+      8027470551,
+      8144068642,
+      8355166220,
+      7267253416,
+      6406692403,
+      7098273651,
+      5066756883,
+      8178756754,
+      6656939294,
+      7911517141
+    ],
+    "expired": false,
+    "at": 1770816304367
+  },
+  "walzsukameysa": {
+    "amount": 260,
+    "maxClaim": 30,
+    "claimedBy": [
+      5553818775,
+      8213047962,
+      7711405045,
+      8430574643,
+      7198258427,
+      7098273651,
+      7540820327,
+      8178756754,
+      6656939294,
+      7911517141
+    ],
+    "expired": false,
+    "at": 1770819865694
+  },
+  "walzz": {
+    "amount": 500,
+    "maxClaim": 100,
+    "claimedBy": [
+      7670303161,
+      1151797816,
+      5553818775,
+      7198258427,
+      7571860648,
+      7711405045,
+      8027470551,
+      6428112905,
+      8228835651,
+      7540820327,
+      6127020744,
+      7618830104,
+      8144068642,
+      8226094992,
+      8592427512,
+      1082147129,
+      6442449177,
+      8213047962,
+      8118119361,
+      7267253416,
+      6406692403,
+      8430574643,
+      8556569410,
+      7080437973,
+      8244999735,
+      7098273651,
+      8178756754,
+      8201297938,
+      6656939294,
+      7911517141
+    ],
+    "expired": false,
+    "at": 1770825672203
+  },
+  "walzzkeren": {
+    "amount": 500,
+    "maxClaim": 50,
+    "claimedBy": [
+      8254832892,
+      8542493049,
+      1151797816,
+      5724321968,
+      8331505413,
+      7198258427,
+      8151350721,
+      7267253416,
+      6406692403,
+      8556569410,
+      6442449177,
+      8213047962,
+      6921519534,
+      6416853093,
+      7098273651,
+      7571860648,
+      5553818775,
+      6947979030,
+      8178756754,
+      6656939294,
+      7911517141
+    ],
+    "expired": false,
+    "at": 1770866500372
+  },
+  "300coin": {
+    "amount": 300,
+    "maxClaim": 20,
+    "claimedBy": [
+      7711405045,
+      8178756754,
+      7198258427,
+      6656939294,
+      5705956133,
+      8247109619
+    ],
+    "expired": false,
+    "at": 1771066613240
+  },
+  "wzcodq4d6flc": {
     "amount": 20,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": true,
-    "at": 1790908335091,
+    "expired": false,
+    "at": 1792361213266,
     "auto": true,
-    "expireAt": 1790994735091
+    "expireAt": 1792447613266
   },
-  "wzcog85jyske": {
-    "amount": 50,
-    "maxClaim": 70,
-    "claimedBy": [
-      8614939176
-    ],
-    "expired": true,
-    "at": 1790922735093,
-    "auto": true,
-    "expireAt": 1791009135093
-  },
-  "wzcoaevab86g": {
-    "amount": 100,
-    "maxClaim": 70,
-    "claimedBy": [
-      8614939176
-    ],
-    "expired": true,
-    "at": 1790937135094,
-    "auto": true,
-    "expireAt": 1791023535094
-  },
-  "wzco7twjvxtr": {
-    "amount": 50,
-    "maxClaim": 70,
-    "claimedBy": [
-      8614939176,
-      8888773860
-    ],
-    "expired": true,
-    "at": 1790951535095,
-    "auto": true,
-    "expireAt": 1791037935095
-  },
-  "wzcocm9bepc3": {
-    "amount": 30,
-    "maxClaim": 70,
-    "claimedBy": [
-      8614939176
-    ],
-    "expired": true,
-    "at": 1790965935094,
-    "auto": true,
-    "expireAt": 1791052335094
-  },
-  "wzcowlmffr63": {
-    "amount": 100,
-    "maxClaim": 70,
-    "claimedBy": [],
-    "expired": true,
-    "at": 1790980335094,
-    "auto": true,
-    "expireAt": 1791066735094
-  },
-  "wzco2dvkmflb": {
+  "wzco5f4b8xx7": {
     "amount": 10,
     "maxClaim": 70,
     "claimedBy": [],
-    "expired": true,
-    "at": 1790994735095,
-    "auto": true,
-    "expireAt": 1791081135095
-  },
-  "wzco8yvarwyl": {
-    "amount": 100,
-    "maxClaim": 70,
-    "claimedBy": [],
-    "expired": true,
-    "at": 1791009135096,
-    "auto": true,
-    "expireAt": 1791095535096
-  },
-  "wzcosjpbssz5": {
-    "amount": 10,
-    "maxClaim": 70,
-    "claimedBy": [],
-    "expired": true,
-    "at": 1791023535095,
-    "auto": true,
-    "expireAt": 1791109935095
-  },
-  "wzco7bep3xks": {
-    "amount": 50,
-    "maxClaim": 70,
-    "claimedBy": [],
-    "expired": true,
-    "at": 1791037935095,
-    "auto": true,
-    "expireAt": 1791124335095
-  },
-  "wzcoa7x4zu2z": {
-    "amount": 75,
-    "maxClaim": 70,
-    "claimedBy": [],
-    "expired": true,
-    "at": 1791052335096,
-    "auto": true,
-    "expireAt": 1791138735096
-  },
-  "wzcoam733nyy": {
-    "amount": 50,
-    "maxClaim": 70,
-    "claimedBy": [],
-    "expired": true,
-    "at": 1791066735095,
-    "auto": true,
-    "expireAt": 1791153135095
-  },
-  "wzcopmqreq5k": {
-    "amount": 75,
-    "maxClaim": 70,
-    "claimedBy": [],
-    "expired": true,
-    "at": 1791081135095,
-    "auto": true,
-    "expireAt": 1791167535095
-  },
-  "wzco2ughkvku": {
-    "amount": 30,
-    "maxClaim": 70,
-    "claimedBy": [],
-    "expired": true,
-    "at": 1791095535096,
-    "auto": true,
-    "expireAt": 1791181935096
-  },
-  "wzcocb8dq56e": {
-    "amount": 75,
-    "maxClaim": 70,
-    "claimedBy": [],
-    "expired": true,
-    "at": 1791101423745,
-    "auto": true,
-    "expireAt": 1791187823745
-  },
-  "wzcopmeq2673": {
-    "amount": 50,
-    "maxClaim": 70,
-    "claimedBy": [],
-    "expired": true,
-    "at": 1791103820239,
-    "auto": true,
-    "expireAt": 1791190220239
-  },
-  "wzcocc33v2ca": {
-    "amount": 75,
-    "maxClaim": 70,
-    "claimedBy": [],
-    "expired": true,
-    "at": 1791113235612,
-    "auto": true,
-    "expireAt": 1791199635612
-  },
-  "wzco8bnj3j3z": {
-    "amount": 100,
-    "maxClaim": 70,
-    "claimedBy": [],
-    "expired": true,
-    "at": 1791113989841,
-    "auto": true,
-    "expireAt": 1791200389841
-  },
-  "wzcody4mj3uw": {
-    "amount": 20,
-    "maxClaim": 70,
-    "claimedBy": [],
-    "expired": true,
-    "at": 1791114401041,
-    "auto": true,
-    "expireAt": 1791200801041
-  },
-  "wzcohbekphjg": {
-    "amount": 50,
-    "maxClaim": 70,
-    "claimedBy": [
-      1195453188
-    ],
-    "expired": true,
-    "at": 1791128801043,
-    "auto": true,
-    "expireAt": 1791215201043
-  },
-  "wzcof9gbpwf5": {
-    "amount": 75,
-    "maxClaim": 70,
-    "claimedBy": [
-      8081451567,
-      6454083237,
-      1195453188
-    ],
-    "expired": true,
-    "at": 1791143201043,
-    "auto": true,
-    "expireAt": 1791229601043
-  },
-  "wzcorbx6lhlz": {
-    "amount": 20,
-    "maxClaim": 70,
-    "claimedBy": [
-      1195453188
-    ],
-    "expired": true,
-    "at": 1791157601044,
-    "auto": true,
-    "expireAt": 1791244001044
-  },
-  "wzcozbhpeuf3": {
-    "amount": 10,
-    "maxClaim": 70,
-    "claimedBy": [
-      1195453188
-    ],
-    "expired": true,
-    "at": 1791172001044,
-    "auto": true,
-    "expireAt": 1791258401044
-  },
-  "wzcoutu73x44": {
-    "amount": 30,
-    "maxClaim": 70,
-    "claimedBy": [],
     "expired": false,
-    "at": 1791186401044,
+    "at": 1792361258731,
     "auto": true,
-    "expireAt": 1791272801044
-  },
-  "wzcoa94jftt2": {
-    "amount": 30,
-    "maxClaim": 70,
-    "claimedBy": [],
-    "expired": false,
-    "at": 1791200801044,
-    "auto": true,
-    "expireAt": 1791287201044
-  },
-  "wzco3dmpk4by": {
-    "amount": 50,
-    "maxClaim": 70,
-    "claimedBy": [],
-    "expired": false,
-    "at": 1791215201045,
-    "auto": true,
-    "expireAt": 1791301601045
-  },
-  "wzcornl3m4pw": {
-    "amount": 20,
-    "maxClaim": 70,
-    "claimedBy": [],
-    "expired": false,
-    "at": 1791229601046,
-    "auto": true,
-    "expireAt": 1791316001046
-  },
-  "wzconbd9xret": {
-    "amount": 100,
-    "maxClaim": 70,
-    "claimedBy": [
-      1711875956
-    ],
-    "expired": false,
-    "at": 1791244001046,
-    "auto": true,
-    "expireAt": 1791330401046
-  },
-  "wzcoybjemqqr": {
-    "amount": 30,
-    "maxClaim": 70,
-    "claimedBy": [],
-    "expired": false,
-    "at": 1791258401046,
-    "auto": true,
-    "expireAt": 1791344801046
+    "expireAt": 1792447658731
   }
 }
