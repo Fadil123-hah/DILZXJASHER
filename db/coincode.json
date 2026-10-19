@@ -245,7 +245,9 @@
   "wzco3muw4zvh": {
     "amount": 75,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8982966626
+    ],
     "expired": false,
     "at": 1792433258736,
     "auto": true,
