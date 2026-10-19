@@ -110,5 +110,53 @@
     "title": "TANJIRO SLAYER",
     "rarity": "epic",
     "when": "19/10/2026, 09.24.47"
+  },
+  {
+    "type": "gacha",
+    "userId": "8203529572",
+    "itemId": "BXCVSTMR",
+    "title": "ADD TOKEN DEATHNOTE",
+    "rarity": "epic",
+    "when": "19/10/2026, 09.25.02"
+  },
+  {
+    "type": "gacha",
+    "userId": "8203529572",
+    "itemId": "9HIZ7SB5",
+    "title": "MISTERI HOW ALL",
+    "rarity": "epic",
+    "when": "19/10/2026, 09.25.02"
+  },
+  {
+    "type": "gacha",
+    "userId": "8203529572",
+    "itemId": "BXCVSTMR",
+    "title": "ADD TOKEN DEATHNOTE",
+    "rarity": "epic",
+    "when": "19/10/2026, 09.25.03"
+  },
+  {
+    "type": "gacha",
+    "userId": "8203529572",
+    "itemId": "3H06R8LW",
+    "title": "BASE ADD TOKEN",
+    "rarity": "epic",
+    "when": "19/10/2026, 09.25.03"
+  },
+  {
+    "type": "gacha",
+    "userId": "8203529572",
+    "itemId": "unmapped_1XNZU093",
+    "title": "1XNZU093",
+    "rarity": "common",
+    "when": "19/10/2026, 09.25.04"
+  },
+  {
+    "type": "gacha",
+    "userId": "8203529572",
+    "itemId": "BO0YGSH9",
+    "title": "VORTEZ BVBOT V5",
+    "rarity": "common",
+    "when": "19/10/2026, 09.25.07"
   }
 ]
