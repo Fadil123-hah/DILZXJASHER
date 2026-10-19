@@ -201,7 +201,9 @@
   "wzcosw5kardt": {
     "amount": 50,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7206155881
+    ],
     "expired": false,
     "at": 1792375658734,
     "auto": true,
