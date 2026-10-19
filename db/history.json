@@ -302,5 +302,69 @@
     "title": "X FUXXO",
     "rarity": "epic",
     "when": "20/10/2026, 01.12.56"
+  },
+  {
+    "type": "gacha",
+    "userId": "8982966626",
+    "itemId": "1B4C8F1D",
+    "title": "BASE VOID",
+    "rarity": "uncommon",
+    "when": "20/10/2026, 01.12.59"
+  },
+  {
+    "type": "gacha",
+    "userId": "8982966626",
+    "itemId": "8VN33ONG",
+    "title": "BOT JAGA GB BY ZIFER ENC",
+    "rarity": "epic",
+    "when": "20/10/2026, 01.13.12"
+  },
+  {
+    "type": "gacha",
+    "userId": "8982966626",
+    "itemId": "OL82SNT5",
+    "title": "TEKS UNBAND NEW",
+    "rarity": "epic",
+    "when": "20/10/2026, 01.13.13"
+  },
+  {
+    "type": "gacha",
+    "userId": "8982966626",
+    "itemId": "unmapped_VIH2094A",
+    "title": "VIH2094A",
+    "rarity": "common",
+    "when": "20/10/2026, 01.13.13"
+  },
+  {
+    "type": "gacha",
+    "userId": "8982966626",
+    "itemId": "RKHMF5F1",
+    "title": "X FUXXO",
+    "rarity": "epic",
+    "when": "20/10/2026, 01.13.14"
+  },
+  {
+    "type": "gacha",
+    "userId": "8982966626",
+    "itemId": "unmapped_4OY3SWBX",
+    "title": "4OY3SWBX",
+    "rarity": "common",
+    "when": "20/10/2026, 01.13.14"
+  },
+  {
+    "type": "gacha",
+    "userId": "8982966626",
+    "itemId": "JO9GEJE5",
+    "title": "BASE UBOT V PANEL",
+    "rarity": "epic",
+    "when": "20/10/2026, 01.13.30"
+  },
+  {
+    "type": "gacha",
+    "userId": "8982966626",
+    "itemId": "8VN33ONG",
+    "title": "BOT JAGA GB BY ZIFER ENC",
+    "rarity": "epic",
+    "when": "20/10/2026, 01.13.30"
   }
 ]
