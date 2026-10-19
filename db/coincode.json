@@ -232,5 +232,14 @@
     "at": 1792404458740,
     "auto": true,
     "expireAt": 1792490858740
+  },
+  "wzcomvbl6578": {
+    "amount": 10,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1792418858737,
+    "auto": true,
+    "expireAt": 1792505258737
   }
 }
