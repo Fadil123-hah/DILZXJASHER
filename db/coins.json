@@ -39,6 +39,10 @@
     "balance": 0,
     "referredBy": null
   },
+  "2079334319": {
+    "balance": 0,
+    "referredBy": null
+  },
   "2090852101": {
     "balance": 100,
     "referredBy": null
@@ -416,7 +420,7 @@
     "referredBy": null
   },
   "8541924343": {
-    "balance": 70,
+    "balance": 65,
     "referredBy": null
   }
 }
