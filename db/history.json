@@ -78,5 +78,37 @@
     "title": "VIH2094A",
     "rarity": "common",
     "when": "19/10/2026, 09.22.03"
+  },
+  {
+    "type": "gacha",
+    "userId": "8203529572",
+    "itemId": "unmapped_4OY3SWBX",
+    "title": "4OY3SWBX",
+    "rarity": "common",
+    "when": "19/10/2026, 09.24.46"
+  },
+  {
+    "type": "gacha",
+    "userId": "8203529572",
+    "itemId": "unmapped_0QGTNX8D",
+    "title": "0QGTNX8D",
+    "rarity": "common",
+    "when": "19/10/2026, 09.24.46"
+  },
+  {
+    "type": "gacha",
+    "userId": "8203529572",
+    "itemId": "unmapped_G3FAD5BY",
+    "title": "G3FAD5BY",
+    "rarity": "common",
+    "when": "19/10/2026, 09.24.46"
+  },
+  {
+    "type": "gacha",
+    "userId": "8203529572",
+    "itemId": "ZS64CT6E",
+    "title": "TANJIRO SLAYER",
+    "rarity": "epic",
+    "when": "19/10/2026, 09.24.47"
   }
 ]
