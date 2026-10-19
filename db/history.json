@@ -22,5 +22,53 @@
     "title": "DEATHNOTE JAGA GB",
     "rarity": "legendary",
     "when": "19/10/2026, 09.20.32"
+  },
+  {
+    "type": "gacha",
+    "userId": "7206155881",
+    "itemId": "KR3O1UN7",
+    "title": "UBOT TERMUX",
+    "rarity": "uncommon",
+    "when": "19/10/2026, 09.21.19"
+  },
+  {
+    "type": "gacha",
+    "userId": "7206155881",
+    "itemId": "RWGBDNWV",
+    "title": "TEKS UNBAND V1",
+    "rarity": "epic",
+    "when": "19/10/2026, 09.21.36"
+  },
+  {
+    "type": "gacha",
+    "userId": "7206155881",
+    "itemId": "BO0YGSH9",
+    "title": "VORTEZ BVBOT V5",
+    "rarity": "common",
+    "when": "19/10/2026, 09.21.37"
+  },
+  {
+    "type": "gacha",
+    "userId": "7206155881",
+    "itemId": "TEWOP0LZ",
+    "title": "BOT JAGA GB BY ZIFER NO ENC",
+    "rarity": "legendary",
+    "when": "19/10/2026, 09.21.38"
+  },
+  {
+    "type": "gacha",
+    "userId": "7206155881",
+    "itemId": "YFQKDT2Y",
+    "title": "MT TO PERMA",
+    "rarity": "uncommon",
+    "when": "19/10/2026, 09.21.39"
+  },
+  {
+    "type": "gacha",
+    "userId": "7206155881",
+    "itemId": "GBXFIUGG",
+    "title": "DEATHNOTE JAGA GB",
+    "rarity": "legendary",
+    "when": "19/10/2026, 09.21.39"
   }
 ]
