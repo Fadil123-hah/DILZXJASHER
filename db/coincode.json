@@ -308,5 +308,14 @@
     "at": 1792519658740,
     "auto": true,
     "expireAt": 1792606058740
+  },
+  "wzco35thtf5f": {
+    "amount": 50,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1792534058740,
+    "auto": true,
+    "expireAt": 1792620458740
   }
 }
