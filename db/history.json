@@ -126,5 +126,29 @@
     "title": "TOOLS BYPAD",
     "rarity": "legendary",
     "when": "20/11/2026, 21.59.37"
+  },
+  {
+    "type": "gacha",
+    "userId": "8624054392",
+    "itemId": "9E2EDDYE",
+    "title": "BASE TAKASHI NO ENC",
+    "rarity": "epic",
+    "when": "20/11/2026, 22.00.31"
+  },
+  {
+    "type": "gacha",
+    "userId": "8624054392",
+    "itemId": "DGGDYTFR",
+    "title": "TEKS RESET OTP WA",
+    "rarity": "uncommon",
+    "when": "20/11/2026, 22.00.35"
+  },
+  {
+    "type": "gacha",
+    "userId": "8624054392",
+    "itemId": "Z1S8K17B",
+    "title": "CEK AJA",
+    "rarity": "uncommon",
+    "when": "20/11/2026, 22.00.37"
   }
 ]
