@@ -150,5 +150,13 @@
     "title": "CEK AJA",
     "rarity": "uncommon",
     "when": "20/11/2026, 22.00.37"
+  },
+  {
+    "type": "gacha",
+    "userId": "8624054392",
+    "itemId": "4LA8TPND",
+    "title": "NEZUKO DEVIL",
+    "rarity": "epic",
+    "when": "20/11/2026, 22.00.51"
   }
 ]
