@@ -204,5 +204,14 @@
     "at": 1795161652766,
     "auto": true,
     "expireAt": 1795248052766
+  },
+  "wzcolg5s767k": {
+    "amount": 100,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1795161792099,
+    "auto": true,
+    "expireAt": 1795248192099
   }
 }
