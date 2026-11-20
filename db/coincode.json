@@ -244,7 +244,9 @@
   "wzco923nu4h2": {
     "amount": 75,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8624054392
+    ],
     "expired": false,
     "at": 1795162156419,
     "auto": true,
