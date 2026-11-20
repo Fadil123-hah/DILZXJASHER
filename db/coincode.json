@@ -240,5 +240,14 @@
     "at": 1795162057811,
     "auto": true,
     "expireAt": 1795248457811
+  },
+  "wzco923nu4h2": {
+    "amount": 75,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1795162156419,
+    "auto": true,
+    "expireAt": 1795248556419
   }
 }
