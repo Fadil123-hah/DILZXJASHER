@@ -78,5 +78,45 @@
     "title": "VORTEZ BVBOT V5",
     "rarity": "common",
     "when": "20/11/2026, 20.32.47"
+  },
+  {
+    "type": "gacha",
+    "userId": "8624054392",
+    "itemId": "unmapped_EUENS5TD",
+    "title": "EUENS5TD",
+    "rarity": "common",
+    "when": "20/11/2026, 20.32.59"
+  },
+  {
+    "type": "gacha",
+    "userId": "8624054392",
+    "itemId": "KR3O1UN7",
+    "title": "UBOT TERMUX",
+    "rarity": "uncommon",
+    "when": "20/11/2026, 20.33.08"
+  },
+  {
+    "type": "gacha",
+    "userId": "8624054392",
+    "itemId": "KR3O1UN7",
+    "title": "UBOT TERMUX",
+    "rarity": "uncommon",
+    "when": "20/11/2026, 20.33.13"
+  },
+  {
+    "type": "gacha",
+    "userId": "8624054392",
+    "itemId": "BXCVSTMR",
+    "title": "ADD TOKEN DEATHNOTE",
+    "rarity": "epic",
+    "when": "20/11/2026, 20.33.25"
+  },
+  {
+    "type": "gacha",
+    "userId": "8624054392",
+    "itemId": "CBZN4W5K",
+    "title": "FOUR REVENGE CRASHER",
+    "rarity": "uncommon",
+    "when": "20/11/2026, 20.33.40"
   }
 ]
