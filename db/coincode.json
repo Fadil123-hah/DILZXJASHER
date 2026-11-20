@@ -226,7 +226,9 @@
   "wzco5bpg9fg4": {
     "amount": 20,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8624054392
+    ],
     "expired": false,
     "at": 1795161989653,
     "auto": true,
