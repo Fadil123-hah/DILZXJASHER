@@ -336,7 +336,9 @@
   "wzcols3pxxn2": {
     "amount": 75,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      7911215243
+    ],
     "expired": false,
     "at": 1795282893547,
     "auto": true,
