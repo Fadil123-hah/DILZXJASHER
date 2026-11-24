@@ -182,5 +182,13 @@
     "title": "BASE ADD TOKEN",
     "rarity": "epic",
     "when": "25/11/2026, 03.31.19"
+  },
+  {
+    "type": "gacha",
+    "userId": "1420204088",
+    "itemId": "5AFA2OL6",
+    "title": "FUNC V2",
+    "rarity": "common",
+    "when": "25/11/2026, 03.31.53"
   }
 ]
