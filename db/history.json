@@ -166,5 +166,21 @@
     "title": "X FOXXO",
     "rarity": "uncommon",
     "when": "22/11/2026, 21.01.43"
+  },
+  {
+    "type": "gacha",
+    "userId": "1420204088",
+    "itemId": "KR3O1UN7",
+    "title": "UBOT TERMUX",
+    "rarity": "uncommon",
+    "when": "25/11/2026, 03.31.10"
+  },
+  {
+    "type": "gacha",
+    "userId": "1420204088",
+    "itemId": "3H06R8LW",
+    "title": "BASE ADD TOKEN",
+    "rarity": "epic",
+    "when": "25/11/2026, 03.31.19"
   }
 ]
