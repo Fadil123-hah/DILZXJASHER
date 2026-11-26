@@ -27,5 +27,14 @@
     "message": "buka anj",
     "status": "pending",
     "at": 1795699768473
+  },
+  {
+    "id": 1795699973179,
+    "userId": 1468711101,
+    "username": "@MaklowhAnj",
+    "reasonBan": "Melanggar aturan.",
+    "message": "u",
+    "status": "pending",
+    "at": 1795699973179
   }
 ]
