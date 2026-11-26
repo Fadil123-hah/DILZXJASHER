@@ -1,9 +1,415 @@
 {
   "8509663776": {
-    "active": false,
+    "active": true,
     "jedaMinutes": 50,
-    "messageId": null,
-    "snapshot": null,
+    "sourceChatId": 8509663776,
+    "messageId": 1511541,
+    "snapshot": {
+      "source_chat_id": 8509663776,
+      "source_message_id": 1511541,
+      "kind": "rich",
+      "text": null,
+      "caption": null,
+      "rich_message": {
+        "blocks": [
+          {
+            "type": "heading",
+            "text": [
+              {
+                "type": "custom_emoji",
+                "custom_emoji_id": "6098421155897545579",
+                "alternative_text": "📢"
+              },
+              " ",
+              {
+                "type": "bold",
+                "text": "Open Admin Channel"
+              }
+            ],
+            "size": 3
+          },
+          {
+            "type": "table",
+            "cells": [
+              [
+                {
+                  "text": {
+                    "type": "bold",
+                    "text": "Info"
+                  },
+                  "is_header": true,
+                  "align": "center",
+                  "valign": "middle"
+                },
+                {
+                  "text": {
+                    "type": "bold",
+                    "text": "Detail"
+                  },
+                  "is_header": true,
+                  "align": "center",
+                  "valign": "middle"
+                }
+              ],
+              [
+                {
+                  "text": {
+                    "type": "bold",
+                    "text": "Channel"
+                  },
+                  "align": "left",
+                  "valign": "middle"
+                },
+                {
+                  "text": [
+                    {
+                      "type": "mention",
+                      "text": {
+                        "type": "bold",
+                        "text": "@AotJasher"
+                      },
+                      "username": "AotJasher"
+                    },
+                    " ",
+                    {
+                      "type": "custom_emoji",
+                      "custom_emoji_id": "5251203410396458957",
+                      "alternative_text": "🛡"
+                    }
+                  ],
+                  "align": "left",
+                  "valign": "middle"
+                }
+              ],
+              [
+                {
+                  "text": {
+                    "type": "bold",
+                    "text": "Subs"
+                  },
+                  "align": "left",
+                  "valign": "middle"
+                },
+                {
+                  "text": [
+                    {
+                      "type": "bold",
+                      "text": "720+"
+                    },
+                    " ",
+                    {
+                      "type": "custom_emoji",
+                      "custom_emoji_id": "5398052521249881872",
+                      "alternative_text": "📊"
+                    }
+                  ],
+                  "align": "left",
+                  "valign": "middle"
+                }
+              ],
+              [
+                {
+                  "text": {
+                    "type": "bold",
+                    "text": "Price"
+                  },
+                  "align": "left",
+                  "valign": "middle"
+                },
+                {
+                  "text": [
+                    {
+                      "type": "bold",
+                      "text": "6.000"
+                    },
+                    " ",
+                    {
+                      "type": "custom_emoji",
+                      "custom_emoji_id": "5409048419211682843",
+                      "alternative_text": "💵"
+                    }
+                  ],
+                  "align": "left",
+                  "valign": "middle"
+                }
+              ],
+              [
+                {
+                  "text": {
+                    "type": "bold",
+                    "text": "Stok"
+                  },
+                  "align": "left",
+                  "valign": "middle"
+                },
+                {
+                  "text": [
+                    {
+                      "type": "bold",
+                      "text": "3"
+                    },
+                    " ",
+                    {
+                      "type": "custom_emoji",
+                      "custom_emoji_id": "6271271702408204490",
+                      "alternative_text": "🟡"
+                    }
+                  ],
+                  "align": "left",
+                  "valign": "middle"
+                }
+              ]
+            ],
+            "is_bordered": true,
+            "is_striped": true
+          },
+          {
+            "type": "heading",
+            "text": [
+              {
+                "type": "custom_emoji",
+                "custom_emoji_id": "5411301743738777449",
+                "alternative_text": "🤍"
+              },
+              " ",
+              {
+                "type": "bold",
+                "text": "Minat? Chat Di Bawah"
+              }
+            ],
+            "size": 4
+          },
+          {
+            "type": "table",
+            "cells": [
+              [
+                {
+                  "text": {
+                    "type": "bold",
+                    "text": "Layanan"
+                  },
+                  "is_header": true,
+                  "align": "center",
+                  "valign": "middle"
+                },
+                {
+                  "text": {
+                    "type": "bold",
+                    "text": "Kontak"
+                  },
+                  "is_header": true,
+                  "align": "center",
+                  "valign": "middle"
+                }
+              ],
+              [
+                {
+                  "text": [
+                    {
+                      "type": "custom_emoji",
+                      "custom_emoji_id": "6253453459350100040",
+                      "alternative_text": "👑"
+                    },
+                    " ",
+                    {
+                      "type": "bold",
+                      "text": "Telegram"
+                    }
+                  ],
+                  "align": "left",
+                  "valign": "middle"
+                },
+                {
+                  "text": {
+                    "type": "mention",
+                    "text": {
+                      "type": "bold",
+                      "text": "@PavaeIDurov"
+                    },
+                    "username": "PavaeIDurov"
+                  },
+                  "align": "left",
+                  "valign": "middle"
+                }
+              ],
+              [
+                {
+                  "text": [
+                    {
+                      "type": "custom_emoji",
+                      "custom_emoji_id": "5319287627109644494",
+                      "alternative_text": "🤩"
+                    },
+                    " ",
+                    {
+                      "type": "bold",
+                      "text": "Limit Bot"
+                    }
+                  ],
+                  "align": "left",
+                  "valign": "middle"
+                },
+                {
+                  "text": {
+                    "type": "mention",
+                    "text": {
+                      "type": "bold",
+                      "text": "@DilzxJava_bot"
+                    },
+                    "username": "DilzxJava_bot"
+                  },
+                  "align": "left",
+                  "valign": "middle"
+                }
+              ],
+              [
+                {
+                  "text": [
+                    {
+                      "type": "custom_emoji",
+                      "custom_emoji_id": "5215668805199473901",
+                      "alternative_text": "📣"
+                    },
+                    " ",
+                    {
+                      "type": "bold",
+                      "text": "Channel"
+                    }
+                  ],
+                  "align": "left",
+                  "valign": "middle"
+                },
+                {
+                  "text": {
+                    "type": "mention",
+                    "text": {
+                      "type": "bold",
+                      "text": "@Dilzxxyv"
+                    },
+                    "username": "Dilzxxyv"
+                  },
+                  "align": "left",
+                  "valign": "middle"
+                }
+              ],
+              [
+                {
+                  "text": [
+                    {
+                      "type": "custom_emoji",
+                      "custom_emoji_id": "5287684458881756303",
+                      "alternative_text": "🤖"
+                    },
+                    " ",
+                    {
+                      "type": "bold",
+                      "text": "Ubot Free"
+                    }
+                  ],
+                  "align": "left",
+                  "valign": "middle"
+                },
+                {
+                  "text": {
+                    "type": "mention",
+                    "text": {
+                      "type": "bold",
+                      "text": "@DilzxUserBot"
+                    },
+                    "username": "DilzxUserBot"
+                  },
+                  "align": "left",
+                  "valign": "middle"
+                }
+              ],
+              [
+                {
+                  "text": [
+                    {
+                      "type": "custom_emoji",
+                      "custom_emoji_id": "6041705726206808304",
+                      "alternative_text": "🚀"
+                    },
+                    " ",
+                    {
+                      "type": "bold",
+                      "text": "Jaseb Free"
+                    }
+                  ],
+                  "align": "left",
+                  "valign": "middle"
+                },
+                {
+                  "text": {
+                    "type": "mention",
+                    "text": {
+                      "type": "bold",
+                      "text": "@AotJasher_Bot"
+                    },
+                    "username": "AotJasher_Bot"
+                  },
+                  "align": "left",
+                  "valign": "middle"
+                }
+              ],
+              [
+                {
+                  "text": [
+                    {
+                      "type": "custom_emoji",
+                      "custom_emoji_id": "6098421155897545579",
+                      "alternative_text": "📢"
+                    },
+                    " ",
+                    {
+                      "type": "bold",
+                      "text": "Channel"
+                    }
+                  ],
+                  "align": "left",
+                  "valign": "middle"
+                },
+                {
+                  "text": {
+                    "type": "mention",
+                    "text": {
+                      "type": "bold",
+                      "text": "@AotJasher"
+                    },
+                    "username": "AotJasher"
+                  },
+                  "align": "left",
+                  "valign": "middle"
+                }
+              ]
+            ],
+            "is_bordered": true,
+            "is_striped": true
+          },
+          {
+            "type": "footer",
+            "text": [
+              {
+                "type": "custom_emoji",
+                "custom_emoji_id": "5247208661314461569",
+                "alternative_text": "🙂‍↕️"
+              },
+              " Ubot By ",
+              {
+                "type": "mention",
+                "text": "@DilzxUserBot",
+                "username": "DilzxUserBot"
+              },
+              " V3"
+            ]
+          }
+        ]
+      },
+      "has_spoiler": false,
+      "show_caption_above_media": false,
+      "file_id": null,
+      "media_type": null
+    },
     "lastSent": 0,
     "totalRuns": 0
   }
