@@ -607,7 +607,9 @@
   "wzcohv7djpr6": {
     "amount": 100,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8483099296
+    ],
     "expired": false,
     "at": 1795686093572,
     "auto": true,
