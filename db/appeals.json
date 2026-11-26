@@ -18,5 +18,14 @@
     "status": "approved",
     "at": 1771711550902,
     "decidedAt": 1771711556868
+  },
+  {
+    "id": 1795699768473,
+    "userId": 1468711101,
+    "username": "@MaklowhAnj",
+    "reasonBan": "Melanggar aturan.",
+    "message": "buka anj",
+    "status": "pending",
+    "at": 1795699768473
   }
 ]
