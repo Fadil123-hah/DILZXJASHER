@@ -520,22 +520,13 @@
     "auto": true,
     "expireAt": 1795780264833
   },
-  "wzcozvbsegbp": {
-    "amount": 100,
+  "wzcohbkz6p9e": {
+    "amount": 10,
     "maxClaim": 70,
     "claimedBy": [],
     "expired": false,
-    "at": 1795701378626,
+    "at": 1795708264834,
     "auto": true,
-    "expireAt": 1795787778626
-  },
-  "wzcoeb6jedny": {
-    "amount": 100,
-    "maxClaim": 70,
-    "claimedBy": [],
-    "expired": false,
-    "at": 1795703086719,
-    "auto": true,
-    "expireAt": 1795789486719
+    "expireAt": 1795794664834
   }
 }
