@@ -826,45 +826,5 @@
     },
     "lastSent": 1795753002300,
     "totalRuns": 19
-  },
-  "7986300382": {
-    "active": true,
-    "jedaMinutes": 15,
-    "sourceChatId": 7986300382,
-    "messageId": 1558066,
-    "snapshot": {
-      "source_chat_id": 7986300382,
-      "source_message_id": 1558066,
-      "kind": "text",
-      "text": "MARKET RYUUKA V1\nhttps://chat.whatsapp.com/Knt9WciUNzG0fKhLdFbW9a?s=cl&p=a&iam=2\nMARKET RYUUKA V2\nhttps://chat.whatsapp.com/JbfxvCnZKOr4EBJ4v1oI2M?s=cl&p=a&iam=2 SUKK SINI SUNG SOLD\nhttps://whatsapp.com/channel/0029Vb9EvDKDJ6H6a2Idbl07\nSL STOK MURMER",
-      "caption": null,
-      "entities": [
-        {
-          "offset": 17,
-          "length": 63,
-          "type": "url"
-        },
-        {
-          "offset": 98,
-          "length": 63,
-          "type": "url"
-        },
-        {
-          "offset": 182,
-          "length": 53,
-          "type": "url"
-        }
-      ],
-      "rich_message": null,
-      "has_spoiler": false,
-      "show_caption_above_media": false,
-      "link_preview_options": {
-        "url": "https://chat.whatsapp.com/Knt9WciUNzG0fKhLdFbW9a?iam=2&p=a&s=cl"
-      },
-      "file_id": null,
-      "media_type": null
-    },
-    "lastSent": 0,
-    "totalRuns": 0
   }
 }
