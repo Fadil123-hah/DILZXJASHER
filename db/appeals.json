@@ -36,5 +36,15 @@
     "message": "u",
     "status": "pending",
     "at": 1795699973179
+  },
+  {
+    "id": 1795755651178,
+    "userId": 1468711101,
+    "username": "@MaklowhAnj",
+    "reasonBan": "Melanggar aturan.",
+    "message": "bokep",
+    "status": "approved",
+    "at": 1795755651178,
+    "decidedAt": 1795755673510
   }
 ]
