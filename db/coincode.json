@@ -564,5 +564,14 @@
     "at": 1795746286732,
     "auto": true,
     "expireAt": 1795832686732
+  },
+  "wzcopnkrrbnu": {
+    "amount": 30,
+    "maxClaim": 70,
+    "claimedBy": [],
+    "expired": false,
+    "at": 1795757141351,
+    "auto": true,
+    "expireAt": 1795843541351
   }
 }
