@@ -1,7 +1,7 @@
 {
   "1468711101": {
     "active": true,
-    "jedaMinutes": 40,
+    "jedaMinutes": 5,
     "sourceChatId": 1468711101,
     "messageId": 1511659,
     "snapshot": {
@@ -410,8 +410,8 @@
       "file_id": null,
       "media_type": null
     },
-    "lastSent": 1795758816500,
-    "totalRuns": 5
+    "lastSent": 1795759626505,
+    "totalRuns": 6
   },
   "8509663776": {
     "active": false,
