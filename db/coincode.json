@@ -568,7 +568,9 @@
   "wzcopnkrrbnu": {
     "amount": 30,
     "maxClaim": 70,
-    "claimedBy": [],
+    "claimedBy": [
+      8863871314
+    ],
     "expired": false,
     "at": 1795757141351,
     "auto": true,
