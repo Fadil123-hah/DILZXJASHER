@@ -828,7 +828,7 @@
     "totalRuns": 19
   },
   "7986300382": {
-    "active": false,
+    "active": true,
     "jedaMinutes": 15,
     "sourceChatId": 7986300382,
     "messageId": 1591691,
