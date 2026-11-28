@@ -410,8 +410,8 @@
       "file_id": null,
       "media_type": null
     },
-    "lastSent": 1795843477380,
-    "totalRuns": 108
+    "lastSent": 1795844287392,
+    "totalRuns": 109
   },
   "8509663776": {
     "active": false,
@@ -826,45 +826,5 @@
     },
     "lastSent": 1795753002300,
     "totalRuns": 19
-  },
-  "7986300382": {
-    "active": true,
-    "jedaMinutes": 15,
-    "sourceChatId": 7986300382,
-    "messageId": 1591691,
-    "snapshot": {
-      "source_chat_id": 7986300382,
-      "source_message_id": 1591691,
-      "kind": "text",
-      "text": "JB REXX ALLGAME V1\nhttps://chat.whatsapp.com/Knt9WciUNzG0fKhLdFbW9a?s=cl&p=a&iam=2\nJB REXX ALLGAME V2\nhttps://chat.whatsapp.com/DUnPgeFH6ByKs4EFOuvz7y?s=cl&p=a&iam=2 SUKK SINI SUNG SOLD\nhttps://whatsapp.com/channel/0029Vb9EvDKDJ6H6a2Idbl07\nSL STOK MURMER",
-      "caption": null,
-      "entities": [
-        {
-          "offset": 19,
-          "length": 63,
-          "type": "url"
-        },
-        {
-          "offset": 102,
-          "length": 63,
-          "type": "url"
-        },
-        {
-          "offset": 186,
-          "length": 53,
-          "type": "url"
-        }
-      ],
-      "rich_message": null,
-      "has_spoiler": false,
-      "show_caption_above_media": false,
-      "link_preview_options": {
-        "url": "https://chat.whatsapp.com/Knt9WciUNzG0fKhLdFbW9a?iam=2&p=a&s=cl"
-      },
-      "file_id": null,
-      "media_type": null
-    },
-    "lastSent": 0,
-    "totalRuns": 0
   }
 }
